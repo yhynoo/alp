@@ -1,0 +1,3075 @@
+[
+    {
+        "designation": "CUSAS 01, 005",
+        "accountType": [
+            "cereals"
+        ],
+        "transcriptionCasesNoNumbers": "MA2 SZE\n",
+        "transcriptionCasesNumbers": "N45 N14 MA2 SZE\nN34"
+    },
+    {
+        "designation": "CUSAS 01, 013",
+        "accountType": [
+            "humans"
+        ],
+        "transcriptionCasesNoNumbers": "BAR\n\nMUD\nEN HI U2\nEN PAP\n\nGISZ SI TAG\n\n",
+        "transcriptionCasesNumbers": "N01 BAR\n\nN34 MUD\nN14 EN HI U2\nN34 EN PAP\n\nN01 GISZ SI TAG\n\n"
+    },
+    {
+        "designation": "CUSAS 01, 014",
+        "accountType": [
+            "humans"
+        ],
+        "transcriptionCasesNoNumbers": "ZATU725\n\n\nSZU\n\n\n\n\n\nTAK4\n\n\n\n\nPAP\nPAP\nKASKAL\nZATU659\nSZU\nGI SZU\nKASZ TAK4\n\nNUNUZ SAL\nMUD PAP\n\nDARA4 SI\nURUDU\nNAM2\nSUHUR\nPAP ZATU751\nKID\n\nKI\n\nE2\nE2x1N57@t\nDU KU3\n\nGIR3@g\nA ME\nSAL SANGA\nPAP\nGAL UTUL\nNIMGIR TAR",
+        "transcriptionCasesNumbers": "N01 ZATU725\nN01\nN01\nN01 SZU\nN01\nN01\n\n\nN01\nN01 TAK4\nN01\nN01\nN01\nN01\nN01 PAP\nN01 PAP\nN01 N57 KASKAL\nN01 ZATU659\nN01 SZU\nN01 GI SZU\nN01 KASZ TAK4\nN01\nN01 NUNUZ SAL\nN01 MUD PAP\nN01\nN01 DARA4 SI\nN01 URUDU\nN01 NAM2\nN01 SUHUR\nN01 PAP ZATU751\nN01 KID\n\nN01 KI\nN01\nN01 E2\nN01 E2x1N57@t\nN01 DU KU3\nN01\nN01 GIR3@g\nN01 A ME\nN01 N57 SAL SANGA\nN14 N01 PAP\nN14 N01 GAL UTUL\nN01 N14 NIMGIR TAR"
+    },
+    {
+        "designation": "CUSAS 01, 015",
+        "accountType": [
+            "humans"
+        ],
+        "transcriptionCasesNoNumbers": "ERIM KA2\nKA2 SZU\nDU ZATU737xBUR\nKA2 URU ZATU659\nKA2\nKA2\n6N57.KU3\nGISZ3 KA2\nKA2\nBA KA2 NI",
+        "transcriptionCasesNumbers": "N14 N34 ERIM KA2\nN01 N14 KA2 SZU\nN34 DU ZATU737xBUR\nN34 KA2 URU ZATU659\nN34 KA2\nN34 KA2\nN14 N51 N57.KU3\nN34 N14 GISZ3 KA2\nKA2\nN48 N01 N14 N34 BA KA2 NI"
+    },
+    {
+        "designation": "CUSAS 01, 017",
+        "accountType": [
+            "humans"
+        ],
+        "transcriptionCasesNoNumbers": "\nDAR PAP\nNAGA\nSAL\n\nEN\nAN NU11\n\n\nLAL2\nUR",
+        "transcriptionCasesNumbers": "\nN01 DAR PAP\nN01 NAGA\nSAL\n\nN04 N01 EN\nN01 AN NU11\n\n\nN01 LAL2\nN01 UR"
+    },
+    {
+        "designation": "CUSAS 01, 018",
+        "accountType": [
+            "humans"
+        ],
+        "transcriptionCasesNoNumbers": "EN NE\nGESZTU SAG\nME SI\nKISAL KU6\nMUD RAD\nAZ\nLUGAL\nDAR\nSZU SZU\nA KU6 ZATU788\nBAR USZ\nA SUHUR\nKU6 UH3\nGISZxSZU2 KASKAL\nASAR GISZxSZU2 SZU\nBU NAM2 PAP\nDAH\nSAL SZU\nSZAH2\nBA NI\nEN PAP\nBU+DU6\nBU E2\nSAL SZU\nASAR HI\nEN NA\nSAL SZU\nSZUBUR\nANSZE UDU\nUSZ\nGIR3@g TI@t\nBA EN ZATU647\nBAHAR2\nZATU773\nASAR\n\nHI ZATU681\nE2 EN\nZATU752\nDAR PAP\nE2 KI\nBAR URI3\nGA LA2\nDARA3xKAR2\nENDIB\n\n\nGI\nBU NAM2 PAP\nA DU\nMU SZU TUR\nUR\nSAG ZATU809\n1N57.SZAH2\nME NUN SZE3\n\n\nUDU\n3N57.PIRIG ZATU718\nSANGA\nUB",
+        "transcriptionCasesNumbers": "EN NE\nGESZTU SAG\nME SI\nKISAL KU6\nMUD RAD\nN57 AZ\nLUGAL\nDAR\nSZU SZU\nA KU6 ZATU788\nN57 BAR USZ\nA SUHUR\nKU6 UH3\nGISZxSZU2 KASKAL\nASAR GISZxSZU2 SZU\nBU NAM2 PAP\nDAH\nSAL SZU\nSZAH2\nBA NI\nEN PAP\nBU+DU6\nBU E2\nSAL SZU\nASAR HI\nEN NA\nSAL SZU\nSZUBUR\nANSZE UDU\nUSZ\nGIR3@g TI@t\nBA EN ZATU647\nBAHAR2\nZATU773\nASAR\n\nHI ZATU681\nE2 EN\nZATU752\nDAR PAP\nE2 KI\nBAR URI3\nGA LA2\nDARA3xKAR2\nENDIB\nN57\nN57\nGI\nBU NAM2 PAP\nA DU\nMU SZU TUR\nUR\nSAG ZATU809\nN57.SZAH2\nME NUN SZE3\nN57\nN57\nUDU\nN57.PIRIG ZATU718\nN57 SANGA\nUB"
+    },
+    {
+        "designation": "CUSAS 01, 019",
+        "accountType": [
+            "humans"
+        ],
+        "transcriptionCasesNoNumbers": "AN NU11\nMU\nME PAP\nBU&BU.NA2 ME SZA\nBU LAGAB\nAL\nZATU725\n\nSZITA\n\nGA2 GI SAL\nSANGA\nGISZ KAK\n\nA DU E2 GI NU11@t NUN",
+        "transcriptionCasesNumbers": "N01 AN NU11\nN01 MU\nN01 ME PAP\nN01 BU&BU.NA2 ME SZA\nN01 BU LAGAB\nN01 AL\nN01 ZATU725\nN01\nN01 SZITA\nN01\nN01 GA2 GI SAL\nN01 SANGA\nN01 GISZ KAK\n\nN14 N01 A DU E2 GI NU11@t NUN"
+    },
+    {
+        "designation": "CUSAS 01, 020",
+        "accountType": [
+            "humans"
+        ],
+        "transcriptionCasesNoNumbers": "\nNAGAR NAMESZDA\nE2 GIR3@g LAGAR\nAN NA\nAN NU11\nAB SZAGAN\nEN UNUG\nBAHAR2 PAP\nSZUR2\nKU6\n\nEN NAMESZDA\nE2 KASKAL\nGA U4\nMUD\n",
+        "transcriptionCasesNumbers": "\nNAGAR NAMESZDA\nE2 GIR3@g LAGAR\nAN NA\nN01 AN NU11\nAB SZAGAN\nN14 EN UNUG\nN14 N01 BAHAR2 PAP\nN14 SZUR2\nN14 N01 KU6\nN01\nN01 EN NAMESZDA\nN01 E2 KASKAL\nN01 GA U4\nN01 MUD\n"
+    },
+    {
+        "designation": "CUSAS 01, 021",
+        "accountType": [
+            "fields"
+        ],
+        "transcriptionCasesNoNumbers": "ADAB\n\nERIN KAB\nGAN2 ISZ\nUDU\nAPIN EN\nMAR SUG5 ZATU752\nEN HI\nAPIN GAN2\nAN TE\nDARA4 SAL\nZATU851",
+        "transcriptionCasesNumbers": "N22 ADAB\nN01\nN01 ERIN KAB\nN01 GAN2 ISZ\nN14 UDU\nN01 APIN EN\nN01 MAR SUG5 ZATU752\nN01 EN HI\nN01 APIN GAN2\nN14 AN TE\nN01 DARA4 SAL\nZATU851"
+    },
+    {
+        "designation": "CUSAS 01, 022",
+        "accountType": [
+            "fields"
+        ],
+        "transcriptionCasesNoNumbers": "DUB E2 GAL SANGA TI\nSANGA\n",
+        "transcriptionCasesNumbers": "DUB E2 GAL SANGA TI\nSANGA\nN50"
+    },
+    {
+        "designation": "CUSAS 01, 023",
+        "accountType": [
+            "fields"
+        ],
+        "transcriptionCasesNoNumbers": "KI ME NE\n\nDUR2 IB",
+        "transcriptionCasesNumbers": "N50 N14 KI ME NE\n\nN50 DUR2 IB"
+    },
+    {
+        "designation": "CUSAS 01, 024",
+        "accountType": [
+            "fields"
+        ],
+        "transcriptionCasesNoNumbers": "\n",
+        "transcriptionCasesNumbers": "N50 N01 N14\n"
+    },
+    {
+        "designation": "CUSAS 01, 025",
+        "accountType": [
+            "fields"
+        ],
+        "transcriptionCasesNoNumbers": "A AMA AN EN GAN2 MEN RU SZA3\nEN GAN2 SZU\nSILA3xDUG\n\n\n\n\nAN NUNUZ SAL ZATU788",
+        "transcriptionCasesNumbers": "A AMA AN EN GAN2 MEN RU SZA3\nN14 EN GAN2 SZU\nN50 N14 SILA3xDUG\n\n\nN14\n\nN14 AN NUNUZ SAL ZATU788"
+    },
+    {
+        "designation": "CUSAS 01, 026",
+        "accountType": [
+            "fields"
+        ],
+        "transcriptionCasesNoNumbers": "\nKISAL\nGA2xHI\n\nAN\nTUR3\nGA\nDA GUL\nKALAM\nGAN2\n\nKISAL KU6\nNIM U4\nGAN2\nAN GUM\nME SI",
+        "transcriptionCasesNumbers": "\nKISAL\nGA2xHI\n\nN57 AN\nN14 N57 TUR3\nN14 GA\nN14 DA GUL\nN14 KALAM\nN14 GAN2\n\nKISAL KU6\nNIM U4\nN14 GAN2\nAN GUM\nME SI"
+    },
+    {
+        "designation": "CUSAS 01, 027",
+        "accountType": [
+            "fields"
+        ],
+        "transcriptionCasesNoNumbers": "\n\nHI\nGISZ3\n\n\n\n\n\n\n\nGAN2 HAL\nGAL SANGA SANGA",
+        "transcriptionCasesNumbers": "\n\nN14 HI\nGISZ3\nN50\nN50\nN50\nN50\nN14\nN50\n\nN45 N50 N14 GAN2 HAL\nGAL SANGA SANGA"
+    },
+    {
+        "designation": "CUSAS 01, 028",
+        "accountType": [
+            "animals"
+        ],
+        "transcriptionCasesNoNumbers": "DUB MUSZEN\n\nDUB E2",
+        "transcriptionCasesNumbers": "N34 N14 DUB MUSZEN\n\nDUB E2"
+    },
+    {
+        "designation": "CUSAS 01, 029",
+        "accountType": [
+            "animals"
+        ],
+        "transcriptionCasesNoNumbers": "BA BARA2 KISZ SANGA\nRU URU\nKISZ",
+        "transcriptionCasesNumbers": "N15 N02 BA BARA2 KISZ SANGA\nN01 RU URU\nN02 KISZ"
+    },
+    {
+        "designation": "CUSAS 01, 030",
+        "accountType": [
+            "animals"
+        ],
+        "transcriptionCasesNoNumbers": "SAL\nKUR\nSAL U4x2N57\nKUR U4x2N57\nAMAR KUR U4x1N57\nNAGA\nDUB EN KISZ PAP SANGA\nRAD",
+        "transcriptionCasesNumbers": "N01 SAL\nN14 N01 KUR\nN01 SAL U4x2N57\nN01 KUR U4x2N57\nN01 AMAR KUR U4x1N57\nNAGA\nN14 N01 DUB EN KISZ PAP SANGA\nN02 RAD"
+    },
+    {
+        "designation": "CUSAS 01, 031",
+        "accountType": [
+            "animals"
+        ],
+        "transcriptionCasesNoNumbers": "\nEN KISZ UR\nAMAR EN\nDU EN PAP SANGA",
+        "transcriptionCasesNumbers": "\nN34 N14 N01 EN KISZ UR\nN01 AMAR EN\nN01 DU EN PAP SANGA"
+    },
+    {
+        "designation": "CUSAS 01, 032",
+        "accountType": [
+            "animals"
+        ],
+        "transcriptionCasesNoNumbers": "\nEN KISZ UR\nAMAR EN\nDU EN PAP SANGA",
+        "transcriptionCasesNumbers": "\nN34 N14 N01 EN KISZ UR\nN01 AMAR EN\nN01 DU EN PAP SANGA"
+    },
+    {
+        "designation": "CUSAS 01, 033",
+        "accountType": [
+            "animals"
+        ],
+        "transcriptionCasesNoNumbers": "KISZ RAD SUKKAL\nDUB\nNAGAR\nERIM",
+        "transcriptionCasesNumbers": "N14 N01 KISZ RAD SUKKAL\nN01 N14 DUB\nN14 NAGAR\nN14 N01 ERIM"
+    },
+    {
+        "designation": "CUSAS 01, 034",
+        "accountType": [
+            "animals"
+        ],
+        "transcriptionCasesNoNumbers": "DU\n\nUMUN2\nA UR2\nHAL ZATU694\nA SAR\nALAN ZATU694\n\nSZU\nEN KASZ\nHI SANGA\nKISZ UB",
+        "transcriptionCasesNumbers": "N01 DU\nN01\nN01 UMUN2\nN01 A UR2\nN01 HAL ZATU694\nN01 A SAR\nN01 ALAN ZATU694\nN01\nN01 SZU\nN01 EN KASZ\nN01 HI SANGA\nN14 N01 KISZ UB"
+    },
+    {
+        "designation": "CUSAS 01, 035",
+        "accountType": [
+            "animals"
+        ],
+        "transcriptionCasesNoNumbers": "BU\nGUG2 KISZ TI@r\nAMA\nSZU ZATU659\n\nGUG2 KISZ",
+        "transcriptionCasesNumbers": "N14 N01 BU\nN01 GUG2 KISZ TI@r\nN01 AMA\nN01 SZU ZATU659\nN01\nN14 GUG2 KISZ"
+    },
+    {
+        "designation": "CUSAS 01, 036",
+        "accountType": [
+            "animals"
+        ],
+        "transcriptionCasesNoNumbers": "BAR\nDUB\n\nSAL\nSZA3\nU4x3N57\nU4x2N57\nAMAR U4x1N57\nERIN KISZ NAM2\nMUN\nDU8xAMAR U2\nMUN\nSAL\nKUR\nUDU",
+        "transcriptionCasesNumbers": "N01 BAR\nN01 DUB\n\nN01 SAL\nN01 SZA3\nN01 U4x3N57\nN01 U4x2N57\nN01 AMAR U4x1N57\nN14 N01 ERIN KISZ NAM2\nN01 MUN\nN14 N01 DU8xAMAR U2\nN01 MUN\nN14 N01 SAL\nN01 KUR\nN14 UDU"
+    },
+    {
+        "designation": "CUSAS 01, 037",
+        "accountType": [
+            "animals"
+        ],
+        "transcriptionCasesNoNumbers": "\nU4x3N57\nU4x2N57\nU4x1N57\nDUB\nMUN\n\nU4x1N57\nKISZ PAP",
+        "transcriptionCasesNumbers": "N15 N02\nN02 U4x3N57\nN02 U4x2N57\nN02 U4x1N57\nN02 DUB\nN15 MUN\nN02\nN02 U4x1N57\nN02 N15 KISZ PAP"
+    },
+    {
+        "designation": "CUSAS 01, 038",
+        "accountType": [
+            "animals"
+        ],
+        "transcriptionCasesNoNumbers": "GAL KISZ KUR SANGA\nEN\nKISAL SI\nDU EN PAP SANGA\nGAL KISAL SANGA SI",
+        "transcriptionCasesNumbers": "N45 GAL KISZ KUR SANGA\nN01 EN\nKISAL SI\nN01 DU EN PAP SANGA\nGAL KISAL SANGA SI"
+    },
+    {
+        "designation": "CUSAS 01, 039",
+        "accountType": [
+            "animals"
+        ],
+        "transcriptionCasesNoNumbers": "LAGAB SU UDU\nBA\nZATU773\nASAR EN\nNIN\nBAHAR2\nAN SZUM\nAN KU3 SZUM\nDA GI PA\n\n\nUDUNITA\nBA\nBAHAR2\nZATU773\nASAR EN\nGURUSZDA NIN\n3N57.PIRIG TUR ZATU718\nGURUSZDA NIN\n\nSZE3 UDU\nSZUM UNUG\n\nGI\nUDUNITA\nUD5\nBA\nNIN\nGURUSZDA\nANSZE\nUD5\nMASZ2\nBA\nNIN\nZATU773\n\nAN BULUG3 SAG TUR\nAN SZUM URI3\nNIN SZUM\nGI\nMASZ2\nGIR3@g\nUNUG\nGIBIL SZUM UNUG\nGIR3@g\nBA\nHI NIM\nANSZE\nSZE3 UDU\nGI UD5\nZATU773\n\n\n\nMASZ2\nUDU\nUDU\nUDUNITA\nUDUNITA\nANSZE\nGU7 SZU\nKU SAG\nAN GI ZATU773\nDA GI PA",
+        "transcriptionCasesNumbers": "N15 N02 LAGAB SU UDU\nN14 N01 BA\nN01 ZATU773\nN01 ASAR EN\nN01 NIN\nN01 BAHAR2\nN01 AN SZUM\nN01 AN KU3 SZUM\nN01 DA GI PA\nN01\n\nN02 N15 UDUNITA\nN14 N01 BA\nN01 BAHAR2\nN01 ZATU773\nN01 ASAR EN\nN01 GURUSZDA NIN\nN01 N57.PIRIG TUR ZATU718\nN01 GURUSZDA NIN\nN01\nN01 SZE3 UDU\nN01 SZUM UNUG\nN01\nN01 GI\nUDUNITA\nN14 UD5\nN01 BA\nN01 NIN\nN01 GURUSZDA\nN01 ANSZE\nUD5\nN02 MASZ2\nN01 BA\nN01 NIN\nN01 ZATU773\nN01\nAN BULUG3 SAG TUR\nN01 AN SZUM URI3\nN01 NIN SZUM\nN01 GI\nMASZ2\nGIR3@g\nN01 UNUG\nN01 GIBIL SZUM UNUG\nN02 GIR3@g\nN01 BA\nN01 HI NIM\nN01 ANSZE\nSZE3 UDU\nN01 GI UD5\nN34 N14 N01 ZATU773\nN14 N01\nN01 N14\nN14\nN14 MASZ2\nN01 N14 UDU\nN01 UDU\nN01 UDUNITA\nN15 N02 UDUNITA\nN01 ANSZE\nN01 GU7 SZU\nN01 KU SAG\nN01 AN GI ZATU773\nN01 DA GI PA"
+    },
+    {
+        "designation": "CUSAS 01, 040",
+        "accountType": [
+            "animals"
+        ],
+        "transcriptionCasesNoNumbers": "MUN\nDUB\nU4x2N57\nAMAR U4x1N57\nSAL\nSZA3\nU4x2N57\nAMAR MUN U4x1N57\nUDU\nDIN KAB KISZ NAM2 U2\nMUN\nDU8xAMAR\nMUN\nSAL\nKUR",
+        "transcriptionCasesNumbers": "N14 MUN\nN01 DUB\nN01 U4x2N57\nN01 AMAR U4x1N57\nN01 SAL\nN01 SZA3\nN01 U4x2N57\nN01 AMAR MUN U4x1N57\nN14 N01 UDU\nN14 N01 DIN KAB KISZ NAM2 U2\nN14 MUN\nN14 N01 DU8xAMAR\nN14 MUN\nN14 N01 SAL\nN01 KUR"
+    },
+    {
+        "designation": "CUSAS 01, 041",
+        "accountType": [
+            "animals"
+        ],
+        "transcriptionCasesNoNumbers": "UD5\nDUB\n!\nESZGAR\nMASZ2\nDA PA",
+        "transcriptionCasesNumbers": "N14 N01 UD5\nDUB\nN01 N14!\nN01 N14 ESZGAR\nN01 MASZ2\nDA PA"
+    },
+    {
+        "designation": "CUSAS 01, 042",
+        "accountType": [
+            "animals"
+        ],
+        "transcriptionCasesNoNumbers": "DA PA UD5\nDA PA\nBAR",
+        "transcriptionCasesNumbers": "N01 DA PA UD5\nN14 DA PA\nBAR"
+    },
+    {
+        "designation": "CUSAS 01, 043",
+        "accountType": [
+            "animals"
+        ],
+        "transcriptionCasesNoNumbers": "\n\n\n\n\n\n\nU8\nBAR SILA4\nMASZ2\nSZE3 UDU\n",
+        "transcriptionCasesNumbers": "\n\nN14 N01\nN01 N14\nN14\n\nN14\nN01 U8\nN01 N14 BAR SILA4\nMASZ2\nN01 SZE3 UDU\nN14"
+    },
+    {
+        "designation": "CUSAS 01, 044",
+        "accountType": [
+            "animals"
+        ],
+        "transcriptionCasesNoNumbers": "\nUTUA\nUDUNITA\nMASZ2\n\n\nBU\nUR2\n\n\n",
+        "transcriptionCasesNumbers": "\nN01 N14 UTUA\nN01 N14 UDUNITA\nN01 N14 MASZ2\n\n\nN01 BU\nUR2\n\nN48 N34\nN01 N14 N34"
+    },
+    {
+        "designation": "CUSAS 01, 045",
+        "accountType": [
+            "animals"
+        ],
+        "transcriptionCasesNoNumbers": "U8\nUDUNITA\nKIR11\nKUR SILA4\nDA PA\nU8\nUDUNITA\nKIR11\nKUR SILA4\nBU+DU6 GISZxSZU2 SZU\nLAGAB SZE3 U8\nDUB U8\nBAR U4x1N57\nBU+DU6 GISZxSZU2 SZU ZATU752\nDA PA\nBU+DU6 GISZxSZU2 SZU",
+        "transcriptionCasesNumbers": "N14 N01 U8\nN14 N01 UDUNITA\nN01 KIR11\nN01 KUR SILA4\nDA PA\nN01 U8\nN01 UDUNITA\nN01 KIR11\nN01 KUR SILA4\nBU+DU6 GISZxSZU2 SZU\nN14 N34 N01 LAGAB SZE3 U8\nN14 N01 DUB U8\nN14 N01 BAR U4x1N57\nBU+DU6 GISZxSZU2 SZU ZATU752\nN01 N14 DA PA\nN01 N14 BU+DU6 GISZxSZU2 SZU"
+    },
+    {
+        "designation": "CUSAS 01, 046",
+        "accountType": [
+            "animals"
+        ],
+        "transcriptionCasesNoNumbers": "PAP SAL\nSZUR2 UDUNITA\nAN UDUNITA\n\n\nNAGAR UDU",
+        "transcriptionCasesNumbers": "PAP SAL\nN57 SZUR2 UDUNITA\nN57 AN UDUNITA\n\n\nN57 NAGAR UDU"
+    },
+    {
+        "designation": "CUSAS 01, 047",
+        "accountType": [
+            "animals"
+        ],
+        "transcriptionCasesNoNumbers": "UDUNITA ZATU773\nU8\nUDUNITA\nU8\nUD5\nMASZ2\nZATU773\nUDUNITA\nU8\nU8\nMASZ2\nUD5\nDA PA\nDU8xUDU MU SZU\nU8 UDUNITA ZATU773\nMASZ2 UD5\nDA PA UDU\nUDUNITA ZATU773\nU8\nMASZ2 UD5\nU8 UDUNITA\nMASZ2 UD5",
+        "transcriptionCasesNumbers": "N01 UDUNITA ZATU773\nN01 U8\nN01 UDUNITA\nN01 U8\nN01 UD5\nN01 MASZ2\nZATU773\nN01 UDUNITA\nN01 U8\nN01 U8\nN01 MASZ2\nN01 UD5\nDA PA\nN14 N01 DU8xUDU MU SZU\nN14 N01 U8 UDUNITA ZATU773\nN01 MASZ2 UD5\nN14 N01 DA PA UDU\nN01 UDUNITA ZATU773\nN01 U8\nN01 MASZ2 UD5\nN01 U8 UDUNITA\nN01 MASZ2 UD5"
+    },
+    {
+        "designation": "CUSAS 01, 048",
+        "accountType": [
+            "animals"
+        ],
+        "transcriptionCasesNoNumbers": "UDU\n\nUD5\n\nADAB PA SAG SUG5 UDU\nIM\nBA NI",
+        "transcriptionCasesNumbers": "N01 UDU\nN01\nN01 UD5\nN01\nN14 ADAB PA SAG SUG5 UDU\nIM\nBA NI"
+    },
+    {
+        "designation": "CUSAS 01, 049",
+        "accountType": [
+            "animals"
+        ],
+        "transcriptionCasesNoNumbers": "U8\nUDUNITA\nSZE3 UDUNITA\n\nNUN\nMASZ2\nU8\nUDUNITA\nUD5\nMASZ2\nGI SZU\n\nUDU\nDA DU8xUDU GURUSZDA PA\nLAGAB UDU",
+        "transcriptionCasesNumbers": "N01 U8\nN14 UDUNITA\nN01 SZE3 UDUNITA\nN01 N14\nN01 NUN\nN14 N01 MASZ2\nN01 U8\nN01 UDUNITA\nN01 UD5\nN01 MASZ2\nN14 GI SZU\nN01\nN57 N14 N01 UDU\nN34 N14 DA DU8xUDU GURUSZDA PA\nN34 N01 LAGAB UDU"
+    },
+    {
+        "designation": "CUSAS 01, 050",
+        "accountType": [
+            "animals"
+        ],
+        "transcriptionCasesNoNumbers": "BAR UDU\nMASZ2\nBAR UDU\n\n\nBAR UDUNITA\nBAR MASZ\n\n\nBAR UD5\nUDU\nUDUNITA",
+        "transcriptionCasesNumbers": "N01 BAR UDU\nN01 MASZ2\nN34 BAR UDU\nN14 N01\n\nN01 BAR UDUNITA\nN01 BAR MASZ\n\nN14 N01\nN01 BAR UD5\nN14 N01 UDU\nN14 N01 UDUNITA"
+    },
+    {
+        "designation": "CUSAS 01, 051",
+        "accountType": [
+            "animals"
+        ],
+        "transcriptionCasesNoNumbers": "U8\nSZE3 UDUNITA\nKU UR\nE2x1N57@t\nZATU675\nNAGA ZATU659\nGI\nUD5\nANSZE\n\n\nMASZ2\n\n\n\n\n\n\n\nSUG5\n\nSUG\nAN\nSAL SUG5\nSAL\nGU7 NIN\nAB GISZIMMAR SZUM\nBU+DU6 GISZIMMAR\nE2x1N57@t\n\n\nGI\nNAGA SZE3 UDUNITA\nGURUSZDA\n\nNAGA\nGIR3\n\nNAGA\nUR\nANSZE\nGU7\n\nUTUA\nUDU\nU8\nUTUA\nUD5\nMASZ2\nSZE3 UDU\nDA GU7 GURUSZDA PA UDU",
+        "transcriptionCasesNumbers": "N01 U8\nN01 SZE3 UDUNITA\nN01 KU UR\nN01 E2x1N57@t\nN01 ZATU675\nN14 NAGA ZATU659\nN01 GI\nN01 UD5\nN01 ANSZE\nN01\n\nN15 MASZ2\nN14 N01\nN01\nN01\nN01\nN01\n\n\nN01 SUG5\n\nSUG\nN01 AN\nSAL SUG5\nSAL\nN01 GU7 NIN\nN01 AB GISZIMMAR SZUM\nN01 BU+DU6 GISZIMMAR\nN01 E2x1N57@t\n\n\nGI\nN01 NAGA SZE3 UDUNITA\nGURUSZDA\n\nNAGA\nGIR3\nN15\nN14 N01 NAGA\nN01 UR\nN01 ANSZE\nN57 N14 N01 GU7\nN01\nN01 UTUA\nN01 UDU\nN01 U8\nN01 N14 UTUA\nN14 N01 UD5\nN34 N14 N01 MASZ2\nN01 SZE3 UDU\nN57 N34 N14 DA GU7 GURUSZDA PA UDU"
+    },
+    {
+        "designation": "CUSAS 01, 052",
+        "accountType": [
+            "animals"
+        ],
+        "transcriptionCasesNoNumbers": "UD5\n\n",
+        "transcriptionCasesNumbers": "N01 N14 UD5\nN01\n"
+    },
+    {
+        "designation": "CUSAS 01, 053",
+        "accountType": [
+            "animals"
+        ],
+        "transcriptionCasesNoNumbers": "U8\nUDUNITA\nUD5\nMASZ2\nUNUG\nAN SZA3 UR2\n\nNUN\nMASZ2\nEZENxSU\nPAP SAL SZU\nAN SZA3 UR2\n\n\n\nUD5\nNUN\n\nUDU",
+        "transcriptionCasesNumbers": "N01 U8\nN01 UDUNITA\nN01 UD5\nN01 MASZ2\nUNUG\nAN SZA3 UR2\nN01\nN01 NUN\nN01 MASZ2\nEZENxSU\nPAP SAL SZU\nAN SZA3 UR2\n\n\nN01\nN01 UD5\nN01 NUN\n\nN14 UDU"
+    },
+    {
+        "designation": "CUSAS 01, 054",
+        "accountType": [
+            "animals"
+        ],
+        "transcriptionCasesNoNumbers": "SU\nUTUA\nZATU628\nMASZ\n\nSZE3 UDU\nU8\nUTUA\nU8\nUTUA\n\nZATU628\nSU\nSU3 TA\nBAR U4x1N57\nMASZ\nBA SU\nUTUA\nU8\nZATU628\nBA SU\nSU3 TA\nBAR U4x1N57\nE2\nBA\nGI",
+        "transcriptionCasesNumbers": "N01 N14 SU\nN01 UTUA\nN01 ZATU628\nN14 N01 MASZ\n\nN01 SZE3 UDU\nN01 U8\nN01 UTUA\nN01 U8\nN01 N14 UTUA\n\nN14 ZATU628\nN01 SU\nN02 SU3 TA\nN01 N14 BAR U4x1N57\nN01 MASZ\nBA SU\nN01 UTUA\nN01 U8\nN14 N01 ZATU628\nN14 BA SU\nN02 SU3 TA\nN01 N14 BAR U4x1N57\nN14 N01 E2\nN14 N01 BA\nN01 N14 GI"
+    },
+    {
+        "designation": "CUSAS 01, 055",
+        "accountType": [
+            "animals"
+        ],
+        "transcriptionCasesNoNumbers": "SZE3 U4 UDUNITA UR\nGAL MU NAM2 SZE3 SZU UDUNITA\nU8\nUDUNITA\nAN MAR",
+        "transcriptionCasesNumbers": "N01 SZE3 U4 UDUNITA UR\nN01 GAL MU NAM2 SZE3 SZU UDUNITA\nN02 N15 U8\nN02 N15 UDUNITA\nAN MAR"
+    },
+    {
+        "designation": "CUSAS 01, 056",
+        "accountType": [
+            "animals"
+        ],
+        "transcriptionCasesNoNumbers": "BUR E2\nUD5\n\n",
+        "transcriptionCasesNumbers": "BUR E2\nUD5\nN01\n"
+    },
+    {
+        "designation": "CUSAS 01, 057",
+        "accountType": [
+            "animals"
+        ],
+        "transcriptionCasesNoNumbers": "SZE3 U8\nUDUNITA\nUNUG",
+        "transcriptionCasesNumbers": "N01 SZE3 U8\nN01 UDUNITA\nUNUG"
+    },
+    {
+        "designation": "CUSAS 01, 058",
+        "accountType": [
+            "animals"
+        ],
+        "transcriptionCasesNoNumbers": "U8\nUD5\nSILA4\nGAL MASZ\nMASZ2\nMASZ2 UDU\nMASZ2 UDU",
+        "transcriptionCasesNumbers": "N01 U8\nN14 N01 UD5\nN01 SILA4\nN01 GAL MASZ\nN01 MASZ2\nN34 MASZ2 UDU\nMASZ2 UDU"
+    },
+    {
+        "designation": "CUSAS 01, 059",
+        "accountType": [
+            "animals"
+        ],
+        "transcriptionCasesNoNumbers": "EN UDU\nEN URU\nEN LAGAB.TE SZU\nGISZ3\n\nURU\nUNUG\n,  UNUG\n\n\nBAR UDU\n\nBAR",
+        "transcriptionCasesNumbers": "N01 N14 EN UDU\nN14 N01 EN URU\nN01 EN LAGAB.TE SZU\nN01 GISZ3\nN01\nN01 URU\nN01 UNUG\nN01, N57 UNUG\nN01 N14\nN01 N14\nBAR UDU\n\nN01 N14 BAR"
+    },
+    {
+        "designation": "CUSAS 01, 060",
+        "accountType": [
+            "animals"
+        ],
+        "transcriptionCasesNoNumbers": "AB MAR SZE U8\nBAHAR2 PAP",
+        "transcriptionCasesNumbers": "N01 AB MAR SZE U8\nBAHAR2 PAP"
+    },
+    {
+        "designation": "CUSAS 01, 061",
+        "accountType": [
+            "animals"
+        ],
+        "transcriptionCasesNoNumbers": "DU GA2 UD5\nRU\n\nBU TUR\nAN NAMESZDA\nUB ZI\n\n",
+        "transcriptionCasesNumbers": "DU GA2 UD5\nN01 RU\n\nN01 BU TUR\nN01 AN NAMESZDA\nN01 UB ZI\n\n"
+    },
+    {
+        "designation": "CUSAS 01, 062",
+        "accountType": [
+            "animals"
+        ],
+        "transcriptionCasesNoNumbers": "SUHUR\nSUHUR@t\nKU6\nSUKUD+SUKUD\nURU\n\nBU+DU6\nGIR3\nZATU714\n\n\n\nUNUG",
+        "transcriptionCasesNumbers": "N01 N57 SUHUR\nN01 SUHUR@t\nN34 N14 N01 KU6\nN14 SUKUD+SUKUD\nURU\n\nBU+DU6\nGIR3\nZATU714\n\n\n\nUNUG"
+    },
+    {
+        "designation": "CUSAS 01, 063",
+        "accountType": [
+            "animals"
+        ],
+        "transcriptionCasesNoNumbers": "BA SUHUR\nNE\nKU SUHUR@t\nSUHUR\nNE\nKU SUHUR@t\nUKKINxDIN\n\nBA SUHUR\nNE\nKU\nSUHUR\nNE\nKU\nBA SUHUR\nSUHUR\nE2x1N57@t\nBA PAP SAL SUHUR\nSUHUR\nGU7\nSAL ZATU676\nSAL TUR TUR\nSAL ZATU676\nSAGSZU SAL\nSUHUR\nE2x1N57@t",
+        "transcriptionCasesNumbers": "N39 BA SUHUR\nN39 NE\nN39 KU SUHUR@t\nN39 N57 SUHUR\nN39 NE\nN39 KU SUHUR@t\nN01 UKKINxDIN\n\nN39 BA SUHUR\nN39 NE\nN39 KU\nN39 N57 SUHUR\nN39 NE\nN39 KU\nN39 BA SUHUR\nN39 N57 SUHUR\nN57 E2x1N57@t\nN01 BA PAP SAL SUHUR\nN01 SUHUR\nN01 GU7\nN01 SAL ZATU676\nN01 SAL TUR TUR\nN01 SAL ZATU676\nN01 SAGSZU SAL\nN01 N57 SUHUR\nE2x1N57@t"
+    },
+    {
+        "designation": "CUSAS 01, 064",
+        "accountType": [
+            "textiles"
+        ],
+        "transcriptionCasesNoNumbers": "\nBAR UD5\nBAR MASZ SIG2\nSIG2\n\nZATU773\n\nMASZ2 SIG2\nBAR MASZ SIG2\nDA PA\n",
+        "transcriptionCasesNumbers": "\nN14 N01 BAR UD5\nN01 N14 BAR MASZ SIG2\nN14 N01 SIG2\nN01\nZATU773\n\nN01 N14 MASZ2 SIG2\nN14 BAR MASZ SIG2\nDA PA\nN34 N01"
+    },
+    {
+        "designation": "CUSAS 01, 065",
+        "accountType": [
+            "textiles"
+        ],
+        "transcriptionCasesNoNumbers": "DARA4 UDU\nMASZ2 UDU\nSZE3 UDU\nBAR MASZ UDU\nUDU\nMASZ\nRU\nDARA4 MASZ\nMASZ2 TUR\nSZE3 UDU\nBAR MASZ UDU\nDA PA\nGISZ SU\n\nNI2\n\nZATU773\nEN\n\n\nSA UR2 ZATU847\nSAL SA ZATU847\n\nA A\nNI2\nA A\nNI2\nKA\nBA\nBA",
+        "transcriptionCasesNumbers": "N01 N14 DARA4 UDU\nN14 N01 MASZ2 UDU\nN01 SZE3 UDU\nN01 N14 BAR MASZ UDU\nN14 N01 UDU\nN01 MASZ\nRU\nN14 N01 DARA4 MASZ\nN01 N14 MASZ2 TUR\nN01 SZE3 UDU\nN14 N01 BAR MASZ UDU\nDA PA\nGISZ SU\nN01 N14\nN14 NI2\n\nZATU773\nEN\nN14 N01\nN01\nN34 N01 SA UR2 ZATU847\nN34 N14 N01 SAL SA ZATU847\nN34 N14 N01\nN14 N01 A A\nN01 NI2\nN14 N01 A A\nN01 NI2\nN01 KA\nN34 N01 BA\nN34 BA"
+    },
+    {
+        "designation": "CUSAS 01, 066",
+        "accountType": [
+            "textiles"
+        ],
+        "transcriptionCasesNoNumbers": "AN NUNUZ ZATU788\nME TUR3\nBA DARA4 IB\nBA DARA4",
+        "transcriptionCasesNumbers": "N14 N34 N01 AN NUNUZ ZATU788\nN14 ME TUR3\nBA DARA4 IB\nN14 N34 N01 BA DARA4"
+    },
+    {
+        "designation": "CUSAS 01, 067",
+        "accountType": [
+            "textiles"
+        ],
+        "transcriptionCasesNoNumbers": "EN\nIB\nBA\nDA PA\nDARA4 LAGAB UDU\nIB UDU\nBA DARA4",
+        "transcriptionCasesNumbers": "N04 N14 N01 N34 EN\nN34 N14 N01 IB\nN14 N34 N01 BA\nN14 N34 N01 DA PA\nN01 N14 N34 DARA4 LAGAB UDU\nN14 N01 IB UDU\nN14 N34 N01 BA DARA4"
+    },
+    {
+        "designation": "CUSAS 01, 068",
+        "accountType": [
+            "textiles"
+        ],
+        "transcriptionCasesNoNumbers": "AN NUNUZ SAL ZATU788\nME SAL TUR3\nDUB\nLA2 SUG5\nDARA4 UB ZATU682 ZI\n\nAK DARA4 DA HI IB PA SAG SUG5 SZA3 UDU UR2\nDARA4 IB SAG SUG5 UDU\n",
+        "transcriptionCasesNumbers": "AN NUNUZ SAL ZATU788\nN34 N14 ME SAL TUR3\nN34 DUB\nN14 LA2 SUG5\nN01 DARA4 UB ZATU682 ZI\nN01\nAK DARA4 DA HI IB PA SAG SUG5 SZA3 UDU UR2\nN34 DARA4 IB SAG SUG5 UDU\n"
+    },
+    {
+        "designation": "CUSAS 01, 070",
+        "accountType": [
+            "cereals"
+        ],
+        "transcriptionCasesNoNumbers": "AB AN DU SZE\nGIBIL U4",
+        "transcriptionCasesNumbers": "N39 N01 AB AN DU SZE\nGIBIL U4"
+    },
+    {
+        "designation": "CUSAS 01, 071",
+        "accountType": [
+            "cereals"
+        ],
+        "transcriptionCasesNoNumbers": "AN AN SAR\nSZE UR5\n\nA\nKISAL KU6\n\nGISZ3\nSAL\nE2 NAM2 TUM\nZATU659\nSZU2 URU\nZATU659\nSZU2 URU",
+        "transcriptionCasesNumbers": "N01 AN AN SAR\nN01 SZE UR5\nN01\nA\nN01 KISAL KU6\nN01\nN01 GISZ3\nN01 SAL\nN01 E2 NAM2 TUM\nN01 ZATU659\nSZU2 URU\nZATU659\nSZU2 URU"
+    },
+    {
+        "designation": "CUSAS 01, 072",
+        "accountType": [
+            "cereals"
+        ],
+        "transcriptionCasesNoNumbers": "\nRU SZE\nGIR3 SZE ZATU773\nA NAR SZE\nGIBIL SZE",
+        "transcriptionCasesNumbers": "\nRU SZE\nN14 GIR3 SZE ZATU773\nN14 A NAR SZE\nN24 N39 N01 N14 GIBIL SZE"
+    },
+    {
+        "designation": "CUSAS 01, 073",
+        "accountType": [
+            "cereals"
+        ],
+        "transcriptionCasesNoNumbers": "SZE\nDU ZATU694",
+        "transcriptionCasesNumbers": "N01 SZE\nDU ZATU694"
+    },
+    {
+        "designation": "CUSAS 01, 074",
+        "accountType": [
+            "cereals"
+        ],
+        "transcriptionCasesNoNumbers": "SZU UR5\nTAR\nSZU UR5\nTAR\nSZU UR5\n\nSANGA TUR3\nMUD3 NIM\n",
+        "transcriptionCasesNumbers": "N01 SZU UR5\nN24 N39 TAR\nN01 SZU UR5\nN24 N39 TAR\nN01 SZU UR5\n\nN14 SANGA TUR3\nN01 MUD3 NIM\nN14"
+    },
+    {
+        "designation": "CUSAS 01, 075",
+        "accountType": [
+            "cereals"
+        ],
+        "transcriptionCasesNoNumbers": "PAP SZE\nTAR\nU2\nTAR\nBU DU\nTAR\nKISAL KU6\nTAR\nDAR E2\nTAR\nME SI\nTAR\nBU NAM2 PAP\nTAR\n\nTAR\n\nTAR\n\nTAR\n\nTAR\n\nTAR\nDU NIN\nTAR\nKIB@g KU6\nTAR\nSAG TAK4\nTAR\nA\nTAR\n\nTAR\n\nTAR\nSAL UB ZI\nNIN\nTAR\nBU MUD NA\nHI@g MU ZATU714\nDI@t\nME SAL TUR3\nBA DA IM SZE",
+        "transcriptionCasesNumbers": "N01 N57 PAP SZE\nN39 TAR\nN02 N01 U2\nN39 TAR\nN01 BU DU\nN39 TAR\nN01 KISAL KU6\nN39 TAR\nN01 DAR E2\nN39 TAR\nN01 ME SI\nN39 TAR\nN01 BU NAM2 PAP\nN39 TAR\nN01\nN24 TAR\nN01\nN24 TAR\nN01\nN24 TAR\nN01\nN24 TAR\nN01\nN24 TAR\nN01 DU NIN\nN24 TAR\nN01 KIB@g KU6\nN24 TAR\nN01 SAG TAK4\nN24 TAR\nN01 A\nN24 TAR\nN01\nN24 TAR\n\nN24 TAR\nN01 SAL UB ZI\nN57 N01 NIN\nN39 TAR\nN24 BU MUD NA\nN24 N28 HI@g MU ZATU714\nN26 DI@t\nN14 ME SAL TUR3\nN24 N26 N39 N14 BA DA IM SZE"
+    },
+    {
+        "designation": "CUSAS 01, 076",
+        "accountType": [
+            "humans"
+        ],
+        "transcriptionCasesNoNumbers": "BU MUD NA\nME SI\nA DA KI\n",
+        "transcriptionCasesNumbers": "N14 N01 BU MUD NA\nN01 ME SI\nN01 A DA KI\n"
+    },
+    {
+        "designation": "CUSAS 01, 077",
+        "accountType": [
+            "cereals"
+        ],
+        "transcriptionCasesNoNumbers": "KI SZAM2 SZE\nEN GA2 NUNUZ SZE\nRU SZE\nRU\n\nRU\nKU6 SZE\nSZE\n\nSZE",
+        "transcriptionCasesNumbers": "N14 KI SZAM2 SZE\nN14 N01 EN GA2 NUNUZ SZE\nN14 N01 RU SZE\nN19 RU\nN19\nN19 N41 N04 RU\nN14 KU6 SZE\nN01 N14 SZE\nN41 N04 N19\nN45 N01 N41 N14 SZE"
+    },
+    {
+        "designation": "CUSAS 01, 078",
+        "accountType": [
+            "cereals"
+        ],
+        "transcriptionCasesNoNumbers": "\nSZE\n\nBULUG3 GU7 SAG\nGAL SANGA SANGA\n",
+        "transcriptionCasesNumbers": "\nSZE\nN04\nBULUG3 GU7 SAG\nGAL SANGA SANGA\n"
+    },
+    {
+        "designation": "CUSAS 01, 079",
+        "accountType": [
+            "cereals"
+        ],
+        "transcriptionCasesNoNumbers": "KISAL KU6 SZE\n\nSAG SZE\nSZE\nME SI SZE\nSZE\nPA SZE\nGI6 HIx1N57\nSZE\nEN PA ZATU694\n\nGIBIL NAM2 SZAM2 SZE U4x2N57\nSZE\n\n\n",
+        "transcriptionCasesNumbers": "N45 N14 KISAL KU6 SZE\nN46\nN45 N14 SAG SZE\nN01 N14 SZE\nN45 N01 N14 ME SI SZE\nN14 SZE\nN01 N45 N14 PA SZE\nN01 GI6 HIx1N57\nN14 SZE\nN14 EN PA ZATU694\nN46\nN01 N34 N36 N19 N14 GIBIL NAM2 SZAM2 SZE U4x2N57\nN14 N34 N01 SZE\nN19 N46\nN14\nN04 N19"
+    },
+    {
+        "designation": "CUSAS 01, 080",
+        "accountType": [
+            "cereals"
+        ],
+        "transcriptionCasesNoNumbers": "SZE UDU\n\nNIN\n\n\n\nGI\nHI\n\nDUR2 EN SZU ZATU751\nDUR2 EN EN PA SZE SZU ZATU751\nSZE\n",
+        "transcriptionCasesNumbers": "N14 N01 SZE UDU\nN04\nN01 N14 NIN\nN19\n\nN19\nN01 N24 N39 GI\nHI\nN04\nDUR2 EN SZU ZATU751\nN24 N19 N39 N57 N01 N14 DUR2 EN EN PA SZE SZU ZATU751\nN01 N24 N39 N14 SZE\nN19 N04"
+    },
+    {
+        "designation": "CUSAS 01, 081",
+        "accountType": [
+            "cereals"
+        ],
+        "transcriptionCasesNoNumbers": "E2 KASKAL SZE\nDU I\n\nSANGA ZATU737xDI\nSZE\nSZE\n",
+        "transcriptionCasesNumbers": "N34 N57 E2 KASKAL SZE\nN19 DU I\n\nSANGA ZATU737xDI\nN14 N19 SZE\nSZE\nN19"
+    },
+    {
+        "designation": "CUSAS 01, 082",
+        "accountType": [
+            "cereals"
+        ],
+        "transcriptionCasesNoNumbers": "AN EZEN GU7 PA SZE ZATU659\n\nGAL\nKASZ\nDU SANGA URU\nGI NIN\nSAL SAL\n\n\nSANGA SZIR\nSAL\n\nNE\n",
+        "transcriptionCasesNumbers": "N14 AN EZEN GU7 PA SZE ZATU659\n\nN39 GAL\nN39 KASZ\nN39 DU SANGA URU\nN39 GI NIN\nN24 N39 SAL SAL\nN24 N39\n\nN30 N39 SANGA SZIR\nN30 N39 SAL\nN30 N39\nN39 NE\nN39"
+    },
+    {
+        "designation": "CUSAS 01, 083",
+        "accountType": [
+            "cereals"
+        ],
+        "transcriptionCasesNoNumbers": "AB AB PAP\nGIBIL U4\nEN MUD3\n",
+        "transcriptionCasesNumbers": "AB AB PAP\nGIBIL U4\nEN MUD3\n"
+    },
+    {
+        "designation": "CUSAS 01, 084",
+        "accountType": [
+            "cereals"
+        ],
+        "transcriptionCasesNoNumbers": "\nPAP SZUBUR\n\n1 DUB\n\n\nDUB SZE",
+        "transcriptionCasesNumbers": "\nN14 PAP SZUBUR\nN45\n1 DUB\nN45\nN14\nN34 DUB SZE"
+    },
+    {
+        "designation": "CUSAS 01, 085",
+        "accountType": [
+            "cereals"
+        ],
+        "transcriptionCasesNoNumbers": "SZE UR5\nGAR\n\n\n\n",
+        "transcriptionCasesNumbers": "N24 N45 N01 N14 N39 SZE UR5\nN14 N39 N57 N01 GAR\n\nN01 N39\n\n"
+    },
+    {
+        "designation": "CUSAS 01, 086",
+        "accountType": [
+            "cereals"
+        ],
+        "transcriptionCasesNoNumbers": "GAL ME SZESZ\nGU SAL SZA\n\n\n\n\nSZU TUR",
+        "transcriptionCasesNumbers": "N59 N01 GAL ME SZESZ\nN59 N01 GU SAL SZA\nN59 N01 N14\n\n\n\nSZU TUR"
+    },
+    {
+        "designation": "CUSAS 01, 087",
+        "accountType": [
+            "cereals"
+        ],
+        "transcriptionCasesNoNumbers": "\nSI4 SZE\nSI4 SZE",
+        "transcriptionCasesNumbers": "\nN01 N14 SI4 SZE\nSI4 SZE"
+    },
+    {
+        "designation": "CUSAS 01, 088",
+        "accountType": [
+            "cereals"
+        ],
+        "transcriptionCasesNoNumbers": "SZE\nEN SZE\nBA E2 SZE\nGU4\nSI\nSZUM\nURUDU ZATU777\nAN BA DU EN ERIM GISZ HI IB KID KU3 NIM SUHUR SZE SZITA@g TAK4\nBA SZE\nGI SZE",
+        "transcriptionCasesNumbers": "N14 N01 SZE\nN14 EN SZE\nN01 BA E2 SZE\nN01 GU4\nSI\nSZUM\nURUDU ZATU777\nN14 AN BA DU EN ERIM GISZ HI IB KID KU3 NIM SUHUR SZE SZITA@g TAK4\nN14 BA SZE\nN14 GI SZE"
+    },
+    {
+        "designation": "CUSAS 01, 089",
+        "accountType": [
+            "cereals"
+        ],
+        "transcriptionCasesNoNumbers": "BULUG3 GU7 SZE U4.\nKASZ",
+        "transcriptionCasesNumbers": "BULUG3 GU7 SZE U4.N08\nKASZ"
+    },
+    {
+        "designation": "CUSAS 01, 090",
+        "accountType": [
+            "cereals"
+        ],
+        "transcriptionCasesNoNumbers": "AN NUNUZ SZE ZATU788\nHI SZE TA UNUG\nAB KASZ\nU4x2N01\n\nAN NUNUZ ZATU788\nHI TA UNUG\nAB U4x1N01\nGU7",
+        "transcriptionCasesNumbers": "N14 AN NUNUZ SZE ZATU788\nN01 HI SZE TA UNUG\nN04 AB KASZ\nN28 N41 U4x2N01\n\nN19 AN NUNUZ ZATU788\nN04 HI TA UNUG\nN41 AB U4x1N01\nN04 GU7"
+    },
+    {
+        "designation": "CUSAS 01, 091",
+        "accountType": [
+            "cereals"
+        ],
+        "transcriptionCasesNoNumbers": "\nA DUR2 SZE SZU\n",
+        "transcriptionCasesNumbers": "N46\nN14 N57 N01 A DUR2 SZE SZU\nN46 N04"
+    },
+    {
+        "designation": "CUSAS 01, 092",
+        "accountType": [
+            "cereals"
+        ],
+        "transcriptionCasesNoNumbers": "GISZ3\nDU LAGAB.TE SI SI4 SZE\nSZE\n\n",
+        "transcriptionCasesNumbers": "GISZ3\nN01 N19 N14 DU LAGAB.TE SI SI4 SZE\nN01 N14 SZE\nN19 N04\n"
+    },
+    {
+        "designation": "CUSAS 01, 093",
+        "accountType": [
+            "cereals"
+        ],
+        "transcriptionCasesNoNumbers": "SZE\n\nBA NAGA SZAM2\nGAL SANGA SANGA\nEN GI KI",
+        "transcriptionCasesNumbers": "N24 N30 N01 N39 N14 SZE\nN24 N19 N41\nBA NAGA SZAM2\nGAL SANGA SANGA\nEN GI KI"
+    },
+    {
+        "designation": "CUSAS 01, 094",
+        "accountType": [
+            "cereals"
+        ],
+        "transcriptionCasesNoNumbers": "\n\nSZE\n\nE2 GAL SANGA SANGA\nZATU659",
+        "transcriptionCasesNumbers": "\n\nN01 N14 SZE\nN19 N41 N04\nE2 GAL SANGA SANGA\nZATU659"
+    },
+    {
+        "designation": "CUSAS 01, 095",
+        "accountType": [
+            "cereals"
+        ],
+        "transcriptionCasesNoNumbers": "SZE\nTAR\nUR5\n\nHI\n\nSZE\n\nHI\n\nMASZ2\nUR5\nTAR\nDU6 KASZ\nSZE\n\nGU7",
+        "transcriptionCasesNumbers": "N14 N01 SZE\nN24 N01 N39 TAR\nN14 UR5\nN14\nHI\n\nN14 SZE\n\nN14 N39 HI\n\nMASZ2\nN04 N41 N19 UR5\nN29 N41 N04 TAR\nDU6 KASZ\nN24 N29 N30 N45 N01 N39 N14 SZE\nN29 N04 N19\nGU7"
+    },
+    {
+        "designation": "CUSAS 01, 096",
+        "accountType": [
+            "cereals",
+            "animals"
+        ],
+        "transcriptionCasesNoNumbers": "EN\n\n\n\n\n\n\n\nGAL ME\n\n\n\n\n\n\nA KU3\nSZE\nSZE\n\nUDU\n\nHI@g KISAL\nALAN\nANSZE BARA2\nEN PA\nGI SANGA SZU\nDU EN U2\nA BU GI KU3 PA\nA LAL2 RU",
+        "transcriptionCasesNumbers": "EN\n\n\n\nN01\n\nN01\nN01\nGAL ME\nN01\n\n\nN01\nN38\n\nA KU3\nN14 N04 SZE\nN14 SZE\nN04\nN01 UDU\nN38\nN39 HI@g KISAL\nN01 ALAN\nN01 ANSZE BARA2\nN01 EN PA\nGI SANGA SZU\nDU EN U2\nA BU GI KU3 PA\nA LAL2 RU"
+    },
+    {
+        "designation": "CUSAS 01, 097",
+        "accountType": [
+            "cereals"
+        ],
+        "transcriptionCasesNoNumbers": "NE\nME TUR3\n\nZATU729\nAMA LU2 UDU\nEN\nSZU UR5\nTAR\nKU6 U2",
+        "transcriptionCasesNumbers": "N01 NE\nN25 N42 ME TUR3\n\nN42 ZATU729\nN42 AMA LU2 UDU\nEN\nSZU UR5\nN41 TAR\nN20 KU6 U2"
+    },
+    {
+        "designation": "CUSAS 01, 098",
+        "accountType": [
+            "cereals"
+        ],
+        "transcriptionCasesNoNumbers": "EN PAP SZE\nEN\n\n\n\n\n\n\n\nHI@g\n\n\nAN DU\n\n\nBU DU EN KI NAGAR SAG\nAPIN ARARMA2 U4\n\nARARMA2 BU EN U4\nSAL U4 ZI\nAB GIBIL U4\nAPIN EN NAGA\nSZE\n\nLAGAB.TE\nSZE TAR UNUG\nSZE\n\nLAGAB.TE\nGIBIL NAGA NAR SZE U4\nSZE\n\nLAGAB.TE",
+        "transcriptionCasesNumbers": "N14 N01 EN PAP SZE\nN34 N45 N01 N14 EN\nN14\nN14 N01\nN14\n\nN01 N14\nN34\nN34 N14\nN45 N34 N14 HI@g\nN14\nN01\nN46 N19 AN DU\n\n\nBU DU EN KI NAGAR SAG\nN14 APIN ARARMA2 U4\nN04 N19\nN19 ARARMA2 BU EN U4\nN19 SAL U4 ZI\nAB GIBIL U4\nN48 N49 N14 N01 APIN EN NAGA\nN45 N14 N34 SZE\nN46 N19 N04 N49\nN19 LAGAB.TE\nN49 N14 N01 SZE TAR UNUG\nN45 N14 SZE\nN19 N04 N36\nN46 LAGAB.TE\nN48 N01 N49 N14 GIBIL NAGA NAR SZE U4\nN48 N01 N14 SZE\nN46 N04 N49 N19 N36\nN46 N19 LAGAB.TE"
+    },
+    {
+        "designation": "CUSAS 01, 099",
+        "accountType": [
+            "cereals"
+        ],
+        "transcriptionCasesNoNumbers": "SZE U4x2N57\nRU SZE\nSZE\nBU NUMUN SZE\nSZE\nE2 SZE\nRU\nA NAR\nGIR3@g ZATU773\nDU\nGISZ3 TUR\nKU3 PA\n\nDU GI6\n\nEN URUxKI\nBU NAM2 PAP SZE\nNIR SAR URU",
+        "transcriptionCasesNumbers": "N01 SZE U4x2N57\nN14 RU SZE\nN14 SZE\nN14 BU NUMUN SZE\nN45 N14 SZE\nN14 N01 E2 SZE\nRU\nN14 N45 A NAR\nN14 GIR3@g ZATU773\nN14 DU\nN14 N01 GISZ3 TUR\nN14 KU3 PA\nN04\nN14 DU GI6\nN04\nN14 EN URUxKI\nN01 N14 BU NAM2 PAP SZE\nNIR SAR URU"
+    },
+    {
+        "designation": "CUSAS 01, 100",
+        "accountType": [
+            "cereals"
+        ],
+        "transcriptionCasesNoNumbers": "EN NINDA2xGISZ SZE TI\nBAR E2\nPAP SZE\nSZAGAN U4\nPAP SZE3 SZE\n\nBU NAM2 PAP SZE\n\nBAR E2 SZE\nDI GAL\nSZE\nE2\nA SZE+NAM2\nBU DU NI SZE3\nNAGAR SANGA ZI\nSZE\n\nBU DU NI SZE3\nNAGAR SANGA ZI",
+        "transcriptionCasesNumbers": "N01 N14 EN NINDA2xGISZ SZE TI\nN14 N01 N57 BAR E2\nN57 N14 PAP SZE\nSZAGAN U4\nN19 PAP SZE3 SZE\nN19\nN14 BU NAM2 PAP SZE\nN14\nN01 N57 N14 BAR E2 SZE\nN19 DI GAL\nN01 N45 N14 SZE\nN57 E2\nA SZE+NAM2\nBU DU NI SZE3\nNAGAR SANGA ZI\nN34 N45 N01 N14 SZE\nN19\nBU DU NI SZE3\nNAGAR SANGA ZI"
+    },
+    {
+        "designation": "CUSAS 01, 101",
+        "accountType": [
+            "cereals"
+        ],
+        "transcriptionCasesNoNumbers": "\nSAL SANGA ZATU751\n\nGU7 SZE\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "transcriptionCasesNumbers": "\nSAL SANGA ZATU751\nN04\nN14 GU7 SZE\nN14\n\n\nN14\nN14\nN14\n\nN01\nN04\n\n\nN01\n"
+    },
+    {
+        "designation": "CUSAS 01, 102",
+        "accountType": [
+            "cereals"
+        ],
+        "transcriptionCasesNoNumbers": "SZE\n\n\n\nGI SAL\nKU6 U2\n\n\nDU\n\n\nSAR\n\nGUG2 SZE\nSZE\n\nLAGAB.TE\nSAR",
+        "transcriptionCasesNumbers": "N34 SZE\n\nN14 N14\n\nN45 N01 N14 GI SAL\nN14 N45 KU6 U2\nN01\nN14\nN01 N14 DU\nN14\nN19\nSAR\n\nN36 N34 N45 N14 GUG2 SZE\nN45 N34 SZE\nN19\nN46 LAGAB.TE\nSAR"
+    },
+    {
+        "designation": "CUSAS 01, 103",
+        "accountType": [
+            "cereals"
+        ],
+        "transcriptionCasesNoNumbers": "\nAB E2 SZU\nBA NIN\n",
+        "transcriptionCasesNumbers": "N04 N42\nN04 N19 AB E2 SZU\nN04 BA NIN\nN24 N26 N39"
+    },
+    {
+        "designation": "CUSAS 01, 104",
+        "accountType": [
+            "cereals"
+        ],
+        "transcriptionCasesNoNumbers": "\nUB ZI\nGU7\nBA KI",
+        "transcriptionCasesNumbers": "N14\nN19 UB ZI\nGU7\nN19 N04 BA KI"
+    },
+    {
+        "designation": "CUSAS 01, 105",
+        "accountType": [
+            "cereals"
+        ],
+        "transcriptionCasesNoNumbers": "UR5\nTAR\nSAL TUR3\nAN NUNUZ SAL ZATU788\nAB KASZ U4x1N14.\n1N57.SZUBUR ME TUR3\nAN NUNUZ SANGA SANGA ZATU788\nAN NUNUZ SAL ZATU788\nASAR HI UNUG\n1N57.SZUBUR  ME TUR3\nAN NUNUZ ZATU788\nSAL ZATU676\nSANGA TUR3\nDU EN GA2 SZU\nBU I SZIM SZU\nUSZ\nSAL SANGA TUR3\nLUGAL\nAN GA2 TE\nHI SAL TA UNUG\nGAL SANGA SANGA\nKI KU3 ME UR\nAN NIN NUNUZ ZATU788\nAN NIN NUNUZ ZATU788\nBA NI\nSZU ZI\nAN NUNUZ ZATU788\nMUSZ3 ZATU809 ZATU811\nBU DU\nME TUR3\nGU7",
+        "transcriptionCasesNumbers": "N41 N46 N04 N19 UR5\nN19 N24 N41 N04 TAR\nN04 SAL TUR3\nN19 AN NUNUZ SAL ZATU788\nN19 AB KASZ U4x1N14.N01\nN04 N57.SZUBUR ME TUR3\nN04 AN NUNUZ SANGA SANGA ZATU788\nN04 AN NUNUZ SAL ZATU788\nN19 ASAR HI UNUG\nN57.SZUBUR N19 ME TUR3\nN19 AN NUNUZ ZATU788\nN04 SAL ZATU676\nN19 SANGA TUR3\nN19 N41 DU EN GA2 SZU\nN19 N24 N41 N04 BU I SZIM SZU\nN04 N57 USZ\nN14 SAL SANGA TUR3\nN14 LUGAL\nN19 N01 AN GA2 TE\nN04 HI SAL TA UNUG\nN19 GAL SANGA SANGA\nN04 KI KU3 ME UR\nN19 N57 AN NIN NUNUZ ZATU788\nN04 AN NIN NUNUZ ZATU788\nN04 BA NI\nN04 SZU ZI\nN19 AN NUNUZ ZATU788\nN14 MUSZ3 ZATU809 ZATU811\nN14 BU DU\nN19 ME TUR3\nN36 N46 N41 N04 N19 GU7"
+    },
+    {
+        "designation": "CUSAS 01, 106",
+        "accountType": [
+            "cereals"
+        ],
+        "transcriptionCasesNoNumbers": "\nTAR\n\nTAR\n\nTAR\n\nGU7 SZAM2\nGU7\nBU KAB",
+        "transcriptionCasesNumbers": "N28 N41\nN24 TAR\nN24 N41\nN24 N29 TAR\nN41\nN29 TAR\n\nGU7 SZAM2\nN04 N29 N30 N41 GU7\nBU KAB"
+    },
+    {
+        "designation": "CUSAS 01, 107",
+        "accountType": [
+            "cereals"
+        ],
+        "transcriptionCasesNoNumbers": "\nUNUG\n\nHI SAL TA\n\n\nPAP UNUG\nKU6 NA UKKIN\nHI SAL TA\nUR5\n\n",
+        "transcriptionCasesNumbers": "\nUNUG\nN19\nN14 HI SAL TA\n\nN04 N41\nN19 PAP UNUG\nN04 N41 KU6 NA UKKIN\nN41 HI SAL TA\nN19 N41 N04 UR5\nN04 N41\n"
+    },
+    {
+        "designation": "CUSAS 01, 108",
+        "accountType": [
+            "cereals"
+        ],
+        "transcriptionCasesNoNumbers": "EN\n\nPAP PIRIG\n\nDU\nDU EN PAP SZE\n\nGA NAGA\nPIRIG\n\nSZU\nBA GI SZU SZU\nNAGA\n\n\nAB SZE\n\n\nAPIN GA SZU SZU\nE2 EN SZE\n\n\n",
+        "transcriptionCasesNumbers": "N19 EN\nN04\nN46 N04 PAP PIRIG\n\nN19 DU\nN19 N14 DU EN PAP SZE\nN14\nN04 GA NAGA\nN01 N57 PIRIG\n\nN46 SZU\nBA GI SZU SZU\nN01 N30 NAGA\nN01\n\nN01 AB SZE\n\n\nAPIN GA SZU SZU\nN19 E2 EN SZE\nN14 N01\nN19\n"
+    },
+    {
+        "designation": "CUSAS 01, 109",
+        "accountType": [
+            "cereals"
+        ],
+        "transcriptionCasesNoNumbers": "\n\nBA E2\nE2\n\n\n\nBA E2",
+        "transcriptionCasesNumbers": "\n\nN14 N46 N57 BA E2\nN57 N19 E2\n\n\n\nN46 N19 BA E2"
+    },
+    {
+        "designation": "CUSAS 01, 110",
+        "accountType": [
+            "cereals"
+        ],
+        "transcriptionCasesNoNumbers": "GI4 SANGA TUR3 UR5\nHI\nGUG2\nNIN URU\nKASZ\nKINGAL\nDU8xAB2 GU7\nSZE\nGU7 MAR\nGU7 SZE\nU4x3N57\nNIN\nUNUG\nEZEN GAL",
+        "transcriptionCasesNumbers": "N19 N04 GI4 SANGA TUR3 UR5\nN24 N01 HI\nN39 GUG2\nN19 NIN URU\nN19 KASZ\nKINGAL\nDU8xAB2 GU7\nN14 N01 SZE\nGU7 MAR\nN04 N14 N19 N01 GU7 SZE\nU4x3N57\nNIN\nUNUG\nEZEN GAL"
+    },
+    {
+        "designation": "CUSAS 01, 111",
+        "accountType": [
+            "cereals"
+        ],
+        "transcriptionCasesNoNumbers": "SZE\n\n\n\nGU HIx1N57\n",
+        "transcriptionCasesNumbers": "N24 N30 N01 N39 N14 SZE\nN04 N41\n\nN30 N18 N03\nN24 N28 N39 GU HIx1N57\n"
+    },
+    {
+        "designation": "CUSAS 01, 112",
+        "accountType": [
+            "cereals"
+        ],
+        "transcriptionCasesNoNumbers": "KASZ LAGAB\n\n\nSZE\n\nHI@g\n\nHI@g\nDU8@c\nHI@g\nDUG GAR HAL\nHI@g\nSZE\n\n",
+        "transcriptionCasesNumbers": "N34 KASZ LAGAB\n\n\nN14 SZE\nN03 N18\nN01 N14 HI@g\nN24 N34\nHI@g\nN16 N51 DU8@c\nN01 N39 HI@g\nN25 N05 N20 N42 DUG GAR HAL\nN20 N25 N05 N42 HI@g\nN14 SZE\n\n"
+    },
+    {
+        "designation": "CUSAS 01, 113",
+        "accountType": [
+            "cereals"
+        ],
+        "transcriptionCasesNoNumbers": "BA MUSZEN U2\nBAR\nSAL\nAN E2 GI\nSAGSZU\nUD5 UDU\nA KI\nKASZ KU\nTUM\n\nBA NI\n\nE2 NIN\nKI\nBU GI NAM2 PAP\nLAGAB MUSZEN TU\nAN\nTUM\nSAL UDU URUxX\n\nUD5\nU8\nBU\nNUNUZ\nTE\n\nHI@g\nBA\nGI",
+        "transcriptionCasesNumbers": "N05 BA MUSZEN U2\nN24 N42 BAR\nN42 SAL\nN42 AN E2 GI\nN42 SAGSZU\nN25 UD5 UDU\nN42 A KI\nN42 KASZ KU\nN42 TUM\nN42\nBA NI\nN42\nE2 NIN\nN42 KI\nN25 BU GI NAM2 PAP\nN25 LAGAB MUSZEN TU\nN42 N57 AN\nN25 TUM\nN25 SAL UDU URUxX\nN25\nN42 UD5\nN42 U8\nBU\nN25 N57 NUNUZ\nN42 TE\n\nN20 HI@g\nN42 N05 BA\nN42 GI"
+    },
+    {
+        "designation": "CUSAS 01, 114",
+        "accountType": [
+            "cereals"
+        ],
+        "transcriptionCasesNoNumbers": "HI@g U4+1N14.\nBA GAR U4\nBA KU SZIM\nU4x1N57\nSZE\nBA\nTAR\nU4+1N14.\nSZE U4+1N14.\n\nSZE U4x1N01\nTAR\nHI@g\nTAR",
+        "transcriptionCasesNumbers": "N05 N42 HI@g U4+N14.N08\nN05 N42 BA GAR U4\nN42 BA KU SZIM\nN42 U4x1N57\nN25 N42 N57 N05 SZE\nN05 BA\nN28 N42 TAR\nU4+N14.N08\nN39 N01 SZE U4+N14.N08\nN29 N39\nN24 N39 N14 SZE U4x1N01\nN30 N39 TAR\nN20 N05 HI@g\nN25 N42 TAR"
+    },
+    {
+        "designation": "CUSAS 01, 115",
+        "accountType": [
+            "cereals"
+        ],
+        "transcriptionCasesNoNumbers": "GAR GISZxSZU2 SZE\nGAR IM SZE\nGAR NAGA SZE\nGAR SZE\nGAR SZE UNUG\nSANGA\n\nGIBIL SZE UB\nKU6 SZE\nGISZ3 KU3 PA\n\n\n\nSZE\nLAGAB SZE\n\nGU7 SZE",
+        "transcriptionCasesNumbers": "N14 GAR GISZxSZU2 SZE\nN14 GAR IM SZE\nN14 GAR NAGA SZE\nN14 GAR SZE\nN14 GAR SZE UNUG\nSANGA\n\nN24 N39 GIBIL SZE UB\nN01 KU6 SZE\nN04 GISZ3 KU3 PA\nN19\n\nN05 N42\nN39 N01 SZE\nN01 N24 N39 LAGAB SZE\nN04 N19\nN04 N14 N19 N24 N01 N39 GU7 SZE"
+    },
+    {
+        "designation": "CUSAS 01, 116",
+        "accountType": [
+            "cereals"
+        ],
+        "transcriptionCasesNoNumbers": "\nSZU2\nGAR\nU4\nSZE\nTUR\nSZEN\n\n\nGU HIx1N57\n",
+        "transcriptionCasesNumbers": "\nN01 SZU2\nN14 GAR\nN14 U4\nN14 SZE\nN14 TUR\nN01 SZEN\n\nN30 N18 N03\nN24 N28 N39 GU HIx1N57\n"
+    },
+    {
+        "designation": "CUSAS 01, 117",
+        "accountType": [
+            "cereals"
+        ],
+        "transcriptionCasesNoNumbers": "GAR SZU\nHI@g\nGAR\nHI@g\n\nSZEN@t U4\nHI@g\n\nDUG SZE\nSZE\n\n\n\n\nHI@g\n\nHI@g SZE\nHI@g SZE\nBA KI SZE",
+        "transcriptionCasesNumbers": "N34 N51 N57 GAR SZU\nN05 HI@g\nN30 N51 GAR\nN05 N42 HI@g\n\nN01 SZEN@t U4\nN05 HI@g\nN18\nN01 DUG SZE\nN30 SZE\nN03 N18 N40\n\nN05\n\nN25 N42 HI@g\nN20\nN42 N20 HI@g SZE\nN25 N05 N42 N20 HI@g SZE\nN20 N25 N05 N42 BA KI SZE"
+    },
+    {
+        "designation": "CUSAS 01, 118",
+        "accountType": [
+            "cereals"
+        ],
+        "transcriptionCasesNoNumbers": "\n\n\nMU SZA3 ZATU714\n\nGAR LAGAB\nGAR U4\n\n",
+        "transcriptionCasesNumbers": "\n\nN01\nMU SZA3 ZATU714\n\nN01 GAR LAGAB\nN01 GAR U4\nN14\nN14"
+    },
+    {
+        "designation": "CUSAS 01, 119",
+        "accountType": [
+            "cereals"
+        ],
+        "transcriptionCasesNoNumbers": "DU6 U2 U4\nGAR NUN.U4 U4\nDU8 U2 U4\nDU8 U4\n\nGAR U2 U4\nAB SANGA TUN3\n\nAN E2\nSZITA\nKI TAK4\nKASZ\nAN E2\nKI TAK4\nDUG",
+        "transcriptionCasesNumbers": "N01 DU6 U2 U4\nN01 GAR NUN.U4 U4\nN01 DU8 U2 U4\nN01 DU8 U4\n\nN14 GAR U2 U4\nN14 AB SANGA TUN3\n\nN01 AN E2\nN01 SZITA\nN01 KI TAK4\nKASZ\nN01 AN E2\nN01 KI TAK4\nDUG"
+    },
+    {
+        "designation": "CUSAS 01, 120",
+        "accountType": [
+            "cereals"
+        ],
+        "transcriptionCasesNoNumbers": "GAR SZE\n\nGAR SZE\n\n",
+        "transcriptionCasesNumbers": "N30 N51 GAR SZE\nN20 N05\nN14 N30 N51 GAR SZE\nN05\n"
+    },
+    {
+        "designation": "CUSAS 01, 121",
+        "accountType": [
+            "cereals"
+        ],
+        "transcriptionCasesNoNumbers": "4N57.GAR UB URU ZI\nSZE\nTAR\nME SAG\n3N57.GAR GU MUSZEN\n\n4N57.GAR\n\nGAL MUSZEN\n\nBU NAM2 PAP\nDU EN GA2\nAN NUNUZ ZATU788\nEN\n\nDUG\n\n\nSAG\nME TUR3\nU4\nGUG2\nEN SZU\n\nHI@g\nHI@g SZE\nHI@g\nSZE\nGU7 KISAL KU6",
+        "transcriptionCasesNumbers": "N14 N57.GAR UB URU ZI\nN05 SZE\nN25 TAR\nN42 ME SAG\nN14 N57.GAR GU MUSZEN\nN25\nN14 N57.GAR\nN42\nN14 GAL MUSZEN\nN39\nN25 BU NAM2 PAP\nN42 DU EN GA2\nN42 AN NUNUZ ZATU788\nN01 EN\nN01 N39\nN14 DUG\n\n\nN39 SAG\nN01 ME TUR3\nN24 U4\nN24 GUG2\nN39 EN SZU\nN39\nHI@g\nN14 N39 N01 HI@g SZE\nN01 N39 HI@g\nN14 N39 N01 SZE\nGU7 KISAL KU6"
+    },
+    {
+        "designation": "CUSAS 01, 122",
+        "accountType": [
+            "cereals"
+        ],
+        "transcriptionCasesNoNumbers": "\n\nSZE\n\nAB DUB KISAL KU6 URU",
+        "transcriptionCasesNumbers": "N05 N25 N28 N29 N30 N42 N20\nN28 N29 N30 N42 N05\nN20 N25 N05 SZE\nN03 N40\nN57 AB DUB KISAL KU6 URU"
+    },
+    {
+        "designation": "CUSAS 01, 123",
+        "accountType": [
+            "cereals"
+        ],
+        "transcriptionCasesNoNumbers": "\n\n\nSZE\n\nHI@g\n\nSZE\n\n\n\n\n\n\n\n\n\nDU8@g\n\nGUG2 SZA@g\n\nGUG2 SAG\n\nSZEN@t\nHI@g\n\nDUG LAGAB SZE\nSZE\nSZEN U4\nHI@g\n\nDUG\n\n\nABGAL\nDUB E2\n\nHI@g\nSZE\n\nDUGxHI\nKU3 SAL\nHIx1N57\nGUG2 TI@t\nPIRIG\n\nHI@g\nSZE\nDUGxHI\nGUG2",
+        "transcriptionCasesNumbers": "\n\n\nN39 SZE\n\nN39 HI@g\n\nN39 SZE\n\n\nN24\n\n\n\nN30\n\n\nN01 DU8@g\n\nN01 GUG2 SZA@g\nN30\nN01 GUG2 SAG\nN30\nN34 SZEN@t\nN14 HI@g\nN18\nN34 DUG LAGAB SZE\nN14 SZE\nN14 SZEN U4\nN01 HI@g\nN03\nN14 N01 DUG\nN57 N01\nN03 N24 N40\nN30 ABGAL\nN24 DUB E2\nN24 N30 N39\nN39 HI@g\nN24 N30 N39 SZE\nN30\nN01 DUGxHI\nN30 N57 KU3 SAL\nN24 HIx1N57\nN39 GUG2 TI@t\nN30 PIRIG\nN30\nN05 N30 N42 HI@g\nN24 N01 N39 SZE\nDUGxHI\nGUG2"
+    },
+    {
+        "designation": "CUSAS 01, 124",
+        "accountType": [
+            "cereals"
+        ],
+        "transcriptionCasesNoNumbers": "\n\nAN NAMESZDA\n\nEN NE SZE\n\nUB\n\n",
+        "transcriptionCasesNumbers": "N14\n\nN14 AN NAMESZDA\nN19\nN14 EN NE SZE\nN19\nUB\nN19\n"
+    },
+    {
+        "designation": "CUSAS 01, 125",
+        "accountType": [
+            "cereals"
+        ],
+        "transcriptionCasesNoNumbers": "E2\nE2x1N57@t\nE2 GAL SILA3xHI\nSILA3xHI\nDUG KASZ\n\nBULUG3 DU6\nDUG HAL NAM2\nKISZ\nIDIGNA PAP\n\n",
+        "transcriptionCasesNumbers": "E2\nE2x1N57@t\nN01 E2 GAL SILA3xHI\nN01 SILA3xHI\nN01 DUG KASZ\nN01\nN01 BULUG3 DU6\nN01 DUG HAL NAM2\nN01 KISZ\nN01 IDIGNA PAP\n\n"
+    },
+    {
+        "designation": "CUSAS 01, 126",
+        "accountType": [
+            "cereals"
+        ],
+        "transcriptionCasesNoNumbers": "ABZU\nLA2 SUG5\nGUG2\nAN KU3\nGUG2 SZUBUR\nNIM\nHI@g\nABZU\n\nDU8\nGUG2\nPAP SAL SZU\n\nSZE U4.\nHI@g\n\nGUG2\n\nU4.",
+        "transcriptionCasesNumbers": "ABZU\nN39 LA2 SUG5\nN28 GUG2\nN28 AN KU3\nGUG2 SZUBUR\nN30 NIM\nHI@g\nABZU\n\nN28 DU8\nGUG2\nN39 PAP SAL SZU\n\nSZE U4.N08\nN01 N24 N39 HI@g\nN01 N29\nN28 N39 GUG2\nN16 N39\nU4.N08"
+    },
+    {
+        "designation": "CUSAS 01, 127",
+        "accountType": [
+            "cereals"
+        ],
+        "transcriptionCasesNoNumbers": "DU6\nDU8\nZATU726\nSIG2\nGUG2\nHI@g\nSUR\nSZE\nSZA\nDU8\nHI@g\nMU ZATU714xHI@g\nHI@g\n\nHI@g\nGISZ LAM\n\nE2\n\nHI@g\n\n\n\nDU URU\n\nSZU2.E2\nE2\n\nGIR3@g ZATU773\nBU DU NI\nZATU710\nHI@g\nSZE\nGUG2 URU\n\n\nHI@g\nSZE\n",
+        "transcriptionCasesNumbers": "N01 DU6\nN01 DU8\nN01 ZATU726\nN01 SIG2\nN01 GUG2\nN24 N28 N39 HI@g\nN01 SUR\nN28 SZE\nN01 SZA\nN01 DU8\nN28 HI@g\nN51 MU ZATU714xHI@g\nN28 HI@g\nN30\nN30 HI@g\nGISZ LAM\nN01\nN01 E2\nN01\nN24 N30 HI@g\n\n\nN30\nDU URU\nN14 N01\nSZU2.E2\nE2\nN24 N29\nGIR3@g ZATU773\nBU DU NI\nN01 ZATU710\nN39 HI@g\nN39 SZE\nGUG2 URU\n\nN01 N24 N30 N39\nN24 N26 N39 HI@g\nN24 N28 N39 SZE\nN24 N40"
+    },
+    {
+        "designation": "CUSAS 01, 128",
+        "accountType": [
+            "cereals"
+        ],
+        "transcriptionCasesNoNumbers": "SZE\nBU\nE2x1N57@t I UB\nHI@g\nBA E2x1N57@t",
+        "transcriptionCasesNumbers": "N05 N20 N42 SZE\nN05 BU\nN42 N05 E2x1N57@t I UB\nN05 N38 HI@g\nBA E2x1N57@t"
+    },
+    {
+        "designation": "CUSAS 01, 129",
+        "accountType": [
+            "cereals"
+        ],
+        "transcriptionCasesNoNumbers": "UR5\nBA\nGI\nPAP SAL\nAD SAL\n\nGAR\n\n\n",
+        "transcriptionCasesNumbers": "N20 UR5\nN14 N24 N39 N01 BA\nN24 GI\nN01 PAP SAL\nAD SAL\n\nGAR\nN39 N01\nN24 N39 N01\n"
+    },
+    {
+        "designation": "CUSAS 01, 130",
+        "accountType": [
+            "cereals"
+        ],
+        "transcriptionCasesNoNumbers": "\nHIx1N57 NE\nHI@g\nMAR\nGAR U4\nHI@g\nDU8\nHI@g\n\n",
+        "transcriptionCasesNumbers": "\nN14 HIx1N57 NE\nN25 N28 N30 N42 N57 HI@g\nN28 MAR\nN14 N01 GAR U4\nN28 N30 N42 HI@g\nDU8\nN30 N42 HI@g\nN05 N42\n"
+    },
+    {
+        "designation": "CUSAS 01, 131",
+        "accountType": [
+            "cereals"
+        ],
+        "transcriptionCasesNoNumbers": "KALAM KASZ SAG SUG5\n\nGAR SZE\n\nAB ZATU714\nGAR U2\n\nPAP UB ZATU710 ZI\nSI TUN3\nAD KU3 UB ZATU710 ZI\nUNUG ZATU710\nUB UNUG ZATU710 ZI\nUB UNUG ZI\nA DU SZE UB ZI\nI SUKKAL UB ZI\nGAN2 ISZ\nAD GAR KU3 UB ZI\n\n\n\nZATU714\n\nDAR GU\nDAR GAR GU\n\nBU GU7 MUD NA SZE",
+        "transcriptionCasesNumbers": "N14 KALAM KASZ SAG SUG5\nN05\nN14 GAR SZE\nN05\nN05 N42 AB ZATU714\nN14 GAR U2\nN42\nN01 PAP UB ZATU710 ZI\nN01 SI TUN3\nN42 AD KU3 UB ZATU710 ZI\nN42 UNUG ZATU710\nN42 UB UNUG ZATU710 ZI\nN42 UB UNUG ZI\nN05 A DU SZE UB ZI\nN05 I SUKKAL UB ZI\nN05 N25 N42 GAN2 ISZ\nN14 AD GAR KU3 UB ZI\nN42\nN42\nN42\nN42 ZATU714\nN14\nN05 DAR GU\nN20 DAR GAR GU\nN42\nN25 N20 N42 N05 BU GU7 MUD NA SZE"
+    },
+    {
+        "designation": "CUSAS 01, 132",
+        "accountType": [
+            "cereals"
+        ],
+        "transcriptionCasesNoNumbers": "\nSUHUR\n\n\nSUHUR\n\n",
+        "transcriptionCasesNumbers": "N25\nN08 SUHUR\nN01\nN42\nN08 SUHUR\nN01\nN05 N20"
+    },
+    {
+        "designation": "CUSAS 01, 133",
+        "accountType": [
+            "cereals"
+        ],
+        "transcriptionCasesNoNumbers": "\n\nE2 UB\nNUMUN\n\nHI@g\nSZE\nAB SUHUR",
+        "transcriptionCasesNumbers": "N01\n\nE2 UB\nNUMUN\nN01\nN24 HI@g\nN39 SZE\nAB SUHUR"
+    },
+    {
+        "designation": "CUSAS 01, 134",
+        "accountType": [
+            "cereals"
+        ],
+        "transcriptionCasesNoNumbers": "\n\nBAR SAL\nBU&BU.NA2 ME SZA\n\n\nNAR\n\n\n\nEN NA2\nMAHxMASZ\nDU8\n\nGA2 GI SAL\nBU&BU.NA2 ME SZA\n\n\n\n\nU2\n\nGI\n\nSZU2\nBU&BU.NA2\nZATU725\nSZE3 TE\nGAR\nAN MAHxMASZ\n\n\n\n\n\n\n\nSIG7\nUDU\n\n\n\n\nGAR\n\nGAR SZE\n\nGUG2\nTUR U4.\n\nTUR\nSUR\nGU7 U4.\n",
+        "transcriptionCasesNumbers": "\n\nN01 BAR SAL\nN01 BU&BU.NA2 ME SZA\nN01\nN01\nN01 NAR\n\n\n\nN01 EN NA2\nN01 MAHxMASZ\nN24 DU8\nN01\nN01 GA2 GI SAL\nN57 N01 BU&BU.NA2 ME SZA\n\n\n\n\nN14 U2\nN14\nN01 GI\nN01\nN01 SZU2\nN01 BU&BU.NA2\nN01 ZATU725\nN01 SZE3 TE\nGAR\nN01 AN MAHxMASZ\nN01\n\n\nN01\nN01\nN01\nN01\nN01 SIG7\nN01 UDU\n\nN01\nN01\nN01\nN14 N01 GAR\n\nN34 N14 N01 GAR SZE\nN14\nN14 N34 GUG2\nN01 N14 TUR U4.N08\nN01\nN14 N01 TUR\nN14 N01 SUR\nGU7 U4.N08\n"
+    },
+    {
+        "designation": "CUSAS 01, 135",
+        "accountType": [
+            "cereals"
+        ],
+        "transcriptionCasesNoNumbers": "BA SZE\nGAN2 RU UR2 URU\nHI UDU\n\nSZU2 ZAG\nDU GI6 IB SZE&SZE\nAPIN PAP SAL SZU2\nAPIN KID PAP\nA DU EN GI GISZ GISZ3 KU3 PA SUHUR\nA DU EN TUR\n\n\n",
+        "transcriptionCasesNumbers": "BA SZE\nN01 GAN2 RU UR2 URU\nN01 HI UDU\n\nN57 SZU2 ZAG\nN14 DU GI6 IB SZE&SZE\nN14 APIN PAP SAL SZU2\nAPIN KID PAP\nN01 A DU EN GI GISZ GISZ3 KU3 PA SUHUR\nN01 A DU EN TUR\n\n\n"
+    },
+    {
+        "designation": "CUSAS 01, 136",
+        "accountType": [
+            "cereals"
+        ],
+        "transcriptionCasesNoNumbers": "\n\n\nGUG2 HI\nBU GUG2\n,\n\n\nBA PIRIG\nHI\n",
+        "transcriptionCasesNumbers": "N01 N39\n\nN01 N39\nN01 GUG2 HI\nN01 BU GUG2\nN39,\n\n\nN25 N42 BA PIRIG\nN01 HI\n"
+    },
+    {
+        "designation": "CUSAS 01, 137",
+        "accountType": [
+            "cereals"
+        ],
+        "transcriptionCasesNoNumbers": "\n\n\n\nTUR\nGUG2\nZATU726\n\nSZA\n\nLAGABxSZA LAGABxSZITA\n\nSZA\n\nGUG2\n\nLAGABxSZA LAGABxSZITA\n\n\nGUG2 NE\n\n\nGUG2 NE\n\nGUG2 URU\nAB BULUG3 GI4 URU\n\n\nGU7 URU\n\nHI@g\n\nAB BULUG3 GU7 SZAM2 U4x1N01 URU\nGU7 SZAM2",
+        "transcriptionCasesNumbers": "N24 N01\nN42\nN30 N01\nN27\nN01 TUR\nN01 GUG2\nN01 ZATU726\nN25\nN14 SZA\nN25\nN01 LAGABxSZA LAGABxSZITA\nN25 N30\nN01 SZA\nN30\nN01 GUG2\nN28\nN01 LAGABxSZA LAGABxSZITA\nN25 N30\nN51\nN28 GUG2 NE\n\nN14\nN28 GUG2 NE\nN14\nGUG2 URU\nN39 AB BULUG3 GI4 URU\nN03\n\nGU7 URU\n\nN30 N01 HI@g\n\nAB BULUG3 GU7 SZAM2 U4x1N01 URU\nGU7 SZAM2"
+    },
+    {
+        "designation": "CUSAS 01, 138",
+        "accountType": [
+            "cereals"
+        ],
+        "transcriptionCasesNoNumbers": "LAGABxSZA LAGABxSZITA\nDUGx1N58\nSZEN\nDUG\nDU6\nSAG\nGAR\nAN BA\nKU6",
+        "transcriptionCasesNumbers": "N14 LAGABxSZA LAGABxSZITA\nN01 DUGx1N58\nN01 SZEN\nN01 DUG\nN01 N26 DU6\nN29 N01 SAG\nN01 GAR\nAN BA\nKU6"
+    },
+    {
+        "designation": "CUSAS 01, 139",
+        "accountType": [
+            "cereals"
+        ],
+        "transcriptionCasesNoNumbers": "GUG2 SZU\nA SI\n\nMUSZEN UB\n\n",
+        "transcriptionCasesNumbers": "N01 N14 N34 GUG2 SZU\nN34 A SI\n\nN14 MUSZEN UB\n\nN14 N01 N34"
+    },
+    {
+        "designation": "CUSAS 01, 140",
+        "accountType": [
+            "cereals"
+        ],
+        "transcriptionCasesNoNumbers": "LAGABxSZITA SZU2.E2\nGAR U2\nGAR LAGAB\nSZU2.E2\nGUG2 NE ZATU714\nLAGABxSZITA\nDU6 U2\nDU8 U2\nKI KU3\nMU ZATU714xHI@g\nAN LAGAB SZU2.E2\nKI KU3\nGAR SZE\nDUG SZU2.E2\nGAR SZE\nDUG\nKASZ KI KU3\nSZITA@g\nSILA3xKASZ\nSZEN U4\nDUG\nSZITA@g\nSILA3+KASZ\nKASZ SZE\nEZEN GUG2 U4. URU\nSZE\nHI@g\nSZE\nGAL GAR\nHI@g\nGUG2 NE ZATU714\nMU ZATU714xHI@g\nGAR U4\n\nGAR U2\nSZU2.E2\nDU8\n\nGAR SZE\n\nDUG\nSZEN U4\nKASZ LAGAB SZE\nGU7 GUG2 U4. URU",
+        "transcriptionCasesNumbers": "N29 N01 LAGABxSZITA SZU2.E2\nN01 GAR U2\nN01 GAR LAGAB\nSZU2.E2\nN28 GUG2 NE ZATU714\nN01 LAGABxSZITA\nN01 DU6 U2\nN01 DU8 U2\nN01 KI KU3\nN29 MU ZATU714xHI@g\nN14 AN LAGAB SZU2.E2\nN01 KI KU3\nGAR SZE\nN01 DUG SZU2.E2\nGAR SZE\nDUG\nN01 KASZ KI KU3\nN01 SZITA@g\nN01 SILA3xKASZ\nSZEN U4\nN01 DUG\nN01 SZITA@g\nN01 SILA3+KASZ\nKASZ SZE\nEZEN GUG2 U4.N08 URU\nN01 N24 N30 SZE\nN39 HI@g\nN24 N30 N39 SZE\nN01 GAL GAR\nN42 HI@g\nN27 GUG2 NE ZATU714\nN29 MU ZATU714xHI@g\nN01 GAR U4\nN27\nN01 GAR U2\nSZU2.E2\nN01 DU8\nN27\nN14 N01 GAR SZE\nN25 N42\nN01 DUG\nN01 SZEN U4\nN01 KASZ LAGAB SZE\nGU7 GUG2 U4.N08 URU"
+    },
+    {
+        "designation": "CUSAS 01, 141",
+        "accountType": [
+            "cereals"
+        ],
+        "transcriptionCasesNoNumbers": "SZE UR5\nLAM UR5\nME SZE TUR3 UR5\nUR5\nKALAM SAR SZE UR5",
+        "transcriptionCasesNumbers": "N25 N42 N20 SZE UR5\nN20 N05 LAM UR5\nN20 ME SZE TUR3 UR5\nUR5\nN25 N42 N05 N20 KALAM SAR SZE UR5"
+    },
+    {
+        "designation": "CUSAS 01, 142",
+        "accountType": [
+            "cereals"
+        ],
+        "transcriptionCasesNoNumbers": "KI\n\nSZE\nHAL\n",
+        "transcriptionCasesNumbers": "N01 N14 KI\nN04 N19\nN01 N14 SZE\nN01 N14 HAL\n"
+    },
+    {
+        "designation": "CUSAS 01, 143",
+        "accountType": [
+            "cereals"
+        ],
+        "transcriptionCasesNoNumbers": "KASZ SZE U4x1N57\nKASZ U4x1N01\nUR5\nTAR\nKASZ U4x5N01\nAB KASZ",
+        "transcriptionCasesNumbers": "N28 KASZ SZE U4x1N57\nN01 N16 N29 N39 KASZ U4x1N01\nN01 N24 N39 UR5\nN16 N24 N29 TAR\nN14 N24 N39 N01 KASZ U4x5N01\nAB KASZ"
+    },
+    {
+        "designation": "CUSAS 01, 144",
+        "accountType": [
+            "cereals"
+        ],
+        "transcriptionCasesNoNumbers": "SZE\n\n\n\nDILMUN U4 ZATU710\nGI&GI SZE ZATU710\nGAR\nKASZ\nHI@g\nSZE\n\nKASZ PAP SZU\nSZE\n\n\nA MU SZE\n\nHI@g\n\n\nEN GAR\n\n\nDUG GAR TAK4\nKASZ\n\n\nA DU HI@g KASZ MU\nSZE\nGAR HI@g ZATU651xGAR ZATU714xHI@g\nKASZ\n\nSZE\n\nA HI@g MU\n\n\n\n\n\n\n\n",
+        "transcriptionCasesNumbers": "N14 SZE\nN14\n\n\nN39 DILMUN U4 ZATU710\nN39 GI&GI SZE ZATU710\nN14 GAR\nN01 KASZ\nN39 HI@g\nN24 N39 SZE\nN24\nN01 KASZ PAP SZU\nN24 SZE\nN28\nN24\nN24 N28 A MU SZE\n\nN24 N39 HI@g\n\nN39\nN14 EN GAR\n\nN39\nN14 DUG GAR TAK4\nN01 KASZ\n\nN24\nN01 A DU HI@g KASZ MU\nN14 N01 SZE\nN01 GAR HI@g ZATU651xGAR ZATU714xHI@g\nN01 KASZ\nN14\nN39 SZE\nN24\nN39 A HI@g MU\nN26\n\n\nN14\n\n\nN14\n"
+    },
+    {
+        "designation": "CUSAS 01, 145",
+        "accountType": [
+            "cereals"
+        ],
+        "transcriptionCasesNoNumbers": "\n\n\n\n\n\nGISZ KASZ SZEN@t\n\n\nZATU710\nHI@g\n\n\nZATU639\n\nKASZ\nGISZ KASZ URU\nHI@g\nSZE\n\nGAR\nGAR\nBA BAHAR2 EN\nDUG KASZ\nDUG UKKIN\nHI@g\n\n\nDUG E2x1N57@t U4\nGISZ KASZ\n\n\nDUG KASZ\nHI@g\n\nBULUG3\n\n\n\nAL E2 GISZ KASZ KASZ URU\nGAR U4\n\nMU ZATU714\n\n\n\nGISZ KASZ URU\nDUG MU\nHI@g\n\n\nGUG2 ZATU710\n\n\n\n",
+        "transcriptionCasesNumbers": "\n\nN39\n\n\nN39\nN01 GISZ KASZ SZEN@t\n\nN03 N40\nN14 ZATU710\nN39 HI@g\nN40\nN14\nN14 ZATU639\n\nN01 KASZ\nN01 GISZ KASZ URU\nN42 HI@g\nN39 SZE\nN40\nGAR\nN14 GAR\nBA BAHAR2 EN\nN01 DUG KASZ\nN01 DUG UKKIN\nN24 N42 HI@g\nN39 N01\nN40\nN01 DUG E2x1N57@t U4\nN01 GISZ KASZ\nN39\nN42 N40\nN01 DUG KASZ\nN25 HI@g\nN24\nN40 BULUG3\nN01\nN24\nN39\nN14 AL E2 GISZ KASZ KASZ URU\nN14 GAR U4\nN03\nN40 MU ZATU714\nN39\nN24\nN03\nN01 GISZ KASZ URU\nN01 DUG MU\nN39 HI@g\nN39\nN40\nN39 GUG2 ZATU710\nN24 N39\nN14\nN14\n"
+    },
+    {
+        "designation": "CUSAS 01, 146",
+        "accountType": [
+            "cereals"
+        ],
+        "transcriptionCasesNoNumbers": "\nSZA\nGUG2 SAG\n\nDU8@g\nKASZ SZE\nSZE\n\n\n\nGAL GU7 NAGA SANGA SANGA U4x1N01\n\nHI\nSZE\n\nTE",
+        "transcriptionCasesNumbers": "\nN01 SZA\nN01 GUG2 SAG\nN24\nN01 DU8@g\nN01 KASZ SZE\nN39 SZE\nN25\nN01\nN01 N14\nGAL GU7 NAGA SANGA SANGA U4x1N01\nN24 N28 N39\nN24 N39 HI\nN28 N39 SZE\nN24\nTE"
+    },
+    {
+        "designation": "CUSAS 01, 147",
+        "accountType": [
+            "cereals"
+        ],
+        "transcriptionCasesNoNumbers": "\n\n\n\nDUG\nBA DUG\nE2x1N57@t\nDUG\nBA\nSIG7\nGAN\nDUG\nSI\n\n\nNE\nKASZ\n\nABGAL\nNUNUZ TAK4\nE2x1N57@t\nDUG\nGAL SANGA SANGA\nABGAL E2\n",
+        "transcriptionCasesNumbers": "\n\n\n\nDUG\nBA DUG\nN01 E2x1N57@t\nN01 DUG\nBA\nN01 SIG7\nN01 GAN\nN01 DUG\nN01 SI\n\nN14\nN30 NE\nN01 KASZ\n\nN14 N38 ABGAL\nN01 NUNUZ TAK4\nN01 E2x1N57@t\nN01 DUG\nN39 GAL SANGA SANGA\nN01 ABGAL E2\n"
+    },
+    {
+        "designation": "CUSAS 01, 148",
+        "accountType": [
+            "cereals"
+        ],
+        "transcriptionCasesNoNumbers": "KASZ\nLAGABxSZITA\nGUG2 TI@t\n\n\n",
+        "transcriptionCasesNumbers": "N01 KASZ\nN01 LAGABxSZITA\nN14 GUG2 TI@t\nN01\n\n"
+    },
+    {
+        "designation": "CUSAS 01, 149",
+        "accountType": [
+            "cereals"
+        ],
+        "transcriptionCasesNoNumbers": "AN NU11\nEN\nNUMUN\nSIG2 SZE\nAN SZA3 UR2\nA GISZ3 KU3\nAN NU11\nBAR GUG2 KASZ\nGAL KISAL SANGA SI\nAN NU11\nDUB SANGA\nDU EN GA2 ME SZU\nTUR3\nDAR ME PAP\nBA\nAL",
+        "transcriptionCasesNumbers": "N01 AN NU11\nN01 EN\nN01 N04 NUMUN\nN01 N19 SIG2 SZE\nAN SZA3 UR2\nN01 A GISZ3 KU3\nN01 AN NU11\nN22 BAR GUG2 KASZ\nGAL KISAL SANGA SI\nN01 AN NU11\nN01 DUB SANGA\nN01 DU EN GA2 ME SZU\nN01 N57 TUR3\nN01 DAR ME PAP\nBA\nAL"
+    },
+    {
+        "designation": "CUSAS 01, 150",
+        "accountType": [
+            "cereals"
+        ],
+        "transcriptionCasesNoNumbers": "HI@g\nSZE\nEN EZEN SAG\nKASZ ZI\nAB APIN",
+        "transcriptionCasesNumbers": "N01 HI@g\nN05 SZE\nEN EZEN SAG\nKASZ ZI\nAB APIN"
+    },
+    {
+        "designation": "CUSAS 01, 151",
+        "accountType": [
+            "cereals"
+        ],
+        "transcriptionCasesNoNumbers": "\n\nSZEN@t SZE\nSZEN@t U4\nGESZTU\nAPIN\nME\n\n\nDUG\nSZITA\n\n\n\n\nGI4\nKASZ SZE U4\nKASZ U4\nKASZ\nSZEN@t SZE\nSZEN@t\nSZEN@t U4\nGU7",
+        "transcriptionCasesNumbers": "N01\n\nN01 SZEN@t SZE\nSZEN@t U4\nN01 GESZTU\nN01 APIN\nN01 ME\nN01\nN01\nN01 DUG\nN01 SZITA\nN01\n\n\nN01\nN01 GI4\nN14 N01 KASZ SZE U4\nN01 KASZ U4\nN01 KASZ\nN14 N01 SZEN@t SZE\nN01 SZEN@t\nN01 SZEN@t U4\nGU7"
+    },
+    {
+        "designation": "CUSAS 01, 152",
+        "accountType": [
+            "cereals"
+        ],
+        "transcriptionCasesNoNumbers": "\nU4\n\nU2 U4\nKU3 NAB\nSAG@n\nSI\nDU8\n\nAN DU KI TUG2 URU\nSZUBUR\nSAG@n\nU2 U4\nSI\nGAR SZE\n\nME ZATU639\nSI\nDUG\nSILA3xGARA2\nAN DU TUG2 ZATU710\nAN DU TUG2 URU ZATU710\nSI\nDUG U4\nSILA3+GARA2\nESZDA\nBALA\nSAG@n\nGISZ KU6\nKU3 NAB\nSI\n\nU4\n\n\n\n",
+        "transcriptionCasesNumbers": "\nU4\n\nU2 U4\nN01 KU3 NAB\nN14 SAG@n\nN45 SI\nDU8\n\nAN DU KI TUG2 URU\nN01 SZUBUR\nN14 SAG@n\nN14 N01 U2 U4\nN45 SI\nGAR SZE\n\nN01 ME ZATU639\nN01 SI\nDUG\nN01 SILA3xGARA2\nN01 AN DU TUG2 ZATU710\nN01 AN DU TUG2 URU ZATU710\nN01 SI\nDUG U4\nN01 SILA3+GARA2\nN01 ESZDA\nN01 BALA\nN01 SAG@n\nN01 GISZ KU6\nN01 KU3 NAB\nN01 SI\n\nN01 U4\nN14 N01\nN01 N14\n\n"
+    },
+    {
+        "designation": "CUSAS 01, 153",
+        "accountType": [
+            "cereals"
+        ],
+        "transcriptionCasesNoNumbers": "\nAN NU11\nAN SZA3 UR2\nA GISZ3 KU3 PA\nBAR GUG2 KASZ\nGUG2\nZATU776\n\nDUB SANGA\nDU EN GA2 ME SZU\nTUR3\nDAR ME PAP\nAN NU11\nZATU776\nA AL HAL",
+        "transcriptionCasesNumbers": "\nAN NU11\nN01 AN SZA3 UR2\nA GISZ3 KU3 PA\nN22 BAR GUG2 KASZ\nN01 GUG2\nN01 ZATU776\n\nN01 DUB SANGA\nN01 DU EN GA2 ME SZU\nN01 N57 TUR3\nN01 DAR ME PAP\nN01 AN NU11\nN14 ZATU776\nA AL HAL"
+    },
+    {
+        "designation": "CUSAS 01, 154",
+        "accountType": [
+            "cereals"
+        ],
+        "transcriptionCasesNoNumbers": "\n\nTUR\nZATU726\nGUG2\n\nLAGABxSZA LAGABxSZITA\n\nDU8\n\n\n\nHI@g\n\nGAL GU7 SANGA SANGA\n",
+        "transcriptionCasesNumbers": "N30\nN30\nN01 TUR\nN01 ZATU726\nN01 GUG2\nN24 N30\nN14 LAGABxSZA LAGABxSZITA\nN01\nN01 DU8\nN24\nN01\n\nHI@g\nN40 N03\nGAL GU7 SANGA SANGA\n"
+    },
+    {
+        "designation": "CUSAS 01, 155",
+        "accountType": [
+            "cereals"
+        ],
+        "transcriptionCasesNoNumbers": "SAG SZE3\nAN DU\nAN EN NIN\nSZU ZI\nAZ\nBU NAM2 PAP\nSAL\nBU3 PA\nBU EN\nAN NUNUZ ZATU788\nAB AN NUNUZ ZATU788\nBU DAM EN\nGAL SUHUR\n\nUB ZI\nGU7\nBULUG3 KI\nBU EN",
+        "transcriptionCasesNumbers": "SAG SZE3\nN40 AN DU\nAN EN NIN\nN40 SZU ZI\nN03 N57 AZ\nN40 BU NAM2 PAP\nSAL\nN40 BU3 PA\nN03 N40 BU EN\nN24 N39 AN NUNUZ ZATU788\nN24 N57 N39 AB AN NUNUZ ZATU788\nN39 BU DAM EN\nN39 GAL SUHUR\nN03 N18\nUB ZI\nN24 N18 N40 N03 GU7\nN24 N40 N03 BULUG3 KI\nBU EN"
+    },
+    {
+        "designation": "CUSAS 01, 156",
+        "accountType": [
+            "cereals"
+        ],
+        "transcriptionCasesNoNumbers": "BA\nAB\nLAGAB\nGU7\nBA",
+        "transcriptionCasesNumbers": "N47 N03 N18 BA\nN18 AB\nN47 N03 N18 LAGAB\nN30 N45 N40 N18 GU7\nN03 N18 N40 BA"
+    },
+    {
+        "designation": "CUSAS 01, 157",
+        "accountType": [
+            "cereals"
+        ],
+        "transcriptionCasesNoNumbers": "KU6 ZATU710\nME ZATU714xHI@g\nSANGA TUR3\nGAR U4\nKISAL KU6 ZATU710\nME TUR3\nHAL ZATU710 ZATU714xHI@g",
+        "transcriptionCasesNumbers": "N39 KU6 ZATU710\nN39 ME ZATU714xHI@g\nSANGA TUR3\nN24 N39 GAR U4\nN24 N39 KISAL KU6 ZATU710\nN14 ME TUR3\nN01 HAL ZATU710 ZATU714xHI@g"
+    },
+    {
+        "designation": "CUSAS 01, 158",
+        "accountType": [
+            "cereals"
+        ],
+        "transcriptionCasesNoNumbers": "LAGABxSZITA\n\nNE\nLAGABxSZITA\n\nMU SZU2.E2\nHAL SAL SZAxHI@g\n\nSAL SILA3xKASZ\nNAMESZDA SZITA\nLAGABxSZITA SAL\nHAL SAL\nDUG\n\nSZITA@g SZU2.E2\nNAMESZDA SZITA\nZATU710\nSILA3+KASZ\nGAL SAL SAL+ZATU751\n\n\nKASZ U4\n\nKASZ LAGAB SZE\nGU7 U4.",
+        "transcriptionCasesNumbers": "N14 N01 LAGABxSZITA\nN29 N42\nN27 NE\nN01 LAGABxSZITA\nN30\nN25 N42 MU SZU2.E2\nN25 HAL SAL SZAxHI@g\n\nN01 SAL SILA3xKASZ\nN01 NAMESZDA SZITA\nN14 LAGABxSZITA SAL\nN14 HAL SAL\nN01 DUG\n\nN01 SZITA@g SZU2.E2\nN39 N01 NAMESZDA SZITA\nN01 ZATU710\nN01 SILA3+KASZ\nN39 GAL SAL SAL+ZATU751\n\n\nN01 N14 KASZ U4\n\nN30 KASZ LAGAB SZE\nGU7 U4.N08"
+    },
+    {
+        "designation": "CUSAS 01, 159",
+        "accountType": [
+            "cereals"
+        ],
+        "transcriptionCasesNoNumbers": "\nSZIM\n\nZATU714xHI@g\nBA\n\nAB\nSZIM UNUG\n\nZATU714xHI@g\nKU6 U4\nBA\n\n\nGU7\n\nBA",
+        "transcriptionCasesNumbers": "\nN39 SZIM\nN01\nN39 ZATU714xHI@g\nN39 N01 BA\n\nN39 AB\nN39 SZIM UNUG\n\nZATU714xHI@g\nKU6 U4\nN28 N01 N39 BA\nN01\n\nN39 GU7\n\nBA"
+    },
+    {
+        "designation": "CUSAS 01, 160",
+        "accountType": [
+            "cereals"
+        ],
+        "transcriptionCasesNoNumbers": "NINDA2xHI SANGA\nGISZ3 SANGA\nEN\n\nME\nDUG\nAMAxE2 BA DUG",
+        "transcriptionCasesNumbers": "N01 NINDA2xHI SANGA\nN01 GISZ3 SANGA\nN01 EN\nN01\nME\nDUG\nN14 AMAxE2 BA DUG"
+    },
+    {
+        "designation": "CUSAS 01, 162",
+        "accountType": [
+            "cereals"
+        ],
+        "transcriptionCasesNoNumbers": "HAL\nKASZ MU ZATU714xHI@g\nDU6 U2\nHAL SAL U4\nHAL SAL TUR\nEN GISZxSZU2 TU\nNAMESZDA SZITA\nGAL\n\n",
+        "transcriptionCasesNumbers": "HAL\nN30 KASZ MU ZATU714xHI@g\nN01 DU6 U2\nN01 HAL SAL U4\nN14 HAL SAL TUR\nN01 EN GISZxSZU2 TU\nN14 N01 NAMESZDA SZITA\nN57 N01 GAL\nN01\n"
+    },
+    {
+        "designation": "CUSAS 01, 163",
+        "accountType": [
+            "animals"
+        ],
+        "transcriptionCasesNoNumbers": "AB2 AMAR\n\nUB\n\nDUG URU\nKISIM\nKISIM\nDUG NIM URU ZATU773\nKISIM\n\nKISIM\n\n\nKISIM\n\nGA U4",
+        "transcriptionCasesNumbers": "N14 N01 AB2 AMAR\nN14 N01\nUB\n\nDUG URU\nN01 KISIM\nN01 KISIM\nN01 DUG NIM URU ZATU773\nN01 KISIM\nN02\nN01 KISIM\nN02\n\nN01 KISIM\nN02\nN01 GA U4"
+    },
+    {
+        "designation": "CUSAS 01, 164",
+        "accountType": [
+            "cereals"
+        ],
+        "transcriptionCasesNoNumbers": "DUGx1N57 LAGAB",
+        "transcriptionCasesNumbers": "N01 DUGx1N57 LAGAB"
+    },
+    {
+        "designation": "CUSAS 01, 165",
+        "accountType": [
+            "cereals"
+        ],
+        "transcriptionCasesNoNumbers": "HI@g ZATU710\nZATU710\nAB AN\nZATU710",
+        "transcriptionCasesNumbers": "N39 HI@g ZATU710\nN01 N39 ZATU710\nAB AN\nN39 ZATU710"
+    },
+    {
+        "designation": "CUSAS 01, 166",
+        "accountType": [
+            "cereals"
+        ],
+        "transcriptionCasesNoNumbers": "AN NAMESZDA\n\nSZE",
+        "transcriptionCasesNumbers": "N14 N01 AN NAMESZDA\nN14 N45 N01\nSZE"
+    },
+    {
+        "designation": "CUSAS 01, 167",
+        "accountType": [
+            "cereals"
+        ],
+        "transcriptionCasesNoNumbers": "SZEN\nSZEN TUR\nSZEN@t\nBA SZITA\nSILA3\nA DUG\nKASZ SZU2\nGUG2 SZITA\nKU6 SZITA\nDUG SZEN\nKASZ\nZATU714\n\nKASZ\nZATU710\nGAN\nASAR BAHAR2 EN KAL SZU",
+        "transcriptionCasesNumbers": "N34 SZEN\nN34 N14 SZEN TUR\nN34 SZEN@t\nN34 BA SZITA\nN14 SILA3\nN34 A DUG\nN01 KASZ SZU2\nN01 GUG2 SZITA\nN34 KU6 SZITA\nN01 DUG SZEN\nN01 KASZ\nN14 ZATU714\nN45 N01\nN01 KASZ\nN01 ZATU710\nN01 GAN\nASAR BAHAR2 EN KAL SZU"
+    },
+    {
+        "designation": "CUSAS 01, 168",
+        "accountType": [
+            "cereals"
+        ],
+        "transcriptionCasesNoNumbers": "KASZ\nAB AN KASZ\nE2\nBU\nAB KASZ\nE2 SAL\nAMAxE2 SIG2 URU\nAPIN E2 SZUBUR\nGU7\nKASZ LAGAB\nGU7\nBA",
+        "transcriptionCasesNumbers": "N14 KASZ\nN01 AB AN KASZ\nN01 E2\nN01 BU\nN01 N57 AB KASZ\nN01 E2 SAL\nN01 AMAxE2 SIG2 URU\nN01 APIN E2 SZUBUR\nGU7\nKASZ LAGAB\nN01 N14 GU7\nN01 BA"
+    },
+    {
+        "designation": "CUSAS 01, 170",
+        "accountType": [
+            "cereals"
+        ],
+        "transcriptionCasesNoNumbers": "AN\nME TUR3\n\n",
+        "transcriptionCasesNumbers": "AN\nN14 N01 ME TUR3\n\nN14 N01"
+    },
+    {
+        "designation": "CUSAS 01, 172",
+        "accountType": [
+            "cereals"
+        ],
+        "transcriptionCasesNoNumbers": "HI@g UNUG\nE2 ERIN HI@g UR2\nHI@g\nHI@g SZU UR5\nGIBIL SAG",
+        "transcriptionCasesNumbers": "N24 N01 HI@g UNUG\nN01 N16 N24 E2 ERIN HI@g UR2\nN01 N24 N28 N30 HI@g\nN24 N39 N01 HI@g SZU UR5\nN04 GIBIL SAG"
+    },
+    {
+        "designation": "CUSAS 01, 195",
+        "accountType": [
+            "fields"
+        ],
+        "transcriptionCasesNoNumbers": "A GA2 LAGAB SIG\n\nGU7\nDU EN GA2\nBAR GUG2 KASZ\nDUR GA\n\nA AL SAR\nGAN2\nAN NUNUZ SZU UR5 ZATU788\n\n\n\nAPIN GAN2\nSAL SAL\nNA NUNUZ SZU2\nDU EN PAP\nAL\nGAN2",
+        "transcriptionCasesNumbers": "N14 A GA2 LAGAB SIG\n\nN01 GU7\nN14 DU EN GA2\nN22 BAR GUG2 KASZ\nN22 N14 DUR GA\n\nN01 A AL SAR\nN01 GAN2\nAN NUNUZ SZU UR5 ZATU788\nN14\nN14 N01\n\nN01 APIN GAN2\nSAL SAL\nNA NUNUZ SZU2\nDU EN PAP\nAL\nGAN2"
+    },
+    {
+        "designation": "CUSAS 01, 217",
+        "accountType": [
+            "fields"
+        ],
+        "transcriptionCasesNoNumbers": "\nSZE.NAM2\nUDU URI3\n\n\nA ISZ NUNUZ\n\nKU6 LU2\n\n\n\nSZU2.E2\n\n\n\nGISZ3 NI\n\nKU LAGAB SZU\n\n\n\n\nNA SI URI3\n\nUDU\n\nA BU KU NAM2 PAP URI3\n\n\n\n\n\nGIR3@g SAG\n\n\nERIM\nUDU",
+        "transcriptionCasesNumbers": "N14\nN14 SZE.NAM2\nN14 UDU URI3\nN01\n\nN14 A ISZ NUNUZ\nN01\nN22 N01 KU6 LU2\nN01\nN14\nN14\nN14 SZU2.E2\nN01\nN22\nN01\nN14 GISZ3 NI\nN01\nN22 KU LAGAB SZU\nN01\nN14\nN01\n\nN14 NA SI URI3\nN01\nN14 UDU\nN14 N01\nN14 A BU KU NAM2 PAP URI3\nN01\nN14\n\nN14\nN14\nGIR3@g SAG\n\nN45\nN14 N22 ERIM\nN34 N01 UDU"
+    },
+    {
+        "designation": "CUSAS 01, 218",
+        "accountType": [
+            "textiles"
+        ],
+        "transcriptionCasesNoNumbers": "AN ZATU773\nE2 SAL.KUR\nDA PA\nBA DARA4 KISAL KU6",
+        "transcriptionCasesNumbers": "N14 N34 N01 AN ZATU773\nN01 E2 SAL.KUR\nN34 N14 N01 DA PA\nBA DARA4 KISAL KU6"
+    },
+    {
+        "designation": "CUSAS 01, 220",
+        "accountType": [
+            "animals"
+        ],
+        "transcriptionCasesNoNumbers": "\nUDU\nAN NI SZE@t\nGAL IDIGNA SANGA\nDI RAD\nIB URI3\nAN DI NAM2 UR5\nAN GAL SANGA UR5\n",
+        "transcriptionCasesNumbers": "\nN14 N34 N01 UDU\nAN NI SZE@t\nN34 N01 GAL IDIGNA SANGA\nN14 N34 DI RAD\nN01 IB URI3\nN01 AN DI NAM2 UR5\nN01 AN GAL SANGA UR5\n"
+    },
+    {
+        "designation": "CUSAS 21, 036",
+        "accountType": [
+            "cereals"
+        ],
+        "transcriptionCasesNoNumbers": "DUR\nBAHAR2 ZATU659\nSZE",
+        "transcriptionCasesNumbers": "N01 DUR\nBAHAR2 ZATU659\nN01 SZE"
+    },
+    {
+        "designation": "CUSAS 21, 038",
+        "accountType": [
+            "fields"
+        ],
+        "transcriptionCasesNoNumbers": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGAN2\n\n\nGAN2\n\n\nGAN2\n\n\n\n\n\n\nGAN2",
+        "transcriptionCasesNumbers": "N14 N34 N01\nN14 N34 N01\nN34\nN34 N14\nN14 N01 N34\nN14 N34\nN34\nN34 N14 N01\nN34 N14\nN34\nN34 N14\nN01 N14\nN14\nN14\nN14\nN14\nN34\nN34\nN34\nN14 N34\nN01 N34\nN01 N34\nN14 N50 GAN2\nN01 N08 N14 N34\nN01 N34\nN14 N50 GAN2\nN34 N14\nN14 N01\nN22 N14 N01 N08 GAN2\nN14 N01\nN14\nN01 N22 N08\nN22 N45 N50 N08 N01 N14\nN34\nN14 N34 N01\nN45 N14 GAN2"
+    },
+    {
+        "designation": "CUSAS 21, 039",
+        "accountType": [
+            "fields"
+        ],
+        "transcriptionCasesNoNumbers": "\n,,,\n\n\n",
+        "transcriptionCasesNumbers": "\n,,, N01 N14\nN34 N14 N01\nN34 N58 N14\n"
+    },
+    {
+        "designation": "CUSAS 21, 040",
+        "accountType": [
+            "humans"
+        ],
+        "transcriptionCasesNoNumbers": "IDIGNA\nSZURUPPAK\nSZU SZU\nNUMUN\n\nE2 SZURUPPAK\nSANGA",
+        "transcriptionCasesNumbers": "N01 IDIGNA\nN14 SZURUPPAK\nN14 SZU SZU\nN14 NUMUN\nN45 N14\nN14 N01 E2 SZURUPPAK\nSANGA"
+    },
+    {
+        "designation": "CUSAS 21, 041",
+        "accountType": [
+            "humans"
+        ],
+        "transcriptionCasesNoNumbers": "GAL SZAGAN\nDU KI\nGAL SZAGAN",
+        "transcriptionCasesNumbers": "N01 GAL SZAGAN\nN01 N57 DU KI\nGAL SZAGAN"
+    },
+    {
+        "designation": "CUSAS 21, 042",
+        "accountType": [
+            "humans"
+        ],
+        "transcriptionCasesNoNumbers": "\nNAR SAL\nDA PA TUM\n\n",
+        "transcriptionCasesNumbers": "\nN34 NAR SAL\nN34 DA PA TUM\nN34\nN34 N51 N14"
+    },
+    {
+        "designation": "CUSAS 21, 043",
+        "accountType": [
+            "humans"
+        ],
+        "transcriptionCasesNoNumbers": "\nSZU\nPAP SAG\nGAL KASZ\nIB MU SANGA SZITA\nIB",
+        "transcriptionCasesNumbers": "\nN01 SZU\nPAP SAG\nGAL KASZ\nIB MU SANGA SZITA\nN01 IB"
+    },
+    {
+        "designation": "CUSAS 21, 044",
+        "accountType": [
+            "humans"
+        ],
+        "transcriptionCasesNoNumbers": "ERIN KAB\nAPIN GAN2\nEN HI\nAPIN EN\nADAB KISZ\nGAN2 SZUBUR\n\nKISZ\n\n\n\n",
+        "transcriptionCasesNumbers": "N14 N01 ERIN KAB\nN14 N01 APIN GAN2\nN14 N01 EN HI\nN14 N01 APIN EN\nN34 N01 N57 ADAB KISZ\nN01 GAN2 SZUBUR\nN01\nKISZ\n\n\nN01\nN01"
+    },
+    {
+        "designation": "CUSAS 21, 045",
+        "accountType": [
+            "fields"
+        ],
+        "transcriptionCasesNoNumbers": "GAL ZATU737xDI\nAN GISZIMMAR\nAPIN\n\nGAN2\n",
+        "transcriptionCasesNumbers": "N14 GAL ZATU737xDI\nN14 N22 N01 AN GISZIMMAR\nN14 APIN\n\nGAN2\n"
+    },
+    {
+        "designation": "CUSAS 21, 046",
+        "accountType": [
+            "fields"
+        ],
+        "transcriptionCasesNoNumbers": "BULUG3 LAL2\nZI\nAPIN GI LAL2\nBULUG3 KI\nA AN BA KALAM MAR PA\nEN GAN2 ISZ SI\nAB GIBIL\nGAN2\n\nA BULUG3 E2 KALAM MAR NU11 NUN",
+        "transcriptionCasesNumbers": "N14 N01 BULUG3 LAL2\nN01 N14 ZI\nN01 APIN GI LAL2\nN14 N57 BULUG3 KI\nA AN BA KALAM MAR PA\nEN GAN2 ISZ SI\nAB GIBIL\nN14 N01 GAN2\nN34 N14 N01\nA BULUG3 E2 KALAM MAR NU11 NUN"
+    },
+    {
+        "designation": "CUSAS 21, 047",
+        "accountType": [
+            "fields"
+        ],
+        "transcriptionCasesNoNumbers": "GISZ3\nSZE.NAM2\nAN SZA3 UR2\nSZE.NAM2\nKISAL KU6\nSZE.NAM2\nSZU ZI\nSZE.NAM2\nA GAN2\nEN GAN2\nEN\nGI\n\n\n\n",
+        "transcriptionCasesNumbers": "GISZ3\nN14 SZE.NAM2\nN50 AN SZA3 UR2\nN14 SZE.NAM2\nN14 KISAL KU6\nN14 SZE.NAM2\nSZU ZI\nN14 SZE.NAM2\nN45 N50 N14 A GAN2\nN50 N01 EN GAN2\nN50 EN\nN01 GI\nN50 N14\nN50\nN50\n"
+    },
+    {
+        "designation": "CUSAS 21, 048",
+        "accountType": [
+            "fields"
+        ],
+        "transcriptionCasesNoNumbers": "HI NIN\nGAL GAN2\n\nGAN2 ME3\n\nA\n\nGAN2 UB ZI\n",
+        "transcriptionCasesNumbers": "N14 HI NIN\nN02 GAL GAN2\n\nGAN2 ME3\nN45\nN02 N50 N14 A\n\nN14 GAN2 UB ZI\n"
+    },
+    {
+        "designation": "CUSAS 21, 049",
+        "accountType": [
+            "fields"
+        ],
+        "transcriptionCasesNoNumbers": "",
+        "transcriptionCasesNumbers": "N34 N58 N14"
+    },
+    {
+        "designation": "CUSAS 21, 050",
+        "accountType": [
+            "fields"
+        ],
+        "transcriptionCasesNoNumbers": "DARA4 GAN2\nSZE\nUDU\nKISIM SZESZ ZATU694",
+        "transcriptionCasesNumbers": "N01 N22 N57 DARA4 GAN2\nN14 SZE\nN01 N14 UDU\nKISIM SZESZ ZATU694"
+    },
+    {
+        "designation": "CUSAS 21, 051",
+        "accountType": [
+            "fields"
+        ],
+        "transcriptionCasesNoNumbers": "\nGI MUSZEN NA\nSZU\nGAR\nGI MUSZEN NA\nSZU\n\nGI MUSZEN NA\nSZU\nUB ZI\nSZE+SAR\nE2 GAL UB\n",
+        "transcriptionCasesNumbers": "\nGI MUSZEN NA\nN14 N57 SZU\nN01 GAR\nN14 GI MUSZEN NA\nN22 N01 N14 N57 SZU\n\nGI MUSZEN NA\nN14 N57 SZU\nN14 N50 UB ZI\nN14 SZE+SAR\nN14 E2 GAL UB\n"
+    },
+    {
+        "designation": "CUSAS 21, 052",
+        "accountType": [
+            "fields"
+        ],
+        "transcriptionCasesNoNumbers": "GAN2",
+        "transcriptionCasesNumbers": "N01 GAN2"
+    },
+    {
+        "designation": "CUSAS 21, 053",
+        "accountType": [
+            "animals"
+        ],
+        "transcriptionCasesNoNumbers": "GAL KISZ LAM UMUN2\nEN\nKISAL SI\n\nDU EN+NUN SANGA\nGAL KISAL SANGA SI",
+        "transcriptionCasesNumbers": "N45 GAL KISZ LAM UMUN2\nN01 EN\nKISAL SI\n\nN01 DU EN+NUN SANGA\nGAL KISAL SANGA SI"
+    },
+    {
+        "designation": "CUSAS 21, 054",
+        "accountType": [
+            "animals"
+        ],
+        "transcriptionCasesNoNumbers": "\n\nU4x3N57\nU4x2N57\nU4x1N57\n\nEN NE\nEN NE\nKISZ\n",
+        "transcriptionCasesNumbers": "\nN01\nN01 U4x3N57\nN01 U4x2N57\nN01 U4x1N57\n\nEN NE\nN01 N14 EN NE\nN14 N01 KISZ\n"
+    },
+    {
+        "designation": "CUSAS 21, 055",
+        "accountType": [
+            "animals"
+        ],
+        "transcriptionCasesNoNumbers": "KISZ\n\n",
+        "transcriptionCasesNumbers": "N14 KISZ\nN01\nN01"
+    },
+    {
+        "designation": "CUSAS 21, 056",
+        "accountType": [
+            "animals"
+        ],
+        "transcriptionCasesNoNumbers": "KISZ",
+        "transcriptionCasesNumbers": "N01 N14 KISZ"
+    },
+    {
+        "designation": "CUSAS 21, 057",
+        "accountType": [
+            "animals"
+        ],
+        "transcriptionCasesNoNumbers": "MUN\n\nDU6 GA2 GAN2\nDU8xAMAR",
+        "transcriptionCasesNumbers": "N14 N01 MUN\n\nDU6 GA2 GAN2\nN01 N14 DU8xAMAR"
+    },
+    {
+        "designation": "CUSAS 21, 058",
+        "accountType": [
+            "animals"
+        ],
+        "transcriptionCasesNoNumbers": "SZE3 U8\n",
+        "transcriptionCasesNumbers": "N01 N14 SZE3 U8\n"
+    },
+    {
+        "designation": "CUSAS 21, 059",
+        "accountType": [
+            "animals"
+        ],
+        "transcriptionCasesNoNumbers": "UD5\nMASZ2\nDA PA\n\n",
+        "transcriptionCasesNumbers": "UD5\nN01 N14 MASZ2\nDA PA\nN01\n"
+    },
+    {
+        "designation": "CUSAS 21, 060",
+        "accountType": [
+            "animals"
+        ],
+        "transcriptionCasesNoNumbers": "U8\nBAR UDUNITA\n\nDA PA UDU",
+        "transcriptionCasesNumbers": "N02 U8\nN02 BAR UDUNITA\n\nN02 DA PA UDU"
+    },
+    {
+        "designation": "CUSAS 21, 061",
+        "accountType": [
+            "animals"
+        ],
+        "transcriptionCasesNoNumbers": "TU UDU\n",
+        "transcriptionCasesNumbers": "N01 N14 TU UDU\n"
+    },
+    {
+        "designation": "CUSAS 21, 062",
+        "accountType": [
+            "animals"
+        ],
+        "transcriptionCasesNoNumbers": "U8\nMU\n\nMASZ2\n\n\nSZE3 UDU\nUDU",
+        "transcriptionCasesNumbers": "N02 U8\nMU\nN15 N02\nN01 MASZ2\n\nN01\nSZE3 UDU\nN01 UDU"
+    },
+    {
+        "designation": "CUSAS 21, 063",
+        "accountType": [
+            "animals"
+        ],
+        "transcriptionCasesNoNumbers": "E2 GUKKAL SZE\n\nAN HI\nBU GAN2 SAL\nTUR\nBA GUKKAL",
+        "transcriptionCasesNumbers": "E2 GUKKAL SZE\n\nN01 AN HI\nN01 BU GAN2 SAL\nN01 TUR\nN01 BA GUKKAL"
+    },
+    {
+        "designation": "CUSAS 21, 064",
+        "accountType": [
+            "animals"
+        ],
+        "transcriptionCasesNoNumbers": "PAP UD5\nPAP UDUNITA\nTUR",
+        "transcriptionCasesNumbers": "N14 PAP UD5\nN14 N01 PAP UDUNITA\nTUR"
+    },
+    {
+        "designation": "CUSAS 21, 065",
+        "accountType": [
+            "animals"
+        ],
+        "transcriptionCasesNoNumbers": "GI NUN\nUD5\nNINDA2xMAR ZATU773\nU4 U8\nGI6 UD5\n\nAPIN MUSZEN SIG U4 UTUA\nNAR NAR TUR\n\nU8\nUDUNITA\n",
+        "transcriptionCasesNumbers": "GI NUN\nUD5\nN01 NINDA2xMAR ZATU773\nN01 U4 U8\nN01 GI6 UD5\nN57 N01\nN01 APIN MUSZEN SIG U4 UTUA\nN57 NAR NAR TUR\n\nN01 N34 N14 U8\nN01 N14 UDUNITA\nN14 N34 N01"
+    },
+    {
+        "designation": "CUSAS 21, 066",
+        "accountType": [
+            "animals"
+        ],
+        "transcriptionCasesNoNumbers": "ME\nKU6\nMAR ZATU752\n\n\nZATU759xKU6",
+        "transcriptionCasesNumbers": "ME\nN14 N57 KU6\nMAR ZATU752\n\n\nZATU759xKU6"
+    },
+    {
+        "designation": "CUSAS 21, 067",
+        "accountType": [
+            "animals"
+        ],
+        "transcriptionCasesNoNumbers": "GU4\nDI SAG\nDI KALAM\nUDU\nGURUSZDA\n",
+        "transcriptionCasesNumbers": "N01 GU4\nDI SAG\nDI KALAM\nN01 UDU\nGURUSZDA\n"
+    },
+    {
+        "designation": "CUSAS 21, 068",
+        "accountType": [
+            "animals"
+        ],
+        "transcriptionCasesNoNumbers": "AB2 GAL GU4 MU SANGA\n",
+        "transcriptionCasesNumbers": "N01 N14 AB2 GAL GU4 MU SANGA\n"
+    },
+    {
+        "designation": "CUSAS 21, 069",
+        "accountType": [
+            "animals"
+        ],
+        "transcriptionCasesNoNumbers": "\nAB2 GI SZU",
+        "transcriptionCasesNumbers": "\nN01 AB2 GI SZU"
+    },
+    {
+        "designation": "CUSAS 21, 070",
+        "accountType": [
+            "animals"
+        ],
+        "transcriptionCasesNoNumbers": "AB2 GI",
+        "transcriptionCasesNumbers": "AB2 GI"
+    },
+    {
+        "designation": "CUSAS 21, 071",
+        "accountType": [
+            "textiles"
+        ],
+        "transcriptionCasesNoNumbers": "BARA2\nBARA2\nBARA2 HAL SZU\n\n",
+        "transcriptionCasesNumbers": "N14 N01 BARA2\nN14 N01 BARA2\nN01 BARA2 HAL SZU\nN14 N01\nN01"
+    },
+    {
+        "designation": "CUSAS 21, 072",
+        "accountType": [
+            "textiles"
+        ],
+        "transcriptionCasesNoNumbers": "TUG2\n\nBU+TU SANGA\n",
+        "transcriptionCasesNumbers": "N01 TUG2\n\nBU+TU SANGA\n"
+    },
+    {
+        "designation": "CUSAS 21, 073",
+        "accountType": [
+            "cereals"
+        ],
+        "transcriptionCasesNoNumbers": "SUKKAL SZE\nENGIZ ME MUSZ3\n\nGIBIL ISZ U4\nMUSZEN",
+        "transcriptionCasesNumbers": "N45 N14 SUKKAL SZE\nENGIZ ME MUSZ3\nN46 N04\nGIBIL ISZ U4\nMUSZEN"
+    },
+    {
+        "designation": "CUSAS 21, 074",
+        "accountType": [
+            "cereals"
+        ],
+        "transcriptionCasesNoNumbers": "AN NUNUZ ZATU788\nBU MUD NA\nA KU6 U4\nAB SZE\nBAHAR2\n\nBU MUD NA\nNIN\nTAR\nKISAL KU6 ZATU694\nTAR\nAB BULUG3 SZE SZUBUR\nGIBIL GU7\nU4\nNA2 NAM\n\nTAR\nAB\nAN NUNUZ ZATU788\n''  TAR\nGU7",
+        "transcriptionCasesNumbers": "N01 AN NUNUZ ZATU788\nN01 N39 BU MUD NA\nN01 N39 A KU6 U4\nN01 N39 AB SZE\nN01 BAHAR2\nN01\nN01 BU MUD NA\nN57 N01 NIN\nN39 TAR\nN01 KISAL KU6 ZATU694\nN39 TAR\nN39 AB BULUG3 SZE SZUBUR\nGIBIL GU7\nN41 N04 U4\nN19 NA2 NAM\nN01 N57\nN24 N39 TAR\nN19 AB\nN04 N19 AN NUNUZ ZATU788\nN24'' N41 TAR\nGU7"
+    },
+    {
+        "designation": "CUSAS 21, 075",
+        "accountType": [
+            "cereals"
+        ],
+        "transcriptionCasesNoNumbers": "EN NUN\nAMAR EN\nNINDA2xGUDU4 NUN\nGAL\nEN\nKALAM\nDU GABURRA\nGI\nA UR\n",
+        "transcriptionCasesNumbers": "N14 N01 EN NUN\nN14 N01 AMAR EN\nN14 N01 NINDA2xGUDU4 NUN\nN14 N01 GAL\nN14 N01 EN\nN14 N01 KALAM\nN01 DU GABURRA\nGI\nA UR\nN14 N34 N01"
+    },
+    {
+        "designation": "CUSAS 21, 076",
+        "accountType": [
+            "cereals"
+        ],
+        "transcriptionCasesNoNumbers": "KISAL KU6 SZE\n\nLAGAB.TE\nSZE\nHI SZE\nPAP SZE\n\nGIBIL LAGAB.TE SZE U4\n\n",
+        "transcriptionCasesNumbers": "N45 N14 KISAL KU6 SZE\nN19\nN19 LAGAB.TE\nN14 N45 SZE\nN45 HI SZE\nN14 PAP SZE\nN45\nN36 N34 GIBIL LAGAB.TE SZE U4\n\nN46"
+    },
+    {
+        "designation": "CUSAS 21, 077",
+        "accountType": [
+            "cereals"
+        ],
+        "transcriptionCasesNoNumbers": "AMA GAL MUSZEN SZE\nGESZTIN\nUDU",
+        "transcriptionCasesNumbers": "N01 AMA GAL MUSZEN SZE\nN01 N57 GESZTIN\nN01 UDU"
+    },
+    {
+        "designation": "CUSAS 21, 078",
+        "accountType": [
+            "cereals"
+        ],
+        "transcriptionCasesNoNumbers": "KALAM KASZ SUG5\n\n\nAB AN GAR ZATU714xHI@g\nMU ZATU714xHI@g\nGAR U2\n\nGAR NAGA SI\n\nDUG NAGA SAG SUG5\n\n\nKASZ\n\n\nZATU714xHI@g\nZATU714xHI@g\n\n\n\nGAR NAGA SI\n\nAN SZU2xEN UKKIN\n\nGAN2 ISZ ZATU710\n\nAN NUNUZ UNUG ZATU788\nGAL GAR LAL2xNAGA NA2\n\nZATU710\n\nAB UB ZATU710 ZI\n\nSI TUN3 ZATU710\n'\nAD UB UR ZATU710 ZI\n'\nABxASZ2 ZATU710\n'\nAB ZATU710\n'\n\n\n\nSZAGAN\n\nBIR\nGAR IM\n\nDAR GU\nDAR GU\n\nDAR GU\nGAR ME TUR3\n\nDUG\n\n\nMU ZATU714xHI@g\nSANGA SZE TUR3\n1N57.SZUBUR  AB\nGU7\n\n\nSZE TAR\nLAGAB SZE TE\n\nSZE",
+        "transcriptionCasesNumbers": "N14 KALAM KASZ SUG5\n\nN03 N40\nN01 AB AN GAR ZATU714xHI@g\nN42 MU ZATU714xHI@g\nN14 GAR U2\nN42\nN14 GAR NAGA SI\nN42\nN01 DUG NAGA SAG SUG5\nN05 N42\nN03\nN01 KASZ\nN05\nN03 N40\nZATU714xHI@g\nN05 ZATU714xHI@g\n\n\n\nN14 GAR NAGA SI\nN42\nN05 AN SZU2xEN UKKIN\nN40\nN05 N25 N42 GAN2 ISZ ZATU710\nN40\nN05 AN NUNUZ UNUG ZATU788\nN51 GAL GAR LAL2xNAGA NA2\nN05\nN05 ZATU710\nN03 N40\nN01 AB UB ZATU710 ZI\n\nN39 SI TUN3 ZATU710\nN24' N40\nN39 AD UB UR ZATU710 ZI\nN24' N40\nN39 ABxASZ2 ZATU710\nN24' N40\nN39 AB ZATU710\nN24' N40\n\n\nN42\nN14 SZAGAN\nN42\nN42 BIR\nN14 GAR IM\nN05\nDAR GU\nDAR GU\nN42\nN40 DAR GU\nN14 GAR ME TUR3\nN05\nN14 DUG\nN05\nN03 N40\nN39 MU ZATU714xHI@g\nN01 SANGA SZE TUR3\nN57.SZUBUR N01 AB\nGU7\nN24 N39 N01 N14\nN25 N05 N42 N20\nN24 N39 N01 SZE TAR\nN14 N24 N39 LAGAB SZE TE\nN18 N03 N40\nN14 SZE"
+    },
+    {
+        "designation": "CUSAS 21, 079",
+        "accountType": [
+            "cereals"
+        ],
+        "transcriptionCasesNoNumbers": "A SAL SZE ZATU859\nNINDA2xZATU710\n\nGAR U4\nHAL PAP SZITA\nEZEN GAR HAL NINDA2xZATU710 PAP SZITA U4",
+        "transcriptionCasesNumbers": "N01 A SAL SZE ZATU859\nNINDA2xZATU710\nN04\nGAR U4\nN57 HAL PAP SZITA\nN01 N04 N57 EZEN GAR HAL NINDA2xZATU710 PAP SZITA U4"
+    },
+    {
+        "designation": "CUSAS 21, 080",
+        "accountType": [
+            "cereals"
+        ],
+        "transcriptionCasesNoNumbers": "GAR SI\n\nUB URU ZI\n\nKUR ZATU710\n\nBU MUD UNUG\n\nA AL NINDA2xZATU710\n\nGAR U4\n\nAN NUNUZ ZATU710 ZATU788\nGAR U4",
+        "transcriptionCasesNumbers": "N34 GAR SI\nN05 N42\nN14 UB URU ZI\nN42\nN01 KUR ZATU710\nN41\nN24 N39 BU MUD UNUG\nN41\nN01 A AL NINDA2xZATU710\nN41\nN14 GAR U4\nN41\nN24 N39 AN NUNUZ ZATU710 ZATU788\nN34 N14 GAR U4"
+    },
+    {
+        "designation": "CUSAS 21, 081",
+        "accountType": [
+            "cereals"
+        ],
+        "transcriptionCasesNoNumbers": "\nHAL SZA3 UR2\nA GISZ3 KU3 PA\n\nSZE\nDUB SANGA\nDU EN GA2 ME SZU\nTUR3.\n2N57.MUSZEN ME PAP\nBA U4\nA AL HAL",
+        "transcriptionCasesNumbers": "\nN01 HAL SZA3 UR2\nN01 A GISZ3 KU3 PA\n\nSZE\nN01 DUB SANGA\nN01 DU EN GA2 ME SZU\nN01 TUR3.N57\nN01 N57.MUSZEN ME PAP\nBA U4\nA AL HAL"
+    },
+    {
+        "designation": "CUSAS 21, 082",
+        "accountType": [
+            "cereals"
+        ],
+        "transcriptionCasesNoNumbers": "\nTAR\nBULUG3 SZE\nHI@g NE\nNE SZE\nGESZTU SZE\nLAGAB\nSZE\n\nAB NUN SU SZE",
+        "transcriptionCasesNumbers": "N14\nN01 N39 TAR\nN01 BULUG3 SZE\nN01 N39 HI@g NE\nN01 NE SZE\nN39 GESZTU SZE\nN39 LAGAB\nSZE\n\nN24 N01 N14 AB NUN SU SZE"
+    },
+    {
+        "designation": "CUSAS 21, 083",
+        "accountType": [
+            "cereals"
+        ],
+        "transcriptionCasesNoNumbers": "SAL SZU UR5\nTAR\nSZE SZU UR5\nTAR\nBULUG3 SZE\nAN NUNUZ SAL ZATU788\nABGAL NUN SZE URI3\nNUMUN\nNUMUN SZAB SZE\nAB U4x1N01\nAN ERIN SAL SZE\nGU7 SZE\nSZU\n\nEN\nGU7",
+        "transcriptionCasesNumbers": "N14 N01 SAL SZU UR5\nN39 TAR\nN26 N01 N14 N39 SZE SZU UR5\nN24 N30 N39 N01 TAR\nN24 N14 N39 BULUG3 SZE\nN14 N28 N39 N01 AN NUNUZ SAL ZATU788\nN01 ABGAL NUN SZE URI3\nN39 NUMUN\nN01 NUMUN SZAB SZE\nN39 AB U4x1N01\nN28 AN ERIN SAL SZE\nGU7 SZE\nN04 N19 N41 SZU\n\nN19 EN\nN04 GU7"
+    },
+    {
+        "designation": "CUSAS 21, 084",
+        "accountType": [
+            "cereals"
+        ],
+        "transcriptionCasesNoNumbers": "\nERIM NUN TUR\nIB SZAGAN\nKISZ SAG SANGA SUG5\n\n\nBULUG3\n\nSZE\n",
+        "transcriptionCasesNumbers": "\nN03 ERIM NUN TUR\nN40 IB SZAGAN\nN03 N40 KISZ SAG SANGA SUG5\n\nN39\nBULUG3\nN18 N40 N03\nN14 SZE\n"
+    },
+    {
+        "designation": "CUSAS 21, 085",
+        "accountType": [
+            "cereals"
+        ],
+        "transcriptionCasesNoNumbers": "AMA EN HI@g IDIGNA KALAM SZE\nHI@g\nHI@g\nSZE\nAMA IDIGNA\nHI@g\nSZE",
+        "transcriptionCasesNumbers": "N20 N05 AMA EN HI@g IDIGNA KALAM SZE\nN01 HI@g\nN01 HI@g\nN01 SZE\nAMA IDIGNA\nN01 HI@g\nN01 SZE"
+    },
+    {
+        "designation": "CUSAS 21, 086",
+        "accountType": [
+            "cereals"
+        ],
+        "transcriptionCasesNoNumbers": "SZE\nAB\nSZE\nAB LAGABxSZA SZE\nAB HI@g\n",
+        "transcriptionCasesNumbers": "SZE\nAB\nN39 SZE\nN39 AB LAGABxSZA SZE\nN39 AB HI@g\n"
+    },
+    {
+        "designation": "CUSAS 21, 087",
+        "accountType": [
+            "cereals"
+        ],
+        "transcriptionCasesNoNumbers": "\n\nHI@g U4 UNUG\n\n\n\nAN BA MUSZ3",
+        "transcriptionCasesNumbers": "N05\nN40\nN04 N28 HI@g U4 UNUG\n\nN05 N25\n\nAN BA MUSZ3"
+    },
+    {
+        "designation": "CUSAS 21, 088",
+        "accountType": [
+            "cereals"
+        ],
+        "transcriptionCasesNoNumbers": "A SZEN SZE\nBU GI6 SZA3\n\nBU.DU6 SZE\nPAP SZE SZU\nLU2 SZE\n\n\n\n\n\n\n",
+        "transcriptionCasesNumbers": "N14 A SZEN SZE\nN19 BU GI6 SZA3\nN14\nN14 BU.DU6 SZE\nN14 N01 PAP SZE SZU\nN14 LU2 SZE\n\n\nN14\nN19\nN14\nN19\nN14"
+    },
+    {
+        "designation": "CUSAS 21, 089",
+        "accountType": [
+            "cereals"
+        ],
+        "transcriptionCasesNoNumbers": "E2 GUG2\nGABURRA\nKAK KU3 NAB\nE2 GAL\nAPIN NIN SZU\nGABURRA\nKISAL ZATU710\nGU7\nGU7 MUSZEN NUN SAL",
+        "transcriptionCasesNumbers": "E2 GUG2\nN01 GABURRA\nN01 KAK KU3 NAB\nN57 N01 E2 GAL\nN01 APIN NIN SZU\nGABURRA\nKISAL ZATU710\nGU7\nN14 N01 GU7 MUSZEN NUN SAL"
+    },
+    {
+        "designation": "CUSAS 21, 090",
+        "accountType": [
+            "cereals"
+        ],
+        "transcriptionCasesNoNumbers": "U4.\n\nGUG2 URU\n,\nGUG2 URU\nGUG2 URU\n\n",
+        "transcriptionCasesNumbers": "N24 U4.N08\n\nN01 GUG2 URU\nN05,\nN01 GUG2 URU\nN01 GUG2 URU\nN05\n"
+    },
+    {
+        "designation": "CUSAS 21, 091",
+        "accountType": [
+            "cereals"
+        ],
+        "transcriptionCasesNoNumbers": "AD HI\nKU6\nNAR ZATU694\n\nGUG2 TAR URU\n\n",
+        "transcriptionCasesNumbers": "N05 AD HI\nKU6\nNAR ZATU694\n\nGUG2 TAR URU\n\n"
+    },
+    {
+        "designation": "CUSAS 21, 092",
+        "accountType": [
+            "cereals"
+        ],
+        "transcriptionCasesNoNumbers": "\nIM\n\n\n\n",
+        "transcriptionCasesNumbers": "\nN36 N19 IM\nN19\n\nN19\n"
+    },
+    {
+        "designation": "CUSAS 21, 093",
+        "accountType": [
+            "cereals"
+        ],
+        "transcriptionCasesNoNumbers": "HI@g\n",
+        "transcriptionCasesNumbers": "N01 HI@g\n"
+    },
+    {
+        "designation": "CUSAS 21, 094",
+        "accountType": [
+            "cereals"
+        ],
+        "transcriptionCasesNoNumbers": "GI\nEN TA\n\nDUG SZITA",
+        "transcriptionCasesNumbers": "GI\nN01 EN TA\n\nN01 DUG SZITA"
+    },
+    {
+        "designation": "CUSAS 21, 095",
+        "accountType": [
+            "cereals"
+        ],
+        "transcriptionCasesNoNumbers": "\nSZE\n",
+        "transcriptionCasesNumbers": "N01 N14\nN14 N01 N45 SZE\n"
+    },
+    {
+        "designation": "CUSAS 21, 096",
+        "accountType": [
+            "cereals"
+        ],
+        "transcriptionCasesNoNumbers": "\nMAR",
+        "transcriptionCasesNumbers": "N19\nN01 MAR"
+    },
+    {
+        "designation": "CUSAS 21, 097",
+        "accountType": [
+            "cereals"
+        ],
+        "transcriptionCasesNoNumbers": "'\nDU8\nZATU726\n\n\n\n",
+        "transcriptionCasesNumbers": "N24'\nN01 DU8\nN01 ZATU726\n\n\nN14\n"
+    },
+    {
+        "designation": "CUSAS 21, 098",
+        "accountType": [
+            "cereals"
+        ],
+        "transcriptionCasesNoNumbers": "AN DA\nBU LAGAB.TE SAL\n\n\n\n",
+        "transcriptionCasesNumbers": "N14 AN DA\nN19 N04 BU LAGAB.TE SAL\nN14\n\nN14\nN04 N19"
+    },
+    {
+        "designation": "CUSAS 21, 099",
+        "accountType": [
+            "cereals"
+        ],
+        "transcriptionCasesNoNumbers": "DARA LAGAB ZATU711\n\n7N57.GAR\nME ZATU726\n",
+        "transcriptionCasesNumbers": "N08 DARA LAGAB ZATU711\n\nN26 N57.GAR\nME ZATU726\n"
+    },
+    {
+        "designation": "CUSAS 21, 100",
+        "accountType": [
+            "cereals"
+        ],
+        "transcriptionCasesNoNumbers": "\nPA\nME SI\n\nSZE\n\n\nZATU710",
+        "transcriptionCasesNumbers": "N01\nPA\nN01 ME SI\n\nN01 SZE\n\n\nZATU710"
+    },
+    {
+        "designation": "CUSAS 21, 101",
+        "accountType": [
+            "cereals"
+        ],
+        "transcriptionCasesNoNumbers": "SZE UDU\n\n\n",
+        "transcriptionCasesNumbers": "N14 N01 SZE UDU\nN04\n\nN01 N01"
+    },
+    {
+        "designation": "CUSAS 21, 102",
+        "accountType": [
+            "cereals"
+        ],
+        "transcriptionCasesNoNumbers": "SA\nNAR SAG+GESZTU\nPAP\nGISZ3\n\n\n\n\n\n\n\n",
+        "transcriptionCasesNumbers": "N05 N57 SA\nN05 NAR SAG+GESZTU\nN05 PAP\nN05 GISZ3\nN05\n\n\nN42\nN42\nN42\nN42\nN42"
+    },
+    {
+        "designation": "CUSAS 21, 103",
+        "accountType": [
+            "cereals"
+        ],
+        "transcriptionCasesNoNumbers": "\nBA EN KI SZAM2\nGI GISZ\n\nBA SZAM2",
+        "transcriptionCasesNumbers": "\nBA EN KI SZAM2\nN01 N34 N14 GI GISZ\nN14 N01\nBA SZAM2"
+    },
+    {
+        "designation": "CUSAS 21, 104",
+        "accountType": [
+            "cereals"
+        ],
+        "transcriptionCasesNoNumbers": "\n",
+        "transcriptionCasesNumbers": "\nN04 N19"
+    },
+    {
+        "designation": "CUSAS 21, 105",
+        "accountType": [
+            "cereals"
+        ],
+        "transcriptionCasesNoNumbers": "GU7 SZE",
+        "transcriptionCasesNumbers": "GU7 SZE"
+    },
+    {
+        "designation": "CUSAS 21, 106",
+        "accountType": [
+            "cereals"
+        ],
+        "transcriptionCasesNoNumbers": "\nAN EN\n\nKASZ SZE",
+        "transcriptionCasesNumbers": "\nN14 AN EN\nN19\nN14 KASZ SZE"
+    },
+    {
+        "designation": "CUSAS 21, 304",
+        "accountType": [
+            "cereals"
+        ],
+        "transcriptionCasesNoNumbers": "EN SAG SZE\nU4.",
+        "transcriptionCasesNumbers": "N24 EN SAG SZE\nU4.N08"
+    },
+    {
+        "designation": "CUSAS 31, 011",
+        "accountType": [
+            "humans"
+        ],
+        "transcriptionCasesNoNumbers": "E2 PAP SAL\nKASZ MUSZEN SANGA",
+        "transcriptionCasesNumbers": "N01 E2 PAP SAL\nKASZ MUSZEN SANGA"
+    },
+    {
+        "designation": "CUSAS 31, 012",
+        "accountType": [
+            "humans"
+        ],
+        "transcriptionCasesNoNumbers": "1N57.MUSZEN  PAP\nPA\nKA2\nAL\nANSZE\nAMAR\n\n1N57.MUSZEN  EN IB PAP\nAL\nTUR\nSAL",
+        "transcriptionCasesNumbers": "N57.MUSZEN N01 PAP\nN01 PA\nN01 KA2\nN01 AL\nN01 ANSZE\nN01 AMAR\n\nN14 N57.MUSZEN N01 EN IB PAP\nN01 AL\nN01 TUR\nN14 SAL"
+    },
+    {
+        "designation": "CUSAS 31, 013",
+        "accountType": [
+            "humans"
+        ],
+        "transcriptionCasesNoNumbers": "GAL NIM\nEN EN\nGAN2 GIBIL GIR3@g\nPU2\nGAL GU4\nNIMGIR\nAPIN EN\nLAGAR SAL UNUG\nGAL SANGA SANGA\nEN GIR3@g NUN\nKI ME NE\nDI E2x1N57@t NAB\nAN E2 SZE3\nA KI NAM2 RU\nKI ME NE\nA RU\nA BU DU E2x1N57@t GI GISZ3 KI KU3 PA",
+        "transcriptionCasesNumbers": "N01 GAL NIM\nN01 EN EN\nN01 GAN2 GIBIL GIR3@g\nN01 PU2\nN01 GAL GU4\nN01 NIMGIR\nN01 APIN EN\nN01 LAGAR SAL UNUG\nN01 GAL SANGA SANGA\nN01 EN GIR3@g NUN\nKI ME NE\nN01 DI E2x1N57@t NAB\nN01 AN E2 SZE3\nN01 A KI NAM2 RU\nN14 KI ME NE\nN01 A RU\nN14 N01 A BU DU E2x1N57@t GI GISZ3 KI KU3 PA"
+    },
+    {
+        "designation": "CUSAS 31, 014",
+        "accountType": [
+            "humans"
+        ],
+        "transcriptionCasesNoNumbers": "DILMUN PIRIG\nAN GISZ TE\nPAP SAL SIG7\nKASZ NAR\n\n",
+        "transcriptionCasesNumbers": "N01 DILMUN PIRIG\nN01 AN GISZ TE\nN01 PAP SAL SIG7\nN01 KASZ NAR\n\n"
+    },
+    {
+        "designation": "CUSAS 31, 015",
+        "accountType": [
+            "humans"
+        ],
+        "transcriptionCasesNoNumbers": "DAR E2\n3N57.AZ\nDUG KU6 RU\nLA2 SUG5\nRU\nSIG7\nNE\nEN\nASAR DU MUSZEN\nBU SAL\nBU NAM2 PAP\nBA EN TE\nRAD",
+        "transcriptionCasesNumbers": "DAR E2\nN57.AZ\nDUG KU6 RU\nLA2 SUG5\nRU\nSIG7\nNE\nEN\nASAR DU MUSZEN\nBU SAL\nBU NAM2 PAP\nBA EN TE\nRAD"
+    },
+    {
+        "designation": "CUSAS 31, 016",
+        "accountType": [
+            "humans"
+        ],
+        "transcriptionCasesNoNumbers": "\nAL\nKALAM\nBU NAM2 PAP\nPAP SAL\nSA\nLUGAL\nDA\nPAP\nDUR2 IM SZAGAN\nEN\nNUN+NAM2\nEN GA2 SZU\n3N57.AZ\nSANGA\nSZAB\nLAM SZUBUR\nAN KIN2\nA\n\nAL\nSI",
+        "transcriptionCasesNumbers": "N01\nN01 AL\nN01 KALAM\nN01 BU NAM2 PAP\nN01 PAP SAL\nN01 SA\nN01 LUGAL\nN01 DA\nN01 PAP\nN01 DUR2 IM SZAGAN\nN01 EN\nN01 NUN+NAM2\nN01 EN GA2 SZU\nN01 N57.AZ\nN01 N57 SANGA\nN01 SZAB\nN01 LAM SZUBUR\nN01 AN KIN2\nN01 A\n\nN01 AL\nSI"
+    },
+    {
+        "designation": "CUSAS 31, 017",
+        "accountType": [
+            "humans"
+        ],
+        "transcriptionCasesNoNumbers": "A RU SAG@n\nAN BA\nBA\nAL\nAL\n",
+        "transcriptionCasesNumbers": "N01 A RU SAG@n\nN01 AN BA\nN01 BA\nN01 N57 AL\nN01 AL\n"
+    },
+    {
+        "designation": "CUSAS 31, 018",
+        "accountType": [
+            "humans"
+        ],
+        "transcriptionCasesNoNumbers": "KISAL KU6\nAN SZA3 UR2\nRU\n\nDU EN GA2 SANGA SZU\nSZU ZI\n",
+        "transcriptionCasesNumbers": "N34 N14 KISAL KU6\nN34 N14 AN SZA3 UR2\nN34 N14 RU\nN14 N34\nN14 DU EN GA2 SANGA SZU\nN14 SZU ZI\n"
+    },
+    {
+        "designation": "CUSAS 31, 019",
+        "accountType": [
+            "humans"
+        ],
+        "transcriptionCasesNoNumbers": "\n\nAMAR PAP\nTUR U4x1N57\nBU E2 E2\nSAL\nAN ZI\n\nSZEG9 ZATU773\nTUR U4x1N57\nNA2\nSAL\nNU SIG2\nMUSZEN UMUN2\nNIM\nTUR U4x1N57\nNUNUZ\nSAL\nDIM\n\nURU URU\nKI\nTUR U4x1N57\nBU EN\n\nGI\nGAN2 KISZ ZATU752",
+        "transcriptionCasesNumbers": "\n\nN57 AMAR PAP\nN01 TUR U4x1N57\nBU E2 E2\nN01 SAL\nAN ZI\nN01\nSZEG9 ZATU773\nN01 TUR U4x1N57\nNA2\nN01 SAL\nNU SIG2\nN57 N01 MUSZEN UMUN2\nNIM\nN01 TUR U4x1N57\nN57 NUNUZ\nN01 SAL\nDIM\n\nURU URU\nKI\nN01 TUR U4x1N57\nBU EN\n\nGI\nGAN2 KISZ ZATU752"
+    },
+    {
+        "designation": "CUSAS 31, 020",
+        "accountType": [
+            "humans"
+        ],
+        "transcriptionCasesNoNumbers": "AD HI\nBAR SAL\nBU3 TI\nGADA\nPAP ZATU686\nBUR2 TUG2\nUZ ZATU694\nBUR2 TUG2\nEN TI U4\nGISZIMMAR\nAPIN SAL\nGADA\nAN U2\nTUN3\nPAP PIRIG",
+        "transcriptionCasesNumbers": "AD HI\nBAR SAL\nBU3 TI\nGADA\nPAP ZATU686\nBUR2 TUG2\nUZ ZATU694\nBUR2 TUG2\nEN TI U4\nGISZIMMAR\nAPIN SAL\nGADA\nAN U2\nTUN3\nPAP PIRIG"
+    },
+    {
+        "designation": "CUSAS 31, 021",
+        "accountType": [
+            "humans"
+        ],
+        "transcriptionCasesNoNumbers": "\nEN NE\nME SI\n2N57.MUSZEN E2\nKISAL KU6",
+        "transcriptionCasesNumbers": "\nN45 EN NE\nN45 ME SI\nN45 N57.MUSZEN E2\nN14 N45 KISAL KU6"
+    },
+    {
+        "designation": "CUSAS 31, 022",
+        "accountType": [
+            "humans"
+        ],
+        "transcriptionCasesNoNumbers": "KISAL\nDU EN GA2\nE2 ZAG\nAK PAP\nMAHxTUN3\nISZ ZI\nPA SIxSAL\nDU EN SUM\nDI\nNIM\nDA UKKIN\nBU GI6\nNA2\nGA2\nEN E KISAL TE\nEN E KISAL TE",
+        "transcriptionCasesNumbers": "N01 KISAL\nDU EN GA2\nN01 E2 ZAG\nAK PAP\nN01 MAHxTUN3\nISZ ZI\nN01 PA SIxSAL\nDU EN SUM\nN01 DI\nNIM\nDA UKKIN\nBU GI6\nN01 NA2\nN01 GA2\nEN E KISAL TE\nN14 EN E KISAL TE"
+    },
+    {
+        "designation": "CUSAS 31, 023",
+        "accountType": [
+            "humans"
+        ],
+        "transcriptionCasesNoNumbers": "GISZIMMAR PA\nSUHUR\nNA2\nGA2\nKU6 NE\nEN TE\nKI KU6 PA",
+        "transcriptionCasesNumbers": "N01 GISZIMMAR PA\nN01 SUHUR\nN01 NA2\nN01 GA2\nN01 KU6 NE\nN01 EN TE\nKI KU6 PA"
+    },
+    {
+        "designation": "CUSAS 31, 024",
+        "accountType": [
+            "humans"
+        ],
+        "transcriptionCasesNoNumbers": "SZU UKKIN\nBU GI6\nGA2\nSIxEN\nBU GA2\nSIxTUN3\nEN NANSZE\nNA2\nE2 EN IN UKKIN\nEN EN IN IN TE\nE SZAB\nE UKKIN",
+        "transcriptionCasesNumbers": "N01 SZU UKKIN\nBU GI6\nN01 GA2\nN01 SIxEN\nBU GA2\nN01 SIxTUN3\nEN NANSZE\nN01 NA2\nE2 EN IN UKKIN\nN01 EN EN IN IN TE\nE SZAB\nE UKKIN"
+    },
+    {
+        "designation": "CUSAS 31, 025",
+        "accountType": [
+            "humans"
+        ],
+        "transcriptionCasesNoNumbers": "BU NAM2 PAP\nBU SAL\nKISZ PAP\nLUGAL\nU4x3N57\nE E GAN2 KISAL MASZ\nGAN2 MASZ SIxKU\nE KISAL",
+        "transcriptionCasesNumbers": "N01 BU NAM2 PAP\nN01 BU SAL\nN01 KISZ PAP\nN01 LUGAL\nN01 U4x3N57\nE E GAN2 KISAL MASZ\nN01 GAN2 MASZ SIxKU\nE KISAL"
+    },
+    {
+        "designation": "CUSAS 31, 026",
+        "accountType": [
+            "humans"
+        ],
+        "transcriptionCasesNoNumbers": "BAR NIM SAL\nPAP SU\nSIMUG SZIDIM\nSI4\nGISZxSZU2\nNIM\nPAP SU\nISZ USZ\nE KISAL\nBAR GISZxSZU2 SAL\nBAR SAL\nGISZxSZU2",
+        "transcriptionCasesNumbers": "N01 N57 BAR NIM SAL\nN01 N57 PAP SU\nN01 SIMUG SZIDIM\nN01 SI4\nN01 N57 GISZxSZU2\nNIM\nN57 PAP SU\nN01 ISZ USZ\nE KISAL\nN57 N01 BAR GISZxSZU2 SAL\nN57 N01 BAR SAL\nN01 GISZxSZU2"
+    },
+    {
+        "designation": "CUSAS 31, 027",
+        "accountType": [
+            "humans"
+        ],
+        "transcriptionCasesNoNumbers": "SAL UR5\nAMA GI6\nDI NAB NIN\nPAP SAL\nBU SI4 U4\nEN U4\n\nNAR\nEN U4\nKI ZATU628\n\n\nSAL SAL\nSZEG9\n\n\n\nGI4\n\n\n\n\n\n\nEN\n\n\nNAGA\nZATU694\n\nAN DUB NIN\nHI NAGA\n\n\nNUN\nHI@g\n\n\n\n\nSAL TUR\n\nAMA GI6\n\n\nAMA AN MA\nSAL SZA3\nSAL SAL\nBALA TUR3\nKUR TUR\nAK EN GAL\nNIM U4\nSZU TUR\nKUR SZA3\nNI ZATU773\nSZU TUR\nNI SZU U4\nEN ERIM NA2 NINDA2xNUN\nAMA EN GAL KUR SAL\nSAL\nTUR\nKUR",
+        "transcriptionCasesNumbers": "N14 N01 SAL UR5\nN14 AMA GI6\nDI NAB NIN\nN02 PAP SAL\nBU SI4 U4\nEN U4\n\nNAR\nEN U4\nKI ZATU628\n\n\nSAL SAL\nSZEG9\n\n\n\nGI4\n\n\n\n\nN14 N01\n\nEN\n\n\nNAGA\nZATU694\n\nAN DUB NIN\nHI NAGA\n\n\nNUN\nHI@g\n\n\n\n\nN01 SAL TUR\nN01\nAMA GI6\n\nN01\nAMA AN MA\nN01 SAL SZA3\nSAL SAL\nBALA TUR3\nN01 KUR TUR\nAK EN GAL\nNIM U4\nSZU TUR\nN01 KUR SZA3\nNI ZATU773\nSZU TUR\nNI SZU U4\nEN ERIM NA2 NINDA2xNUN\nN14 N01 AMA EN GAL KUR SAL\nN01 N14 SAL\nN01 TUR\nN01 KUR"
+    },
+    {
+        "designation": "CUSAS 31, 028",
+        "accountType": [
+            "humans"
+        ],
+        "transcriptionCasesNoNumbers": "BU TU\nGIR2 NUN SIG\nKISZIK\nAB\nGIR",
+        "transcriptionCasesNumbers": "N01 BU TU\nN01 GIR2 NUN SIG\nN01 KISZIK\nN01 AB\nGIR"
+    },
+    {
+        "designation": "CUSAS 31, 029",
+        "accountType": [
+            "humans"
+        ],
+        "transcriptionCasesNoNumbers": "TUR\n\nMUSZEN SZUBUR\nHI SZUBUR\nZATU854\nSZU TUR\n1N57.SZUBUR\n",
+        "transcriptionCasesNumbers": "TUR\nN01\nMUSZEN SZUBUR\nHI SZUBUR\nZATU854\nSZU TUR\nN57.SZUBUR\n"
+    },
+    {
+        "designation": "CUSAS 31, 030",
+        "accountType": [
+            "humans"
+        ],
+        "transcriptionCasesNoNumbers": "ERIN\nDAR PAP\nNUN SAGSZU\nEN TI\nAPIN SUR\nE SZAB\n\n\nGIBIL\n\nEN GISZ+SZU2 LAGAR U4\n",
+        "transcriptionCasesNumbers": "N01 ERIN\nDAR PAP\nN01 NUN SAGSZU\nEN TI\nN01 APIN SUR\nE SZAB\nN01\n\nGIBIL\n\nN01 EN GISZ+SZU2 LAGAR U4\n"
+    },
+    {
+        "designation": "CUSAS 31, 031",
+        "accountType": [
+            "humans"
+        ],
+        "transcriptionCasesNoNumbers": "BU ZATU759\nE2 ME SI\nEN PAP@t PAP\nE KI\nME TUR3\nSAL\n\nBU SAG\nA\nSANGA\nZATU809\nPAP\nNA2\nPAP SAL\nE GAL KISAL PA\nBU UR\nAN MUSZ3\nBU GISZxSZU2 SZU\nSZURUPPAK\nGI MUSZEN NA\nAB NIR\nE KISAL\n\n\nE KISAL\nGI&GI",
+        "transcriptionCasesNumbers": "N01 BU ZATU759\nN01 E2 ME SI\nN01 EN PAP@t PAP\nN01 E KI\nN01 ME TUR3\nSAL\n\nN01 BU SAG\nN01 N57 A\nN01 SANGA\nN01 ZATU809\nN01 PAP\nN01 NA2\nN01 PAP SAL\nE GAL KISAL PA\nN01 BU UR\nN01 AN MUSZ3\nN01 BU GISZxSZU2 SZU\nN01 SZURUPPAK\nN01 GI MUSZEN NA\nN01 AB NIR\nN01 E KISAL\nN01\n\nE KISAL\nGI&GI"
+    },
+    {
+        "designation": "CUSAS 31, 032",
+        "accountType": [
+            "humans"
+        ],
+        "transcriptionCasesNoNumbers": "LA2 TE\nE KISAL\nAB E2\nAB KI NAM2\nEN GAL\nDAR KISAL NA\nDU SUHUR@t TUR3\nEN PIRIG\nDU KU6\nEN E GAN2 MASZ PAP@t PAP SANGA SIxKU\nZATU752\nGAN2\nERIN\nBU MUSZEN NA\n\n\nIDIGNA\nDU IB\nBU SAL\nEN PIRIG\nE SZE.NAM2 ZATU752\nE GAN2 MASZ MUSZ3 SZE.NAM2\nEN PA\nGA\nE2x1N57@t E GAN2 MASZ\nEN E PAP@t PAP SIxKU\nE GAN2 MASZ MUSZ3 SZE.NAM2\nE2 E2x1N57@t E GAN2 MASZ SIPA\nE E GAN2 KISAL MASZ SIPA SIxKU",
+        "transcriptionCasesNumbers": "N01 LA2 TE\nN01 E KISAL\nN01 AB E2\nN01 AB KI NAM2\nN01 EN GAL\nN01 DAR KISAL NA\nN01 DU SUHUR@t TUR3\nN01 EN PIRIG\nN01 DU KU6\nEN E GAN2 MASZ PAP@t PAP SANGA SIxKU\nN01 ZATU752\nN01 N57 GAN2\nN01 ERIN\nN01 BU MUSZEN NA\nN01\n\nN01 IDIGNA\nN01 DU IB\nN01 BU SAL\nN01 EN PIRIG\nN01 E SZE.NAM2 ZATU752\nE GAN2 MASZ MUSZ3 SZE.NAM2\nN01 EN PA\nN01 GA\nE2x1N57@t E GAN2 MASZ\nN14 N01 EN E PAP@t PAP SIxKU\nN14 N01 E GAN2 MASZ MUSZ3 SZE.NAM2\nN01 E2 E2x1N57@t E GAN2 MASZ SIPA\nN01 N14 E E GAN2 KISAL MASZ SIPA SIxKU"
+    },
+    {
+        "designation": "CUSAS 31, 033",
+        "accountType": [
+            "humans"
+        ],
+        "transcriptionCasesNoNumbers": "A NAR\nE KISAL\nNIN\nKU6 SU\nE KISAL\n\nNIN\nGIBIL\nE KISAL\nNIN\nKAK\nSIMUG\n",
+        "transcriptionCasesNumbers": "N01 A NAR\nN01 E KISAL\nN01 NIN\nKU6 SU\nN01 E KISAL\nN01\nN01 NIN\nGIBIL\nN01 E KISAL\nN01 NIN\nKAK\nN01 SIMUG\nN01"
+    },
+    {
+        "designation": "CUSAS 31, 034",
+        "accountType": [
+            "humans"
+        ],
+        "transcriptionCasesNoNumbers": "AB PAP\nSZEG9\nSZA\nSIG2 U8\nA NAR\nIM\nSIMUG\nGI\nE GI KISAL",
+        "transcriptionCasesNumbers": "N01 N14 AB PAP\nN01 SZEG9\nN01 SZA\nN01 SIG2 U8\nN01 A NAR\nN01 IM\nN14 N01 SIMUG\nGI\nN01 N14 E GI KISAL"
+    },
+    {
+        "designation": "CUSAS 31, 035",
+        "accountType": [
+            "humans"
+        ],
+        "transcriptionCasesNoNumbers": "IDIGNA\n\n\n\nNIN\nEN KISAL PAP\n\nBU MUD NA\n\nSZEG9\n\n\n\n\nGIR3@g NA2\n\n\n\n\n\n\n\n\n\n\n\nNIN\nZATU629\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nME",
+        "transcriptionCasesNumbers": "N01 IDIGNA\nN01\nN01\nN01\nN01 NIN\nN01 EN KISAL PAP\nN01\nN01 BU MUD NA\nN01\nN01 SZEG9\nN34\nN01\nN01\nN01\nN01 GIR3@g NA2\nN01\nN01\nN01\nN01\nN01\nN01\nN01\nN01\nN01\n\nN01\nNIN\nN01 ZATU629\nN01\n\nN01\nN01\nN01\nN01\nN01\nN01\nN01\nN01\nN01\n\nN01\n\nN01\nN01 ME"
+    },
+    {
+        "designation": "CUSAS 31, 036",
+        "accountType": [
+            "fields"
+        ],
+        "transcriptionCasesNoNumbers": "IB\nSI\n\nIB\n\n\nAB E2\n\nAB\n\n\n\n\nKISZ LAGAB SANGA SZE",
+        "transcriptionCasesNumbers": "N50 IB\nSI\nN22 N50 N01 N08\nN01 N08 IB\nN22 N01\n\nN14 N22 AB E2\nN14 N22\nN22 N01 AB\nN22\nN01\nN22\n\nN50 N57 N01 N14 KISZ LAGAB SANGA SZE"
+    },
+    {
+        "designation": "CUSAS 31, 037",
+        "accountType": [
+            "fields"
+        ],
+        "transcriptionCasesNoNumbers": "AN PIRIG\n\nGAN2\nMUD NUN PAP\n\nGAN2\nLUM PAP\n\nGAN2\nDAR PAP\n\nGAN2\nAZ PAP\n\nGAN2\nDU KI PAP\n\nGAN2\nAD BU PAP\n\nGAN2\nPAP SAL\n\nGAN2\n\n\nGAN2\nSZAB\n\nGAN2\nPAP\n\nGAN2\nPAP\n\nGAN2\nGAN2 SZAB\n",
+        "transcriptionCasesNumbers": "N01 N34 N14 AN PIRIG\nN14 N01\nN22 N01 N08 GAN2\nN34 N14 MUD NUN PAP\nN14 N01\nN01 N22 N08 GAN2\nN34 N01 N14 LUM PAP\nN01 N14\nN22 N08 N01 GAN2\nN14 N34 N01 DAR PAP\nN14 N01\nN14 N01 N08 GAN2\nN01 N14 AZ PAP\nN01 N14\nN01 N22 N08 GAN2\nN14 N01 DU KI PAP\nN01 N14\nN22 N08 GAN2\nN34 N01 N14 AD BU PAP\nN14 N01\nN01 N22 N08 GAN2\nN14 N01 PAP SAL\nN14 N01\nN22 N01 N08 GAN2\nN34 N14\nN14 N01\nN14 N22 N01 GAN2\nN34 N01 SZAB\nN14 N01\nN22 N01 N08 GAN2\nN01 N14 PAP\nN14 N01\nN22 N01 GAN2\nN01 N14 PAP\nN14 N01\nN22 N01 GAN2\nN22 N14 GAN2 SZAB\n"
+    },
+    {
+        "designation": "CUSAS 31, 038",
+        "accountType": [
+            "fields"
+        ],
+        "transcriptionCasesNoNumbers": "\n\nGAN2\n\n\nEN\nE2 SAL\nGAN2\nBAR\nSZE.NAM2\nNUN+NAM2\nDU SUM\nMUSZEN PAP\nE2 SAL SZESZ\nSZIDIM\nBU DU EN ZATU759\nME SI\nAL\n\nME SI\nKI NUN+NAM2\nSZIDIM\n\n\nA GAN2\n\n\nGAN2",
+        "transcriptionCasesNumbers": "N58 N14\nN57 N34\nN22 N14 GAN2\nN22\nN22\nN22 N14 EN\nN22 E2 SAL\nN22 N14 N08 GAN2\nN01 N08 BAR\nN22 N01 SZE.NAM2\nN01 N14 NUN+NAM2\nN14 DU SUM\nN14 N22 N01 MUSZEN PAP\nN22 N01 E2 SAL SZESZ\nN22 N01 SZIDIM\nN22 N01 BU DU EN ZATU759\nN14 ME SI\nN22 N14 N08 AL\nN58 N01 N14\nN57 N34 ME SI\nN58 N14 N01 KI NUN+NAM2\nN57 N34 SZIDIM\nN58 N14 N01\nN57 N34\nN22 N01 N14 N08 A GAN2\nN58 N01 N14\nN34 N57 N14\nN14 N01 GAN2"
+    },
+    {
+        "designation": "CUSAS 31, 039",
+        "accountType": [
+            "fields"
+        ],
+        "transcriptionCasesNoNumbers": "\n\n\n\n\n\n\n\n\n\n\n\n\nE2 GAL UB\nIB SZU\n\n\nGAN2\n\n",
+        "transcriptionCasesNumbers": "N57 N34\nN58 N34\nN57 N14 N34\nN34 N58 N14\nN57\nN58 N34 N01\nN57 N34 N01\nN58 N34 N14 N01\nN57\nN58 N14\nN57 N14\nN14 N58 N01\n\nE2 GAL UB\nIB SZU\n\nN14 N58 N01\nN14 N01 GAN2\n\nN01 N14"
+    },
+    {
+        "designation": "CUSAS 31, 040",
+        "accountType": [
+            "fields"
+        ],
+        "transcriptionCasesNoNumbers": "A DU7 GAN2 GI6 GISZ\nAB APIN DA NUN\nISZ LAGAR SAL UNUG ZATU659\nAN DU EN E GAL KISAL PAP\nSANGA\nAB APIN NUN\n",
+        "transcriptionCasesNumbers": "N14 N01 A DU7 GAN2 GI6 GISZ\nAB APIN DA NUN\nISZ LAGAR SAL UNUG ZATU659\nAN DU EN E GAL KISAL PAP\nN01 SANGA\nAB APIN NUN\n"
+    },
+    {
+        "designation": "CUSAS 31, 041",
+        "accountType": [
+            "animals"
+        ],
+        "transcriptionCasesNoNumbers": "AM\nZATU703\nRU TAK4\nU4x1N57\nPAP\nKU SZE@t\nADAB IB\nSUKKAL\n\nPA\nGISZ\nHI SANGA\nMAR PAP\nA ESZDA TAK4\nKI@n NAMESZDA\nERIN\nPAP\nEN\nAB\nSI4\nDU8xAMAR KISZ SANGA SZU",
+        "transcriptionCasesNumbers": "N01 AM\nN01 ZATU703\nN01 RU TAK4\nN01 U4x1N57\nN57 N01 PAP\nN01 KU SZE@t\nN01 ADAB IB\nN01 SUKKAL\nN01\nN01 PA\nN01 GISZ\nN01 HI SANGA\nN01 N57 MAR PAP\nN01 A ESZDA TAK4\nN01 KI@n NAMESZDA\nN01 ERIN\nN01 PAP\nN01 EN\nN01 AB\nN01 SI4\nN57 N01 N14 DU8xAMAR KISZ SANGA SZU"
+    },
+    {
+        "designation": "CUSAS 31, 042",
+        "accountType": [
+            "animals"
+        ],
+        "transcriptionCasesNoNumbers": "A\nA\nSZA\nSANGA\nEZEN\nKI KISZ",
+        "transcriptionCasesNumbers": "N01 A\nN01 A\nN01 SZA\nN01 N57 SANGA\nN01 EZEN\nN14 N01 KI KISZ"
+    },
+    {
+        "designation": "CUSAS 31, 043",
+        "accountType": [
+            "animals"
+        ],
+        "transcriptionCasesNoNumbers": "KISZ SANGA\nEN TUG2\nKISZ SZUBUR\nSANGA\n\n\nAMAR EN\nAN SZU2.EN\nKAB NAM2\nKAB NAM2 SZE.NAM2\nMAR\nGAN2\nGAL SANGA ZATU703\nSANGA\nNAMESZDA RU\nNAGA\nUB\nBA KISZ SANGA\n\nBA\nSZU UB\nKISZ\nEN+NUN SANGA\nBA\nSZU\n\nBA KISZ",
+        "transcriptionCasesNumbers": "N34 KISZ SANGA\nN01 EN TUG2\nN01 KISZ SZUBUR\nSANGA\n\n\nN14 AMAR EN\nN01 AN SZU2.EN\nN14 N01 KAB NAM2\nN01 KAB NAM2 SZE.NAM2\nN01 MAR\nN01 GAN2\nN01 GAL SANGA ZATU703\nSANGA\nN34 NAMESZDA RU\nN14 NAGA\nN14 N01 UB\nN34 BA KISZ SANGA\nN14\nBA\nN14 N34 N01 SZU UB\nN14 KISZ\nN01 EN+NUN SANGA\nN14 N34 N01 BA\nN14 N34 N01 SZU\nN14\nN01 N14 N34 BA KISZ"
+    },
+    {
+        "designation": "CUSAS 31, 044",
+        "accountType": [
+            "animals"
+        ],
+        "transcriptionCasesNoNumbers": "AZ ERIM KISZ SAL\nKISZ KUR\n1N58.BAD DUR2 KISZ SAL\nKISZ KUR\nSAL ZATU694\nKUR\nKISZ RU SAL\nKUR\nGAL\nEN KUR PIRIG\nA GISZxSZU2 KUR MA PA\nKALAM KUR PA\nKUR SI4 TAK4\nSAL\nKISZ\nSAL\nKUR\nKISZ KUR RAD@g SAL SANGA SZUBUR",
+        "transcriptionCasesNumbers": "N01 AZ ERIM KISZ SAL\nN01 KISZ KUR\nN01 N58.BAD DUR2 KISZ SAL\nN01 KISZ KUR\nN01 SAL ZATU694\nN01 KUR\nN01 KISZ RU SAL\nN01 KUR\nN01 GAL\nN01 EN KUR PIRIG\nN01 A GISZxSZU2 KUR MA PA\nN01 KALAM KUR PA\nN01 KUR SI4 TAK4\nN01 SAL\nKISZ\nN01 SAL\nN14 KUR\nN14 N01 KISZ KUR RAD@g SAL SANGA SZUBUR"
+    },
+    {
+        "designation": "CUSAS 31, 045",
+        "accountType": [
+            "animals"
+        ],
+        "transcriptionCasesNoNumbers": "\nIB\n\n\nA MUSZEN\nERIN\n\n\n\nPAP\nA\nBULUG3\nEN\nMAR\n\nSI4\n\n\nGAN2 SZAGAN\nPAP UR3\n\nBU\nGA2xDUB\n\n\n\n\nDU6 KISZ",
+        "transcriptionCasesNumbers": "N01\nN01 IB\nN01\nN01\nN01 A MUSZEN\nN01 ERIN\nN01\nN01\nN01\nN57 N01 PAP\nN01 A\nN01 BULUG3\nN01 EN\nN01 MAR\nN01\nN01 SI4\nN01\nN01\nN01 GAN2 SZAGAN\nN01 PAP UR3\nN01\nN01 BU\nN01 GA2xDUB\nN01\nN01\nN14 N01\nN01\nN01 N14 DU6 KISZ"
+    },
+    {
+        "designation": "CUSAS 31, 046",
+        "accountType": [
+            "animals"
+        ],
+        "transcriptionCasesNoNumbers": "\nKISZ\nGI\n\nA LAM\nGAN2\nSAL\nKUR\n\n",
+        "transcriptionCasesNumbers": "\nKISZ\nN01 GI\n\nN14 N01 A LAM\nN14 N01 GAN2\nN14 N01 SAL\nN01 KUR\n\n"
+    },
+    {
+        "designation": "CUSAS 31, 047",
+        "accountType": [
+            "animals"
+        ],
+        "transcriptionCasesNoNumbers": "\n\nEN+NUN PAP\nNA2\nAPIN\nUD5\n\n\nKISZ",
+        "transcriptionCasesNumbers": "\nN14\nN14 N01 EN+NUN PAP\nNA2\nN01 APIN\nN01 UD5\n\nN15\nKISZ"
+    },
+    {
+        "designation": "CUSAS 31, 048",
+        "accountType": [
+            "animals"
+        ],
+        "transcriptionCasesNoNumbers": "IB SZU\nKU6\nUD5\nEN+NUN KASKAL KISZ SANGA SI",
+        "transcriptionCasesNumbers": "N01 IB SZU\nN01 KU6\nN01 UD5\nN01 EN+NUN KASKAL KISZ SANGA SI"
+    },
+    {
+        "designation": "CUSAS 31, 049",
+        "accountType": [
+            "animals"
+        ],
+        "transcriptionCasesNoNumbers": "ZATU850\nSZA3\nU2\nEN+NUN\nSUKKAL\nEN KI\nKU SZE@t\nA SI\nEN\nAD SI\nKAB SZUBUR\nPAP\nGI SI\nSANGA\nAMAR\nZATU703\nDU\nSZEG9\nEN+NUN E\nAPIN GUG2\nGI KISZ PAP",
+        "transcriptionCasesNumbers": "N01 ZATU850\nN01 SZA3\nN01 U2\nN01 EN+NUN\nN01 SUKKAL\nN01 EN KI\nN01 KU SZE@t\nN01 A SI\nN01 EN\nN01 AD SI\nN01 KAB SZUBUR\nN01 N57 PAP\nN01 GI SI\nN14 SANGA\nN01 AMAR\nN01 ZATU703\nN01 DU\nN01 SZEG9\nN01 EN+NUN E\nN01 APIN GUG2\nN02 N01 N14 GI KISZ PAP"
+    },
+    {
+        "designation": "CUSAS 31, 050",
+        "accountType": [
+            "animals"
+        ],
+        "transcriptionCasesNoNumbers": "MUN\nNINDA2\nU4x2N57\nAMAR KUR U4x1N57\nSAL\nKISZ\nSZA3\nU4x3N57\nU4x2N57\nAMAR SAL U4x1N57\nUDU\nMUN\nSAL\nKUR\nMUN\nDU8xAMAR\nGAL KISZ",
+        "transcriptionCasesNumbers": "N14 N01 MUN\nN01 NINDA2\nN01 U4x2N57\nN01 AMAR KUR U4x1N57\nN01 SAL\nN01 KISZ\nN14 N01 SZA3\nN01 U4x3N57\nN01 U4x2N57\nN01 AMAR SAL U4x1N57\nN14 UDU\nN14 N01 MUN\nN01 N14 SAL\nN01 KUR\nN14 N01 MUN\nN01 N14 DU8xAMAR\nN34 N01 GAL KISZ"
+    },
+    {
+        "designation": "CUSAS 31, 051",
+        "accountType": [
+            "animals"
+        ],
+        "transcriptionCasesNoNumbers": "MUN\nBAR\nNINDA2\nU4x3N57\nAMAR KUR U4x1N57\nSAL\nSZA3\nU4x3N57\nU4x2N57\nAMAR SAL U4x1N57\n\nUDU\nMUN\nSAL\nKUR\nMUN\nDU8xAMAR\nKISZ NINDA2",
+        "transcriptionCasesNumbers": "N01 N14 MUN\nN01 BAR\nN01 NINDA2\nN01 U4x3N57\nN01 AMAR KUR U4x1N57\nN01 SAL\nN14 N01 SZA3\nN01 U4x3N57\nN01 U4x2N57\nN14 AMAR SAL U4x1N57\n\nUDU\nN14 N01 MUN\nN14 N01 SAL\nN14 KUR\nN14 N01 MUN\nN14 N01 DU8xAMAR\nN01 N14 N34 KISZ NINDA2"
+    },
+    {
+        "designation": "CUSAS 31, 052",
+        "accountType": [
+            "animals"
+        ],
+        "transcriptionCasesNoNumbers": "\n\nASAR EN\n\nZATU703\n\nKI\nBA\n\n\n\nBA\nE2 KUR\nMAH\nSUKKAL\n\nUR4\nRU\n\nGAL\nEN\n\nSAG ZATU759\nSI\n\nE2 NU@g\nBA EN ZATU703\nAN EN RU SANGA\nNE\nEN\nGISZ RAD SUKKAL URU\nEN ESZDA SZU\n\nNE\nGAL KISZ\nBA MUN\nBA\n\nNE\n\nMUN",
+        "transcriptionCasesNumbers": "\n\nN01 ASAR EN\nN02\nN14 ZATU703\nN02\nN14 N01 KI\nN02 BA\nN02\nN01\nN01 N14\nN02 BA\nN01 E2 KUR\nN02 MAH\nN01 SUKKAL\nN02\nN14 UR4\nN01 RU\nN02\nGAL\nEN\n\nN14 N01 SAG ZATU759\nN01 SI\nN02\nN01 E2 NU@g\nN14 N01 BA EN ZATU703\nN01 AN EN RU SANGA\nN02 NE\nN01 EN\nN01 GISZ RAD SUKKAL URU\nN01 EN ESZDA SZU\nN02\nN02 NE\nGAL KISZ\nN14 N34 BA MUN\nN02 BA\nN02 N15\nN02 NE\n\nN14 N34 N01 MUN"
+    },
+    {
+        "designation": "CUSAS 31, 053",
+        "accountType": [
+            "animals"
+        ],
+        "transcriptionCasesNoNumbers": "KISZ SAL ZATU686\nKISZ\nKISZ KUR\nKISZ KUR U4x3N57\nKISZ KUR U4x2N57\nKU6 MUSZEN RAD\nGAL KISZ SAL\nKISZ KUR SI\nAMAR KISZ",
+        "transcriptionCasesNumbers": "N14 N01 KISZ SAL ZATU686\nN01 KISZ\nKISZ KUR\nN01 KISZ KUR U4x3N57\nN14 KISZ KUR U4x2N57\nKU6 MUSZEN RAD\nN01 GAL KISZ SAL\nN01 KISZ KUR SI\nN01 AMAR KISZ"
+    },
+    {
+        "designation": "CUSAS 31, 054",
+        "accountType": [
+            "animals"
+        ],
+        "transcriptionCasesNoNumbers": "AB DU8xAMAR\nMUN\nDU8xAMAR KUR\nE2 MUN\n\nU4x2N57\n\nBAR\n\nMAR",
+        "transcriptionCasesNumbers": "AB DU8xAMAR\nN14 N01 MUN\nN01 DU8xAMAR KUR\nN01 E2 MUN\n\nN01 U4x2N57\n\nBAR\n\nMAR"
+    },
+    {
+        "designation": "CUSAS 31, 055",
+        "accountType": [
+            "animals"
+        ],
+        "transcriptionCasesNoNumbers": "KISZ\nMUN\nMUN\n\n\nU4x3N57\nU4x1N57 ZATU669\n",
+        "transcriptionCasesNumbers": "KISZ\nN01 MUN\nN01 MUN\nN14\n\nN01 U4x3N57\nN01 U4x1N57 ZATU669\n"
+    },
+    {
+        "designation": "CUSAS 31, 056",
+        "accountType": [
+            "animals"
+        ],
+        "transcriptionCasesNoNumbers": "\nU4x2N57\n\nSAL\nKISZ",
+        "transcriptionCasesNumbers": "\nN01 U4x2N57\n\nN01 N14 SAL\nKISZ"
+    },
+    {
+        "designation": "CUSAS 31, 057",
+        "accountType": [
+            "animals"
+        ],
+        "transcriptionCasesNoNumbers": "BU NAM2 PAP UDUNITA\n\n",
+        "transcriptionCasesNumbers": "N01 BU NAM2 PAP UDUNITA\n\n"
+    },
+    {
+        "designation": "CUSAS 31, 058",
+        "accountType": [
+            "animals"
+        ],
+        "transcriptionCasesNoNumbers": "A NAR\nU4x1N57\nMUD SI4\nBU NAM2 PAP\nBU PA URU\nKU6 SZURUPPAK\nBA BAR UDU",
+        "transcriptionCasesNumbers": "N01 A NAR\nN01 U4x1N57\nN01 MUD SI4\nN01 BU NAM2 PAP\nN01 BU PA URU\nN01 KU6 SZURUPPAK\nN01 N14 BA BAR UDU"
+    },
+    {
+        "designation": "CUSAS 31, 059",
+        "accountType": [
+            "animals"
+        ],
+        "transcriptionCasesNoNumbers": "A SANGA TAK4 UDUNITA\nMASZ\nDIN+ UDUNITA\nUTUA\nLAM UTUA\nMASZ\nBU SAL UDUNITA\n1N57.MUSZEN E KISAL NUN\nUDU\nGIR3 GURUSZDA NI\nUDUNITA\nUTUA\nMASZ2",
+        "transcriptionCasesNumbers": "N01 A SANGA TAK4 UDUNITA\nN01 MASZ\nN01 DIN+N57 UDUNITA\nN01 UTUA\nN01 LAM UTUA\nN01 MASZ\nN01 BU SAL UDUNITA\nN57.MUSZEN E KISAL NUN\nN01 UDU\nGIR3 GURUSZDA NI\nN01 UDUNITA\nN01 UTUA\nN01 MASZ2"
+    },
+    {
+        "designation": "CUSAS 31, 060",
+        "accountType": [
+            "animals"
+        ],
+        "transcriptionCasesNoNumbers": "UDUNITA\nUTUA\nUD5\nMASZ2\nNUN\nUDU\n\nSILA4\nAN BA EN NI\nAN BA EN NI UDU URU",
+        "transcriptionCasesNumbers": "N01 UDUNITA\nN01 UTUA\nN01 UD5\nN01 MASZ2\nN01 NUN\nUDU\nN01\nN01 SILA4\nAN BA EN NI\nN14 N01 AN BA EN NI UDU URU"
+    },
+    {
+        "designation": "CUSAS 31, 061",
+        "accountType": [
+            "animals"
+        ],
+        "transcriptionCasesNoNumbers": "BU.DU6 GISZxSZU2 LAGAB SZU UDU\nUDU\nGU7\nSU\n",
+        "transcriptionCasesNumbers": "N34 N48 N14 N01 BU.DU6 GISZxSZU2 LAGAB SZU UDU\nN34 N01 UDU\nN34 N01 N14 GU7\nN35 N02 SU\nN01 N34 N14"
+    },
+    {
+        "designation": "CUSAS 31, 062",
+        "accountType": [
+            "animals"
+        ],
+        "transcriptionCasesNoNumbers": "\nU8\n\nUDU\n\nUDUNITA\nMASZ\n\n\nMASZ2\nAN GAL NU11 SANGA UR5",
+        "transcriptionCasesNumbers": "\nN01 U8\nN14 N01\nN01 UDU\nN01\nN01 UDUNITA\nN01 MASZ\n\nN01\nN01 MASZ2\nAN GAL NU11 SANGA UR5"
+    },
+    {
+        "designation": "CUSAS 31, 063",
+        "accountType": [
+            "animals"
+        ],
+        "transcriptionCasesNoNumbers": "UDU\nUB\nSZAB",
+        "transcriptionCasesNumbers": "N34 N14 N01 UDU\nN34 N01 UB\nN14 SZAB"
+    },
+    {
+        "designation": "CUSAS 31, 064",
+        "accountType": [
+            "animals"
+        ],
+        "transcriptionCasesNoNumbers": "GAL SZITA ZATU752\nU8\nUDUNITA\n",
+        "transcriptionCasesNumbers": "N14 N57 GAL SZITA ZATU752\nN14 U8\nN14 UDUNITA\n"
+    },
+    {
+        "designation": "CUSAS 31, 065",
+        "accountType": [
+            "animals"
+        ],
+        "transcriptionCasesNoNumbers": "\nEN UDU\n\nU8\nUDUNITA\nUD5\nKUR MASZ\nUD5\nMASZ2\n\nKIR11\nKUR SILA4\nUTUA\nKU3 SANGA\nKIR11\nKUR SILA4\nSZAH2\nU8\nUDUNITA\nSZUBUR UDU",
+        "transcriptionCasesNumbers": "\nN01 N14 EN UDU\n\nN01 U8\nN01 UDUNITA\nN01 UD5\nN01 KUR MASZ\nN01 UD5\nN14 N01 MASZ2\nN01\nN01 KIR11\nN01 KUR SILA4\nN14 N01 UTUA\nKU3 SANGA\nN01 KIR11\nN01 KUR SILA4\nN01 SZAH2\nN01 U8\nN01 UDUNITA\nSZUBUR UDU"
+    },
+    {
+        "designation": "CUSAS 31, 066",
+        "accountType": [
+            "animals"
+        ],
+        "transcriptionCasesNoNumbers": "\nUTUA\nKIR11\nKUR SILA4",
+        "transcriptionCasesNumbers": "N57\nUTUA\nN57 KIR11\nN57 KUR SILA4"
+    },
+    {
+        "designation": "CUSAS 31, 067",
+        "accountType": [
+            "animals"
+        ],
+        "transcriptionCasesNoNumbers": "SZE3 U8\nUDUNITA\nAB E NIM SZE.NAM2\nKIR11\nSILANITA\nBAR U4x1N57\nU8\nUDUNITA\nAB2\nSZE.NAM2\nAB2 UDU\nSZE.NAM2\nLAGAB UDU\nBAR U4x1N57\nKISIM\nE ZATU752",
+        "transcriptionCasesNumbers": "N14 SZE3 U8\nN14 UDUNITA\nAB E NIM SZE.NAM2\nN01 KIR11\nN01 SILANITA\nBAR U4x1N57\nN14 N01 U8\nN01 UDUNITA\nN01 AB2\nSZE.NAM2\nN01 N14 N01 AB2 UDU\nSZE.NAM2\nN14 LAGAB UDU\nN01 BAR U4x1N57\nN01 N08 KISIM\nE ZATU752"
+    },
+    {
+        "designation": "CUSAS 31, 068",
+        "accountType": [
+            "animals"
+        ],
+        "transcriptionCasesNoNumbers": "NAR SZU\n3N57.SI\nBU SZUR2\nE2 GESZTU KASZ\nZATU795\nBU SZUR2\nDAH\nLA2 TE\nBU NAM2 PAP\nAB E2 ME\nA\nBU NAM2 PAP\nHAL ME\nA NAR\nU4x1N57\nA\nSANGA SIG UDU\nZATU659\nMARxX\nZATU633\nE2 TUR\nI UB\nU4x1N57\nKISZ\nBU.DU6 PAP\nEN PAP@t PAP\nMUSZEN ZATU809\nPAP SZU2\nEN PAP\nE2 PA SAR URU\nE2 GA2xKU6 SAR\nASAR IDIGNA\nTAR\nKINGAL\nGAL TE\nE ME ZATU659\nE2 ME SI\nEN PAP@t PAP\nEN GI&GI TI\nBU.DU6 BU.DU6 PAP\nMUSZ3\nKI SANGA\nDU EN SUM\nAPIN\nZATU752\nAPIN\nKISZ\nTAR\nSZE+SAR\nUDU\nEN GI&GI",
+        "transcriptionCasesNumbers": "NAR SZU\nN01 N57.SI\nN01 BU SZUR2\nN01 E2 GESZTU KASZ\nN01 ZATU795\nN01 BU SZUR2\nN01 DAH\nN01 LA2 TE\nN01 BU NAM2 PAP\nN01 AB E2 ME\nN01 N57 A\nN01 BU NAM2 PAP\nN01 HAL ME\nN01 A NAR\nN01 U4x1N57\nN01 N57 A\nN01 SANGA SIG UDU\nN01 ZATU659\nN01 MARxX\nN01 ZATU633\nE2 TUR\nN01 I UB\nN01 U4x1N57\nKISZ\nN01 BU.DU6 PAP\nN01 EN PAP@t PAP\nN01 MUSZEN ZATU809\nN01 PAP SZU2\nN01 EN PAP\nN01 E2 PA SAR URU\nN01 E2 GA2xKU6 SAR\nN01 ASAR IDIGNA\nTAR\nN01 KINGAL\nN01 GAL TE\nN01 E ME ZATU659\nN01 E2 ME SI\nN01 EN PAP@t PAP\nN01 EN GI&GI TI\nN01 BU.DU6 BU.DU6 PAP\nN01 N57 MUSZ3\nN01 KI SANGA\nN01 DU EN SUM\nAPIN\nN14 ZATU752\nN14 N01 APIN\nN01 KISZ\nN01 TAR\nN14 N01 SZE+SAR\nN34 N14 N01 UDU\nEN GI&GI"
+    },
+    {
+        "designation": "CUSAS 31, 069",
+        "accountType": [
+            "animals"
+        ],
+        "transcriptionCasesNoNumbers": "U8\nUD5\n\nUDUNITA\n\nU8\nUD5\nUDU\nUDUNITA\nMASZ2\nEN PA\nE KISAL\nE KISAL PA SZU UDU ZATU795",
+        "transcriptionCasesNumbers": "U8\nUD5\n\nUDUNITA\n\nN14 N01 U8\nN01 UD5\nN14 UDU\nN14 UDUNITA\nN01 MASZ2\nN01 EN PA\nE KISAL\nN01 N14 N34 E KISAL PA SZU UDU ZATU795"
+    },
+    {
+        "designation": "CUSAS 31, 070",
+        "accountType": [
+            "animals"
+        ],
+        "transcriptionCasesNoNumbers": "BU NAM PAP SAL U8\nMASZ\nLA2 MASZ TE\nMASZ ME ME\nPAP UDUNITA\nKI SANGA UDUNITA\nMASZ\nE KISAL PAP\nEN GURUSZDA IDIGNA IDIGNA\nU8\nMASZ2\nUDUNITA\nEN E GURUSZDA IDIGNA IDIGNA KISAL PAP UDU",
+        "transcriptionCasesNumbers": "N01 BU NAM PAP SAL U8\nN01 MASZ\nN01 LA2 MASZ TE\nN01 MASZ ME ME\nN01 PAP UDUNITA\nN01 KI SANGA UDUNITA\nN01 MASZ\nE KISAL PAP\nEN GURUSZDA IDIGNA IDIGNA\nN01 U8\nN01 MASZ2\nN01 UDUNITA\nN01 N14 EN E GURUSZDA IDIGNA IDIGNA KISAL PAP UDU"
+    },
+    {
+        "designation": "CUSAS 31, 071",
+        "accountType": [
+            "animals"
+        ],
+        "transcriptionCasesNoNumbers": "SZE3 UDU\n\n\nUDU\n\n\n\nUDU\nAB2\n\nLAGAB UDU\nBAR U4x1N57\nKISIM\nSZEG9",
+        "transcriptionCasesNumbers": "N14 N01 SZE3 UDU\n\n\nN01 UDU\n\nN20 N01\n\nN14 N01 UDU\nN01 AB2\n\nN14 N01 LAGAB UDU\nN01 BAR U4x1N57\nN01 N08 KISIM\nSZEG9"
+    },
+    {
+        "designation": "CUSAS 31, 072",
+        "accountType": [
+            "animals"
+        ],
+        "transcriptionCasesNoNumbers": "\nGAN2\n\n\nGURUSZDA UDU\nSANGA\nEN KI\nZATU628\nBAR UDU\nBAR UDU",
+        "transcriptionCasesNumbers": "N01\nN01 GAN2\nN01\n\nN01 GURUSZDA UDU\nN01 SANGA\nN01 EN KI\nN01 ZATU628\nBAR UDU\nN14 N01 BAR UDU"
+    },
+    {
+        "designation": "CUSAS 31, 073",
+        "accountType": [
+            "animals"
+        ],
+        "transcriptionCasesNoNumbers": "\nUD5\nESZGAR\nMASZ2\n\nUD5\nSILANITA\nU8\n\n\nA\nUD5\nESZGAR\nMASZ2\nBU NAM2 PAP\nUD5\nESZGAR\nMUSZEN\nUD5\nUDUNITA\nMASZ2\n\nUD5\nESZGAR\nUDU\nUDUNITA\nMASZ2\nBU NAM2 PAP\nE KISAL\nE SIPA SZU UDU ZATU795",
+        "transcriptionCasesNumbers": "N14 N01\nN14 UD5\nN01 ESZGAR\nN01 MASZ2\n\nUD5\nN01 SILANITA\nU8\n\n\nN14 N01 N57 A\nN01 UD5\nN01 ESZGAR\nN01 MASZ2\nN01 BU NAM2 PAP\nN01 UD5\nN01 ESZGAR\nN01 MUSZEN\nN01 UD5\nN01 UDUNITA\nN01 MASZ2\nN01\nN14 N01 UD5\nN01 ESZGAR\nN14 UDU\nN14 UDUNITA\nN01 MASZ2\nBU NAM2 PAP\nE KISAL\nN14 N34 E SIPA SZU UDU ZATU795"
+    },
+    {
+        "designation": "CUSAS 31, 074",
+        "accountType": [
+            "animals"
+        ],
+        "transcriptionCasesNoNumbers": "U8\nUDUNITA\nUD5\nMASZ2 U4x1N57\nE GAL SAL\nU8\nUDUNITA\nMASZ2\nU4x3N57\nU4x1N57\nSZE.NAM2\nE SAL\n\nU8\nUDUNITA\nMASZ2\nUD5\nBA E GAN2 KISAL MASZ SAL SIxKU",
+        "transcriptionCasesNumbers": "N01 U8\nN01 UDUNITA\nN01 UD5\nN01 MASZ2 U4x1N57\nE GAL SAL\nN01 U8\nN01 UDUNITA\nN01 MASZ2\nN01 U4x3N57\nN01 U4x1N57\nSZE.NAM2\nN14 E SAL\nN14\nN01 U8\nN01 UDUNITA\nN01 MASZ2\nN01 UD5\nN14 BA E GAN2 KISAL MASZ SAL SIxKU"
+    },
+    {
+        "designation": "CUSAS 31, 075",
+        "accountType": [
+            "animals"
+        ],
+        "transcriptionCasesNoNumbers": "\n\nEN PAP@t PAP\nPAP SI SZURUPPAK\nMUSZ3\n\nBU NAM2 PAP\n\n\n\n\nSUG5\nSAL SANGA\n\n\nGI&GI PAP\nNIR\nTE\n\n\nEN GI&GI SZEG9\nEN E KISAL UDU\nE KISAL SANGA UDU\nEN UDU",
+        "transcriptionCasesNumbers": "\nN01\nN01 EN PAP@t PAP\nN01 PAP SI SZURUPPAK\nN01 MUSZ3\nN01\nN01 BU NAM2 PAP\n\n\nN01\nN01\nN01 SUG5\nN01 SAL SANGA\nN01\n\nN01 GI&GI PAP\nN01 NIR\nN01 TE\n\n\nEN GI&GI SZEG9\nN14 EN E KISAL UDU\nN14 E KISAL SANGA UDU\nN14 EN UDU"
+    },
+    {
+        "designation": "CUSAS 31, 076",
+        "accountType": [
+            "animals"
+        ],
+        "transcriptionCasesNoNumbers": "GAL TE\nNAR SZU\nBU.DU6 E\nKI SANGA\nSANGA SIG UDU\nUDU ZATU752\nAB GI&GI\nBU.DU6 PAP\nEN PAP@t PAP\nMUD ZATU809\nSZU2.PAP\nI UB\nU4x1N57\n3N57.SI\nAB E2 ME\nAB E2 KASZ\nLA2 TE\nBU NAM2 PAP\nME TE\nZATU659\nME SI\nZATU633\nASAR IDIGNA\nSUHUR SUHUR\nSUHUR\nUDU\nU8\nUDU\nAB GI&GI\n\nBU NAM2 PAP\n\n\nGI UDU ZATU752\n",
+        "transcriptionCasesNumbers": "N01 GAL TE\nN01 NAR SZU\nN01 BU.DU6 E\nN01 KI SANGA\nN01 SANGA SIG UDU\nUDU ZATU752\nAB GI&GI\nN01 BU.DU6 PAP\nN01 EN PAP@t PAP\nN01 MUD ZATU809\nN01 SZU2.PAP\nN01 I UB\nN01 U4x1N57\nN01 N57.SI\nN01 AB E2 ME\nN01 AB E2 KASZ\nN01 LA2 TE\nN01 BU NAM2 PAP\nN01 ME TE\nN01 ZATU659\nN01 ME SI\nN01 ZATU633\nN01 ASAR IDIGNA\nN01 SUHUR SUHUR\nN01 SUHUR\nN14 N01 UDU\nN14 U8\nN14 N01 UDU\nAB GI&GI\nN14 N01\nN14 N01 BU NAM2 PAP\nN14\nN01\nN14 GI UDU ZATU752\n"
+    },
+    {
+        "designation": "CUSAS 31, 077",
+        "accountType": [
+            "animals"
+        ],
+        "transcriptionCasesNoNumbers": "SI4 SUHUR\nGA2xKU6\nBA KISAL KU6\nBU SZUR2",
+        "transcriptionCasesNumbers": "N14 N34 SI4 SUHUR\nN34 GA2xKU6\nBA KISAL KU6\nBU SZUR2"
+    },
+    {
+        "designation": "CUSAS 31, 078",
+        "accountType": [
+            "animals"
+        ],
+        "transcriptionCasesNoNumbers": "SUHUR@n\nZATU759xKU6\nNUN SANGA\nNUN SANGA SUKKAL",
+        "transcriptionCasesNumbers": "N14 SUHUR@n\nN14 ZATU759xKU6\nNUN SANGA\nNUN SANGA SUKKAL"
+    },
+    {
+        "designation": "CUSAS 31, 079",
+        "accountType": [
+            "animals"
+        ],
+        "transcriptionCasesNoNumbers": "PA SZU\nSUHUR\nGAL SUHUR\nDU SANGA\nME SUHUR\nSUHUR\nSANGA",
+        "transcriptionCasesNumbers": "PA SZU\nN34 N01 N14 SUHUR\nN01 GAL SUHUR\nN14 N01 DU SANGA\nN14 N34 N01 ME SUHUR\nN14 N01 SUHUR\nN14 N01 SANGA"
+    },
+    {
+        "designation": "CUSAS 31, 080",
+        "accountType": [
+            "animals"
+        ],
+        "transcriptionCasesNoNumbers": "SZUBUR UBI\nUBI\nE\nSZUBUR UBI\nE GUG2 KISAL NE SU SZUBUR U4\nSZUBUR UBI\nUBI\nE E KISAL",
+        "transcriptionCasesNumbers": "N48 SZUBUR UBI\nN14 N01 UBI\nE\nN48 SZUBUR UBI\nE GUG2 KISAL NE SU SZUBUR U4\nN48 SZUBUR UBI\nN14 N01 UBI\nE E KISAL"
+    },
+    {
+        "designation": "CUSAS 31, 081",
+        "accountType": [
+            "animals"
+        ],
+        "transcriptionCasesNoNumbers": "EN EN E IDIGNA PAP SUHUR\nSAGSZU UB\n\n",
+        "transcriptionCasesNumbers": "N48 EN EN E IDIGNA PAP SUHUR\nSAGSZU UB\n\nN34"
+    },
+    {
+        "designation": "CUSAS 31, 082",
+        "accountType": [
+            "animals"
+        ],
+        "transcriptionCasesNoNumbers": "2N57.DU6@n\nIDIGNA ZATU741\nKISAL\nGI\nPA\nRU\nMUSEN\nE2\n\nUBI\nUBI",
+        "transcriptionCasesNumbers": "N57.DU6@n N14 N48 N01 N34\nN34 N14 IDIGNA ZATU741\nN14 KISAL\nN01 N14 GI\nN01 PA\nN01 RU\nN01 MUSEN\nN01 E2\nN01\nUBI\nN48 N01 UBI"
+    },
+    {
+        "designation": "CUSAS 31, 083",
+        "accountType": [
+            "animals"
+        ],
+        "transcriptionCasesNoNumbers": "AB2 ZAG\nAB2 NE\nAB2 SZU\nDARA4\nAB2 AB2 SZU\nAMAR BA KI SAL SZU U4\nUDU\nUD5\nUDUNITA\nKISZ SAL\nKISZ KUR\nE KISAL\n\n\n",
+        "transcriptionCasesNumbers": "N01 AB2 ZAG\nN01 AB2 NE\nN01 AB2 SZU\nN01 DARA4\nN01 AB2 AB2 SZU\nN01 AMAR BA KI SAL SZU U4\nN14 N01 UDU\nN01 UD5\nN01 UDUNITA\nN01 KISZ SAL\nN01 KISZ KUR\nE KISAL\n\n\nN01"
+    },
+    {
+        "designation": "CUSAS 31, 084",
+        "accountType": [
+            "animals"
+        ],
+        "transcriptionCasesNoNumbers": "AB2\nGU4\nKU SZIM\nUKKIN ZATU723\nAB2\nKUR SAL\nSZA",
+        "transcriptionCasesNumbers": "N01 AB2\nN01 GU4\nKU SZIM\nUKKIN ZATU723\nN14 AB2\nN02 N01 KUR SAL\nSZA"
+    },
+    {
+        "designation": "CUSAS 31, 085",
+        "accountType": [
+            "cereals"
+        ],
+        "transcriptionCasesNoNumbers": "NIN PA SZE UNUG\nSZUR2 ZATU759\nAN GUM",
+        "transcriptionCasesNumbers": "N02 N14 NIN PA SZE UNUG\nSZUR2 ZATU759\nAN GUM"
+    },
+    {
+        "designation": "CUSAS 31, 086",
+        "accountType": [
+            "cereals"
+        ],
+        "transcriptionCasesNoNumbers": "SZE\n\nNAR\nHAL HI@g\nEN SZAM2\nA HI@g SZE",
+        "transcriptionCasesNumbers": "N45 N14 SZE\nN14\nNAR\nN05 N20 HAL HI@g\nEN SZAM2\nN47 N05 N20 A HI@g SZE"
+    },
+    {
+        "designation": "CUSAS 31, 087",
+        "accountType": [
+            "cereals"
+        ],
+        "transcriptionCasesNoNumbers": "GU7 KI NIN SZE",
+        "transcriptionCasesNumbers": "N02 N14 N19 GU7 KI NIN SZE"
+    },
+    {
+        "designation": "CUSAS 31, 088",
+        "accountType": [
+            "cereals"
+        ],
+        "transcriptionCasesNoNumbers": "\n\nLUKUR TUR3\nDU8@g\nPAP\nHI@g\n\nU4.\n\nTUR\nGUG2\nSZE\n",
+        "transcriptionCasesNumbers": "\nN39\nN39 LUKUR TUR3\nN28 N57 DU8@g\nN28 PAP\nHI@g\nN39\nU4.N08\nN01 N28 N39\nN01 N28 TUR\nN24 N28 GUG2\nN28 N39 SZE\nN01"
+    },
+    {
+        "designation": "CUSAS 31, 089",
+        "accountType": [
+            "cereals"
+        ],
+        "transcriptionCasesNoNumbers": "\n\n\n\n3N57.AZ\nEN NAGA\nERIN\nSAL SAL\n\nKIR11\nKISZ\nPAP\nGAN2 SAL\nME TUR3\nSAL.ZATU751 SZA\nA SAL\nGIR3 TU\nSAL UR\nAN ZATU788\nAN SZE ZATU788\n\nAN NAM2\n\nSAL\n\n\nNU11 SAL\nNIN TUR\nSZIM\n\n\n\nUR5\n",
+        "transcriptionCasesNumbers": "\nN01\nN01\nN01\nN01 N57.AZ\nN01 EN NAGA\nN01 ERIN\nN01 SAL SAL\n\nN24 N39 KIR11\nN24 N39 KISZ\nN24 N39 N57 PAP\nN24 N39 GAN2 SAL\nN24 N39 ME TUR3\nN24 N39 SAL.ZATU751 SZA\nN24 N39 A SAL\nN24 N39 GIR3 TU\nN01 SAL UR\nN24 N39 AN ZATU788\nN24 N39 AN SZE ZATU788\nN24 N39 N57\nN24 N39 AN NAM2\nN24 N39\nN24 N39 SAL\nN24 N39\n\nN01 NU11 SAL\nN01 NIN TUR\nN24 N39 SZIM\nN24 N39\nN24 N39\n\nN42 N05 N20 UR5\n"
+    },
+    {
+        "designation": "CUSAS 31, 090",
+        "accountType": [
+            "cereals"
+        ],
+        "transcriptionCasesNoNumbers": "SZE\nGUG2\nGANx4N57.GAR\nGANxLAGAB\n\nDUB GA2 SZUBUR UR\n",
+        "transcriptionCasesNumbers": "SZE\nN39 GUG2\nN01 N14 GANx4N57.GAR\nN14 N01 GANxLAGAB\nN14 N01 N39\nDUB GA2 SZUBUR UR\n"
+    },
+    {
+        "designation": "CUSAS 31, 091",
+        "accountType": [
+            "cereals"
+        ],
+        "transcriptionCasesNoNumbers": "BA KI\nKISAL KU6 SZAM2\n",
+        "transcriptionCasesNumbers": "N24 N36 N39 N04 N19 BA KI\nKISAL KU6 SZAM2\n"
+    },
+    {
+        "designation": "CUSAS 31, 092",
+        "accountType": [
+            "cereals"
+        ],
+        "transcriptionCasesNoNumbers": "\n\nSZA\nME U4\nGAR\nDAM E2 SAL\nDUB E2\n\n\n\n\nMAR@g\nDAM E2 SAL\nDUB E2\n\nMU SAG SUG5\nSZE U4.\n\nHI@g\nDAM E2 SAL\nGAL GAR GUG2\n\n\nGUG2 HI@g\nSAGSZU\nGUG2\nDAM E2 GUG2 SAL\nAN GUG2 NUNUZ\nGUG2 HI@g\nGAL GAR GUG2\nMAR@g\nGUG2\n\nMU SAG SUG5\n\nHI@g\nHI@g SZE U4.\nHI@g\nSZE\n,\n\n\n\nHI@g SZE U4.\nHI@g\nSZE\n\n\n\n",
+        "transcriptionCasesNumbers": "\nN24 N39\nN26 SZA\nME U4\nN39 GAR\nN24 DAM E2 SAL\nN24 DUB E2\nN24 N39\n\n\n\nN39 MAR@g\nN24 DAM E2 SAL\nN24 DUB E2\nN01\nN29 MU SAG SUG5\nSZE U4.N08\nN29 N39\nN24 N29 HI@g\nN24 DAM E2 SAL\nN39 GAL GAR GUG2\n\n\nN28 GUG2 HI@g\nN30 SAGSZU\nN28 N42 GUG2\nN24 DAM E2 GUG2 SAL\nN30 AN GUG2 NUNUZ\nGUG2 HI@g\nN39 GAL GAR GUG2\nN39 MAR@g\nN39 GUG2\nN24\nN39 MU SAG SUG5\nN39\nN14 N29 N01 N39 HI@g\nN24 N28 N29 N01 N39 HI@g SZE U4.N08\nN28 N29 N01 HI@g\nN01 N24 N29 N39 SZE\nN29, N01\nN01 N28\nN29 N39\nN01 N24 N39\nN28 N01 N39 HI@g SZE U4.N08\nN01 N39 HI@g\nN28 N01 N39 SZE\nN28 N29 N30 N01\nN24 N29 N30 N39\nN01\n"
+    },
+    {
+        "designation": "CUSAS 31, 093",
+        "accountType": [
+            "cereals"
+        ],
+        "transcriptionCasesNoNumbers": "BARA3\nABGAL I SZE\nSZE\nGU7 NIN\nAN KI U4x2N57\nAMA MUD SAL\nZATU628\nZATU850\nGU7\nBAR GU7\nSZE\n\n",
+        "transcriptionCasesNumbers": "N46 BARA3\nN45 ABGAL I SZE\nN45 N57 SZE\nGU7 NIN\nN14 AN KI U4x2N57\nN14 AMA MUD SAL\nN46 N19 ZATU628\nN14 ZATU850\nGU7\nN34 N14 BAR GU7\nN14 N34 SZE\nN46\nN46 N19"
+    },
+    {
+        "designation": "CUSAS 31, 094",
+        "accountType": [
+            "cereals"
+        ],
+        "transcriptionCasesNoNumbers": "\n\nGAR\nZATU726\nGUG2\nDU8\n\n6N57.GAR\n\nGAR\n\n\n\nGUG2 SZA@g\n\nDU8\n\nSZA\n\nMU ZATU714\nDA ZATU714\nZATU714\nAB AN GU7\n\nHI@g\nSZE\nGUG2\nGU7 U4.\nSAG SUG5\n",
+        "transcriptionCasesNumbers": "N26 N01\nN25\nN01 GAR\nN01 ZATU726\nN01 GUG2\nN01 DU8\nN42\nN14 N57.GAR\nN42\nN01 GAR\nN30\n\n\nN01 GUG2 SZA@g\nN30\nN01 DU8\nN30\nN01 SZA\nN30\nN25 N42 MU ZATU714\nN29 DA ZATU714\nN29 ZATU714\nAB AN GU7\nN05 N42\nN42 HI@g\nN25 N42 SZE\nN25 GUG2\nGU7 U4.N08\nSAG SUG5\n"
+    },
+    {
+        "designation": "CUSAS 31, 095",
+        "accountType": [
+            "cereals"
+        ],
+        "transcriptionCasesNoNumbers": "\n\nDU8\n\nDU8@g\n\nZATU726\n\nGAR U4\n\nGAR KU6 TUR\n\nSZA@g\nGUG2 SAG\nDU8@g\nGAR\n\nSZE\n\n5N57.GAR\nSZE\n\n\nDUG\n\n\nKASZ U4\nHI@g\n\nKASZ LAGAB SZE\n\n\n\n\nDU8\n\nZATU726\n\nGAR U4\n\nSZE.GAR\n\nSZA@g\nGUG2 SAG\nGAR KU6\nSZA@g\n\n\nHI@g SZE\nHI@g\nSZE\n\nGU7 U4x2N01",
+        "transcriptionCasesNumbers": "N01\nN25 N29\nN01 DU8\nN27\nN01 DU8@g\nN27\nN01 ZATU726\nN27\nN01 GAR U4\nN29\nN01 GAR KU6 TUR\nN30\nN29 SZA@g\nN01 GUG2 SAG\nN14 DU8@g\nN14 N01 GAR\nN30\nN24 N39 SZE\nN42\nN14 N57.GAR\nN39 SZE\nN01\nN42\nN01 DUG\nN39\n\nN14 KASZ U4\nHI@g\n\nN01 KASZ LAGAB SZE\n\n\nN04 N01\n\nN01 DU8\nN30\nN01 ZATU726\nN30\nN01 GAR U4\nN30\nN14 SZE.GAR\nN39\nN29 SZA@g\nN01 GUG2 SAG\nN01 GAR KU6\nN29 SZA@g\nN39\nN24\nN20 N29 N05 N42 HI@g SZE\nN05 N42 HI@g\nN01 N14 N29 SZE\nN03\nGU7 U4x2N01"
+    },
+    {
+        "designation": "CUSAS 31, 096",
+        "accountType": [
+            "cereals"
+        ],
+        "transcriptionCasesNoNumbers": "DA SZE\nKISAL KU6 SZE UR5\nAN NUNUZ ZATU788\nUB ZI\nGIR@g HI NIM UNUG",
+        "transcriptionCasesNumbers": "N45 N14 DA SZE\nN14 KISAL KU6 SZE UR5\nN14 AN NUNUZ ZATU788\nN14 UB ZI\nN14 GIR@g HI NIM UNUG"
+    },
+    {
+        "designation": "CUSAS 31, 097",
+        "accountType": [
+            "cereals"
+        ],
+        "transcriptionCasesNoNumbers": "\nEN+NUN\nDU6\nGAR U4\nDU8\n\nGU7\nDU8 GAR\n\nGAR U4\n\nGU7\nGAR",
+        "transcriptionCasesNumbers": "N01\nN01 EN+NUN\nN14 DU6\nN14 GAR U4\nN01 DU8\n\nGU7\nN51 DU8 GAR\n\nN14 N01 GAR U4\nN14 N01\nN14 N01 GU7\nN34 N01 N14 GAR"
+    },
+    {
+        "designation": "CUSAS 31, 098",
+        "accountType": [
+            "cereals"
+        ],
+        "transcriptionCasesNoNumbers": "NIN SAG\nGAR U4\n\n\nAN E2 GAR U4\nDU8\n\nBA DU8\n",
+        "transcriptionCasesNumbers": "N01 NIN SAG\nN01 GAR U4\n\nN01\nN01 AN E2 GAR U4\nN01 DU8\n\nBA DU8\n"
+    },
+    {
+        "designation": "CUSAS 31, 099",
+        "accountType": [
+            "cereals"
+        ],
+        "transcriptionCasesNoNumbers": "KU6 RAD U4x2N01 UR2\nU4.\nU4+ U4x2N01\nBAR EZEN U4+ U4x4N01\nEN NAGA\nBAR EZEN U4x1N01+\nNIN\n\nGU7\n\nIM KUR\nKUR\nUDU ZATU752\nKALAM SAL\nMUD SAL UR5\nLA2 SUG5\nBU E2\nBUR EZEN SAL\nDA E2\nSI+AN\nNIN\nA KUR SAL\nAB\nNIN\n\n\nKUR NUNUZ\nSZE SZU UR5\n\nBU EN SZE\nDU UR\nAPIN GAN2 SZU\nBAR EZEN U4x1N01. U4x4N01\nGU7\n\nSZUBUR\nUH3 URU\nAB\n\nDA PA\nNUMUN\nBAR EZEN U4+ URU\n\n\nNE SZE UR5\nE2 TUR\nGU7 SAL ZATU752\n\nSZE\nSZE\n\nLAGAB TE\nGAL GU7 SANGA SANGA U4x4N01\nUB ZI\nKISAL KU6 SZAM2",
+        "transcriptionCasesNumbers": "N01 N39 KU6 RAD U4x2N01 UR2\nN26 N39 U4.N08\nN29 N01 N39 U4+N24 U4x2N01\nN29 N39 BAR EZEN U4+N24 U4x4N01\nN14 N01 EN NAGA\nN14 BAR EZEN U4x1N01+N24\nN01 N30 N39 NIN\nN29\nN01 N39 GU7\nN01 N39\nN01 N39 IM KUR\nN24 N39 KUR\nN39 UDU ZATU752\nN24 KALAM SAL\nN24 MUD SAL UR5\nN39 LA2 SUG5\nN24 N30 BU E2\nN39 BUR EZEN SAL\nN39 DA E2\nN29 SI+AN\nN29 N57 NIN\nN29 A KUR SAL\nAB\nN39 NIN\nN39\nN30\nN26 KUR NUNUZ\nN24 N01 N39 SZE SZU UR5\nN24 N28 N29 N39\nN01 N39 BU EN SZE\nN24 DU UR\nN39 APIN GAN2 SZU\nN29 N41 BAR EZEN U4x1N01.N24 U4x4N01\nN24 N41 N04 GU7\n\nN04 SZUBUR\nN04 UH3 URU\nN04 AB\nN04\nN41 DA PA\nN04 N19 NUMUN\nN19 BAR EZEN U4+N24 URU\nN19 N04 N41\nN04\nN04 NE SZE UR5\nN41 E2 TUR\nN04 N41 GU7 SAL ZATU752\nN19 N04\nN01 N24 N28 N29 N30 N45 N39 SZE\nN29 N30 N01 N39 N14 SZE\nN26 N28 N30 N46 N41\nN19 N04 LAGAB TE\nGAL GU7 SANGA SANGA U4x4N01\nUB ZI\nKISAL KU6 SZAM2"
+    },
+    {
+        "designation": "CUSAS 31, 100",
+        "accountType": [
+            "cereals"
+        ],
+        "transcriptionCasesNoNumbers": "GI TUN3\n\nBA\n",
+        "transcriptionCasesNumbers": "N04 GI TUN3\n\nN19 N46 BA\n"
+    },
+    {
+        "designation": "CUSAS 31, 101",
+        "accountType": [
+            "cereals"
+        ],
+        "transcriptionCasesNoNumbers": "GI SZE\n\n\nNE SZE URUx3N57\nE2 GAN2 SANGA\nISZ SZE\nPAP\nE KI SANGA\nPAP SU\nSZEG9\nDU NIM NIN SZU\nA SAL SAL\nE GA\nKU3 SAL TUR3\nIM\n\nDU DUG NAGAR SAL SZU\nE SZAB\n\nAB E2 ERIN TUR3\nGADA SUKKAL\nGA NUNUZ SAL SZU ZATU676\nMUD NA PAP SAL\nRU ZATU752\nSANGA SZEG9\nGI MUSZEN NA\nE UMUN2\nE SZITA\nSZU\nSZEG9",
+        "transcriptionCasesNumbers": "N04 N14 GI SZE\nN14\nN14 N04\nN01 N14 NE SZE URUx3N57\nE2 GAN2 SANGA\nN14 N01 ISZ SZE\nN14 PAP\nN01 N14 E KI SANGA\nN57 N14 PAP SU\nN19 N04 SZEG9\nN14 N01 DU NIM NIN SZU\nN14 N01 A SAL SAL\nN14 E GA\nN01 N14 KU3 SAL TUR3\nN14 N01 IM\nN19\nN14 DU DUG NAGAR SAL SZU\nN01 E SZAB\nN19\nN14 N01 AB E2 ERIN TUR3\nN14 GADA SUKKAL\nN14 GA NUNUZ SAL SZU ZATU676\nN14 MUD NA PAP SAL\nN01 RU ZATU752\nN01 SANGA SZEG9\nN01 GI MUSZEN NA\nN01 E UMUN2\nN19 E SZITA\nN57 SZU\nSZEG9"
+    },
+    {
+        "designation": "CUSAS 31, 102",
+        "accountType": [
+            "cereals"
+        ],
+        "transcriptionCasesNoNumbers": "NAM2 SZE\nHI@g SZE\nHI@g SZE\nSZE\nSZE\nBA NI SZE\nHI@g\nHI@g\nHI@g\nGUKKAL KISAL SI SZE\n\n",
+        "transcriptionCasesNumbers": "N01 NAM2 SZE\nN01 N24 HI@g SZE\nN05 N42 HI@g SZE\nN39 SZE\nN05 N42 SZE\nN42 BA NI SZE\nN24 N39 HI@g\nN42 HI@g\nN42 HI@g\nN01 GUKKAL KISAL SI SZE\n\n"
+    },
+    {
+        "designation": "CUSAS 31, 103",
+        "accountType": [
+            "cereals"
+        ],
+        "transcriptionCasesNoNumbers": "6LAGAB LAGAB SZE TUM\n4LAGAB A SZA SZE TAK4 UNUG\n2LAGAB AMA SAL\n3LAGAB\n2LAGAB GU PAP\n",
+        "transcriptionCasesNumbers": "6LAGAB LAGAB SZE TUM\n4LAGAB A SZA SZE TAK4 UNUG\n2LAGAB AMA SAL\n3LAGAB\n2LAGAB GU PAP\n"
+    },
+    {
+        "designation": "CUSAS 31, 104",
+        "accountType": [
+            "cereals"
+        ],
+        "transcriptionCasesNoNumbers": "SZE\n\nGIBIL U4\nPIRIG\nAPIN NAGA\nNAGAR SANGA ZI",
+        "transcriptionCasesNumbers": "N45 N14 SZE\nN36 N04 N19\nGIBIL U4\nPIRIG\nAPIN NAGA\nNAGAR SANGA ZI"
+    },
+    {
+        "designation": "CUSAS 31, 105",
+        "accountType": [
+            "cereals"
+        ],
+        "transcriptionCasesNoNumbers": "\nRU SZE",
+        "transcriptionCasesNumbers": "\nN41 N39 N14 RU SZE"
+    },
+    {
+        "designation": "CUSAS 31, 106",
+        "accountType": [
+            "cereals"
+        ],
+        "transcriptionCasesNoNumbers": "SZE SZU\nE KISAL\nSZE\nLAGAB TE",
+        "transcriptionCasesNumbers": "N04 N45 N57 N19 SZE SZU\nE KISAL\nN45 N14 SZE\nN04 N19 LAGAB TE"
+    },
+    {
+        "designation": "CUSAS 31, 107",
+        "accountType": [
+            "cereals"
+        ],
+        "transcriptionCasesNoNumbers": "BU SANGA SZE TUR\nPAP SAL\nSZU\nE KI SANGA\nPAP SAL SZE.NAM2\nKA\nE KI SANGA\nSZEG9\nSZE\nBA BAR SZAM2\nDA PAP SAL\nE\nE KISAL PA",
+        "transcriptionCasesNumbers": "N14 N01 BU SANGA SZE TUR\nN14 N01 PAP SAL\nN57 SZU\nN14 N01 E KI SANGA\nN14 N01 PAP SAL SZE.NAM2\nKA\nE KI SANGA\nSZEG9\nN01 N14 SZE\nN57 BA BAR SZAM2\nDA PAP SAL\nE\nE KISAL PA"
+    },
+    {
+        "designation": "CUSAS 31, 108",
+        "accountType": [
+            "cereals"
+        ],
+        "transcriptionCasesNoNumbers": ",\nNE SZE\nHI@g NE\nGUG2\n\n\nZATU669\nDU EN PAP PA SIx1N58\n\nNE SZE\nHI@g NE\nGUG2\nSZE\nGUG2\nZATU669\n",
+        "transcriptionCasesNumbers": ", N20\nN25 N42 NE SZE\nN25 N42 HI@g NE\nN25 N42 GUG2\nN25\nN42\nN25 ZATU669\nDU EN PAP PA SIx1N58\nN20\nN25 N42 NE SZE\nN25 N42 HI@g NE\nN25 N42 GUG2\nN24 SZE\nN39 GUG2\nN24 ZATU669\nN57"
+    },
+    {
+        "designation": "CUSAS 31, 109",
+        "accountType": [
+            "cereals"
+        ],
+        "transcriptionCasesNoNumbers": "NA SZE SZUBUR U2\nEN SZE ZATU703\nAB SAL SZE\nEN NA2 SZE TI\nSZE\nAN ESZDA IM SZE\nMEN NUNUZ SZE\nISZ\nGAN2 GI SZE\nEN E GAN2 GI PAP PAP@t SZE\nDU EN PAP",
+        "transcriptionCasesNumbers": "N14 N01 NA SZE SZUBUR U2\nN14 EN SZE ZATU703\nN57 N01 AB SAL SZE\nN01 EN NA2 SZE TI\nN01 N57 SZE\nN01 AN ESZDA IM SZE\nN14 MEN NUNUZ SZE\nN01 ISZ\nGAN2 GI SZE\nN01 N14 EN E GAN2 GI PAP PAP@t SZE\nDU EN PAP"
+    },
+    {
+        "designation": "CUSAS 31, 110",
+        "accountType": [
+            "cereals"
+        ],
+        "transcriptionCasesNoNumbers": "GIR3 SZAM2 SZE\nNIM SZE\nDAR PAP U2 UKKIN\nBA NI TU\nE KISAL\nSZE",
+        "transcriptionCasesNumbers": "N14 GIR3 SZAM2 SZE\nN14 NIM SZE\nN14 N01 DAR PAP U2 UKKIN\nN01 BA NI TU\nE KISAL\nN14 N01 SZE"
+    },
+    {
+        "designation": "CUSAS 31, 111",
+        "accountType": [
+            "cereals"
+        ],
+        "transcriptionCasesNoNumbers": "EN SZE SZU\nEN PAP PAP@t SZE\nSZE\nGAN2 SI\nE SAL SZE\nDU EN PAP\nNUN+NAM2 SI4",
+        "transcriptionCasesNumbers": "N14 N45 N57 N01 EN SZE SZU\nN45 N14 EN PAP PAP@t SZE\nN01 N14 N57 SZE\nGAN2 SI\nN34 N01 N14 E SAL SZE\nDU EN PAP\nNUN+NAM2 SI4"
+    },
+    {
+        "designation": "CUSAS 31, 112",
+        "accountType": [
+            "cereals"
+        ],
+        "transcriptionCasesNoNumbers": "SZE\nGUG2\nDU EN KISAL PAP\nSIxKU",
+        "transcriptionCasesNumbers": "N20 SZE\nN42 GUG2\nDU EN KISAL PAP\nSIxKU"
+    },
+    {
+        "designation": "CUSAS 31, 113",
+        "accountType": [
+            "cereals"
+        ],
+        "transcriptionCasesNoNumbers": "NINDA2xNUN SZE\nRU SZE3\nDU NUN UDUNITA\nNINDA2xNUN SZE\nDU NUN UDUNITA\n",
+        "transcriptionCasesNumbers": "N39 NINDA2xNUN SZE\nRU SZE3\nDU NUN UDUNITA\nN01 NINDA2xNUN SZE\nDU NUN UDUNITA\n"
+    },
+    {
+        "designation": "CUSAS 31, 114",
+        "accountType": [
+            "cereals"
+        ],
+        "transcriptionCasesNoNumbers": "SZE\n\nLAGAB TE\nBA SZAM2",
+        "transcriptionCasesNumbers": "N24 N34 N39 N45 N14 SZE\nN04\nN04 N19 LAGAB TE\nBA SZAM2"
+    },
+    {
+        "designation": "CUSAS 31, 115",
+        "accountType": [
+            "cereals"
+        ],
+        "transcriptionCasesNoNumbers": "SZE U4 ZATU710\nZATU710\nGU7 SZE.GAR\n",
+        "transcriptionCasesNumbers": "N01 SZE U4 ZATU710\nN01 ZATU710\nN34 N51 GU7 SZE.GAR\n"
+    },
+    {
+        "designation": "CUSAS 31, 116",
+        "accountType": [
+            "cereals"
+        ],
+        "transcriptionCasesNoNumbers": "DUG KASZ\nUKKIN\nBU GU7 NAM2 PAP",
+        "transcriptionCasesNumbers": "N01 DUG KASZ\nN01 UKKIN\nBU GU7 NAM2 PAP"
+    },
+    {
+        "designation": "CUSAS 31, 117",
+        "accountType": [
+            "cereals"
+        ],
+        "transcriptionCasesNoNumbers": "HI KASZ\nKI\nGI\nKASZ SAL\nKI\n\nGI\n\nGI\n\nBA\nGI\n\nBA\nGI\nKASZ LAGAB\nKASZ\nGU7\nKI\nKASZ\nBA\nGI",
+        "transcriptionCasesNumbers": "N01 HI KASZ\nN01 KI\nN01 GI\nN01 KASZ SAL\nN01 KI\nN01\nN01 GI\nN01\nN01 GI\nN01\nN01 BA\nN01 GI\nN01\nN01 BA\nN01 GI\nN34 KASZ LAGAB\nN01 N14 KASZ\nN14 N01 GU7\nN01 KI\nN14 N01 KASZ\nN01 BA\nN14 N01 GI"
+    },
+    {
+        "designation": "CUSAS 31, 118",
+        "accountType": [
+            "cereals"
+        ],
+        "transcriptionCasesNoNumbers": "E2\nDUG SZITA\nDUGx1N57\nAB\nDUG SZITA\nERIN MUSZ3\n\n\nZATU725\nDUG SZITA\nKASZ U4\nEZEN KISAL\nE2x1N57@t\nDUG SUHUR\nDUGx1N57\nSI\n\nAB\n\nE2 GAL SZITA\nGAN2 SI\nSIG SZITA\nAMA UKKIN ZABALAM\nGU7\nDUG SZITA\nGU7\nBA\nKASZ U4\nGU7\nBA\nKASZ LAGAB SZE\nGU7\nBA",
+        "transcriptionCasesNumbers": "N01 E2\nN01 DUG SZITA\nN01 DUGx1N57\nAB\nN01 DUG SZITA\nN01 ERIN MUSZ3\n\nN01\nN01 ZATU725\nN01 DUG SZITA\nKASZ U4\nN01 EZEN KISAL\nN01 E2x1N57@t\nN01 DUG SUHUR\nN01 DUGx1N57\nN01 SI\nN01\nN01 AB\n\nN01 E2 GAL SZITA\nN01 GAN2 SI\nN01 SIG SZITA\nN01 AMA UKKIN ZABALAM\nGU7\nN14 DUG SZITA\nN01 GU7\nN01 BA\nN14 KASZ U4\nN01 GU7\nN01 BA\nN14 KASZ LAGAB SZE\nN14 N01 GU7\nN14 N01 BA"
+    },
+    {
+        "designation": "CUSAS 31, 119",
+        "accountType": [
+            "cereals"
+        ],
+        "transcriptionCasesNoNumbers": "\nGAR\nAB\nDUG KUR\n\n\n\n\nGAR SZE\n\nDU8\n\n\n",
+        "transcriptionCasesNumbers": "N14\nN24 GAR\nAB\nN01 N14 DUG KUR\nN02\nN24\nN24 N39\nN39\nN24 N39 GAR SZE\nN39\nN39 DU8\nN39\nN01\n"
+    },
+    {
+        "designation": "CUSAS 31, 120",
+        "accountType": [
+            "cereals"
+        ],
+        "transcriptionCasesNoNumbers": "AMA SAG SAL\nKISAL KU6 SAL\nKU3 SAL TUR3\nDU EN GA2 ME\nKUR UNUG\n\nABGAL\nE2 GAL\nGAL SZAGAN\nDUG\nGAL SZAGAN\nSZEN@t U4\nGAL SZAGAN\nNIM\nAPIN EN\nDUG SZE",
+        "transcriptionCasesNumbers": "N01 AMA SAG SAL\nN01 KISAL KU6 SAL\nN01 KU3 SAL TUR3\nDU EN GA2 ME\nN01 KUR UNUG\nN28\nN01 ABGAL\nN01 E2 GAL\nN01 GAL SZAGAN\nDUG\nN01 GAL SZAGAN\nSZEN@t U4\nN01 GAL SZAGAN\nN01 NIM\nN01 APIN EN\nDUG SZE"
+    },
+    {
+        "designation": "CUSAS 31, 121",
+        "accountType": [
+            "cereals"
+        ],
+        "transcriptionCasesNoNumbers": "HI KASZ\nHI\nZATU832\nKASZ\n\n\n\n\n\n\n\n\nGUG2\nGAR\nZATU773\nNINDA2xKASZ UB\nARARMA2\nKASZ\n\n\n\n\nME ZATU686\n\n\n\n",
+        "transcriptionCasesNumbers": "N42 HI KASZ\nN24 N39 HI\nZATU832\nN29 KASZ\n\nN24\n\nN39\nN29\nN39\n\n\nN39 GUG2\nN39 GAR\nN42 ZATU773\nN01 NINDA2xKASZ UB\nN39 ARARMA2\nN42 KASZ\nN26\n\n\nN24 N39\nN24 N39 ME ZATU686\nN24 N39\nN39\nN39\n"
+    },
+    {
+        "designation": "CUSAS 31, 122",
+        "accountType": [
+            "cereals"
+        ],
+        "transcriptionCasesNoNumbers": "\n\nME PAP SZU\n\n\nDUG EN",
+        "transcriptionCasesNumbers": "\nN01 N39\nME PAP SZU\n\nN14\nN01 DUG EN"
+    },
+    {
+        "designation": "CUSAS 31, 123",
+        "accountType": [
+            "cereals"
+        ],
+        "transcriptionCasesNoNumbers": "SZE\nDU NUN PAP",
+        "transcriptionCasesNumbers": "N14 N01 SZE\nN01 DU NUN PAP"
+    },
+    {
+        "designation": "CUSAS 31, 124",
+        "accountType": [
+            "cereals"
+        ],
+        "transcriptionCasesNoNumbers": "SZE\nSZE\n\n",
+        "transcriptionCasesNumbers": "SZE\nN14 SZE\nN01\n"
+    },
+    {
+        "designation": "CUSAS 31, 125",
+        "accountType": [
+            "cereals"
+        ],
+        "transcriptionCasesNoNumbers": "\n\n\n",
+        "transcriptionCasesNumbers": "N24 N01\nN42\nN14\n"
+    },
+    {
+        "designation": "CUSAS 31, 126",
+        "accountType": [
+            "cereals"
+        ],
+        "transcriptionCasesNoNumbers": "SZE\n",
+        "transcriptionCasesNumbers": "N01 N34 N14 SZE\n"
+    },
+    {
+        "designation": "CUSAS 31, 127",
+        "accountType": [
+            "cereals"
+        ],
+        "transcriptionCasesNoNumbers": "BAR SZE\nNAM2\n\n'\n\n\n\nBAR KID TUN3",
+        "transcriptionCasesNumbers": "BAR SZE\nNAM2\nN19\nN30'\nN04 N19\nN19\nN04\nBAR KID TUN3"
+    },
+    {
+        "designation": "CUSAS 31, 128",
+        "accountType": [
+            "cereals"
+        ],
+        "transcriptionCasesNoNumbers": "\n\nE2x1N57@t E\nGAL PA SAL SUG5\nE KISAL PA\nGAL SUG5\nE KISAL PA\nSZE\nE2 E2x1N57@t\nGIBIL SZEG9 U4",
+        "transcriptionCasesNumbers": "\nN46 N14\nE2x1N57@t E\nGAL PA SAL SUG5\nE KISAL PA\nGAL SUG5\nE KISAL PA\nN46 N01 N14 SZE\nE2 E2x1N57@t\nGIBIL SZEG9 U4"
+    },
+    {
+        "designation": "CUSAS 31, 129",
+        "accountType": [
+            "cereals"
+        ],
+        "transcriptionCasesNoNumbers": "IM SZE\nPAP SU\nAB E2 ERIN TUR3\nGADA SUKKAL\nGA NUNUZ SAL ZATU676\nGI MUSZEN NA SAL\nGI MUSZEN NA\nE UMUN2\nSZE\nE SZITA\nSZU\nGIR3 PAP SANGA\nSZE\nSZAM2 SZU\n",
+        "transcriptionCasesNumbers": "N14 N01 IM SZE\nN57 N14 PAP SU\nN14 N01 AB E2 ERIN TUR3\nN14 GADA SUKKAL\nN14 GA NUNUZ SAL ZATU676\nN14 GI MUSZEN NA SAL\nN01 GI MUSZEN NA\nN01 E UMUN2\nSZE\nN19 E SZITA\nN57 SZU\nGIR3 PAP SANGA\nN45 SZE\nN57 SZAM2 SZU\n"
+    },
+    {
+        "designation": "CUSAS 31, 130",
+        "accountType": [
+            "cereals"
+        ],
+        "transcriptionCasesNoNumbers": "SZE SZE.NAM2\n\nAB\n\n\nSZE\nLAGAB TE\nE KISAL SI4 SZE",
+        "transcriptionCasesNumbers": "N01 N14 SZE SZE.NAM2\nN19 N04\nN19 N04 AB\n\n\nN01 N14 SZE\nN04 N19 LAGAB TE\nN19 N01 N14 E KISAL SI4 SZE"
+    },
+    {
+        "designation": "CUSAS 31, 131",
+        "accountType": [
+            "cereals"
+        ],
+        "transcriptionCasesNoNumbers": "LAGAB TE\nLAGAB TE\n\nE\nLAGAB SILA4 TE UDU\nSZE SZU TUR\nE2x1N57@t E\nE LAGAB TE\nE2x1N57@t E LAGAB SZE TE\nE GIBIL SZE",
+        "transcriptionCasesNumbers": "N14 LAGAB TE\nN19 N57 LAGAB TE\nN04 N19 N57\nN19 E\nN19 LAGAB SILA4 TE UDU\nN14 SZE SZU TUR\nE2x1N57@t E\nN04 N19 E LAGAB TE\nN19 N14 E2x1N57@t E LAGAB SZE TE\nN01 N36 N14 E GIBIL SZE"
+    },
+    {
+        "designation": "CUSAS 31, 132",
+        "accountType": [
+            "cereals"
+        ],
+        "transcriptionCasesNoNumbers": "E GAN2 KISAL MASZ SIxKU SZE\nGAL IB SANGA\nLA2 TE",
+        "transcriptionCasesNumbers": "N14 E GAN2 KISAL MASZ SIxKU SZE\nGAL IB SANGA\nLA2 TE"
+    },
+    {
+        "designation": "CUSAS 31, 133",
+        "accountType": [
+            "cereals"
+        ],
+        "transcriptionCasesNoNumbers": "SZE\n\nE SZAB\nGIR3\nSZEG9\nHAL NE SZAB",
+        "transcriptionCasesNumbers": "N14 N45 N01 SZE\nN46 N19\nE SZAB\nGIR3\nSZEG9\nHAL NE SZAB"
+    },
+    {
+        "designation": "CUSAS 31, 134",
+        "accountType": [
+            "cereals"
+        ],
+        "transcriptionCasesNoNumbers": "SZE\n\nE ZATU752\nSZE",
+        "transcriptionCasesNumbers": "N01 N14 SZE\nN04 N19\nE ZATU752\nN19 N14 SZE"
+    },
+    {
+        "designation": "CUSAS 31, 135",
+        "accountType": [
+            "cereals"
+        ],
+        "transcriptionCasesNoNumbers": "\nSZEG9\nKI NIN\n\nGIR3\n3N57.EN2\nSIxKU\nSZE\n\nBA SZE\nE GAL KISAL PA",
+        "transcriptionCasesNumbers": "\nN14 SZEG9\nN19 KI NIN\n\nGIR3\nN57.EN2\nN01 SIxKU\nN01 N14 SZE\nN04 N19\nN45 N19 BA SZE\nE GAL KISAL PA"
+    },
+    {
+        "designation": "CUSAS 31, 136",
+        "accountType": [
+            "cereals"
+        ],
+        "transcriptionCasesNoNumbers": "\n\nNUNUZ\nNUN+NAM2\n\n3N57.EN2\nNUN+NAM2\nSZE\n\n\n\nSZE\n\nE GIR3 SZE",
+        "transcriptionCasesNumbers": "\nN14\nN14 NUNUZ\nNUN+NAM2\n\nN01 N57.EN2 N14\nNUN+NAM2\nN14 SZE\nN04\nN04\n\nN14 SZE\nN04 N46 N19\nN01 N45 N46 N14 E GIR3 SZE"
+    },
+    {
+        "designation": "CUSAS 31, 137",
+        "accountType": [
+            "cereals"
+        ],
+        "transcriptionCasesNoNumbers": "PA SZEG9 SZE\n\nGISZ PA SZEG9\nE GA\nE GA\nDU EN GI4 KISAL PAP ZATU686\n\nDU EN GI4 KISAL LAGAB PAP SZE ZATU686",
+        "transcriptionCasesNumbers": "N14 PA SZEG9 SZE\nN46\nGISZ PA SZEG9\nN01 N14 E GA\nE GA\nDU EN GI4 KISAL PAP ZATU686\n\nN45 N14 DU EN GI4 KISAL LAGAB PAP SZE ZATU686"
+    },
+    {
+        "designation": "CUSAS 31, 138",
+        "accountType": [
+            "cereals"
+        ],
+        "transcriptionCasesNoNumbers": "APIN EN KISAL LAGAB SZUBUR TE\nERIN\n\n\nE2 GI MUSZEN NA\nGU7\nSZE\nSZE\n\nLAGAB TE\nE SZAB",
+        "transcriptionCasesNumbers": "N45 N19 N04 APIN EN KISAL LAGAB SZUBUR TE\nN04 ERIN\nN04\nN04\nN04 E2 GI MUSZEN NA\nGU7\nN45 N04 N19 SZE\nN01 N14 SZE\nN04 N19\nN04 N19 LAGAB TE\nE SZAB"
+    },
+    {
+        "designation": "CUSAS 31, 139",
+        "accountType": [
+            "cereals"
+        ],
+        "transcriptionCasesNoNumbers": "\n\n\nDU EN PAP",
+        "transcriptionCasesNumbers": "N01 N39\nN03\n\nN01 N24 N39 DU EN PAP"
+    },
+    {
+        "designation": "CUSAS 31, 140",
+        "accountType": [
+            "cereals"
+        ],
+        "transcriptionCasesNoNumbers": "DUB NAGA\nGISZIMMAR MU SZU ZI\nAPIN DU EN KISAL PAP",
+        "transcriptionCasesNumbers": "N14 DUB NAGA\nGISZIMMAR MU SZU ZI\nAPIN DU EN KISAL PAP"
+    },
+    {
+        "designation": "CUSAS 31, 141",
+        "accountType": [
+            "cereals"
+        ],
+        "transcriptionCasesNoNumbers": "BU SZE\n\n\n\nLA TE\nDU EN GIBIL KISAL PAP U4\nSZE\n\nDU EN GIBIL KISAL PAP SIxKU SZE U4",
+        "transcriptionCasesNumbers": "N34 BU SZE\nN19\n\nN04 N19\nLA TE\nDU EN GIBIL KISAL PAP U4\nN20 SZE\nN04 N46 N19\nN01 N45 N46 N20 DU EN GIBIL KISAL PAP SIxKU SZE U4"
+    },
+    {
+        "designation": "CUSAS 31, 142",
+        "accountType": [
+            "cereals"
+        ],
+        "transcriptionCasesNoNumbers": "LAGAB MUSZ3 SZE\n3N57.EN2  SI4\nGAN2\nEN PAP@t PAP SZE\nNUN+NAM2\nLA2 SZE TE\nNUN+NAM2\nEN LA2 PAP@t PAP TE\nNUN+NAM2\nZATU659\nGAN2\nGI\nNUN+NAM2\nZATU659\nDU EN KISAL PAP SIxKU\n\n\n\n\nDU EN E GIBIL KISAL PAP SIxKU U4",
+        "transcriptionCasesNumbers": "N14 LAGAB MUSZ3 SZE\nN01 N57.EN2 N14 SI4\nN01 GAN2\nN14 EN PAP@t PAP SZE\nN14 NUN+NAM2\nN14 LA2 SZE TE\nN14 NUN+NAM2\nN19 EN LA2 PAP@t PAP TE\nN04 N19 NUN+NAM2\nN04 N19 ZATU659\nN01 GAN2\nN14 GI\nN01 N14 NUN+NAM2\nN01 N14 ZATU659\nDU EN KISAL PAP SIxKU\nN19 N14\nN14\n\n\nDU EN E GIBIL KISAL PAP SIxKU U4"
+    },
+    {
+        "designation": "CUSAS 31, 143",
+        "accountType": [
+            "cereals"
+        ],
+        "transcriptionCasesNoNumbers": "MUSZ3 SZE\n3N57.EN2 SI4\nEN PAP@t PAP SZE\n\nMUSZ3\nLA2 SZE TE\nEN KISAL PA SZE\n\nNUN+NAM2\nEN PAP@t PAP SZE\nMUSZ3\nEN KISAL PA\nEN IDIGNA KISAL PA SZE\nZATU659\n3N57.EN2  MUSZ3\nNUN+NAM2 SZE\nSZE ZATU659\nSZE\n\nSZE\n\n\n\nE SI4 SIxKU SZEG9 SZE",
+        "transcriptionCasesNumbers": "N01 N14 MUSZ3 SZE\nN57.EN2 SI4\nN14 EN PAP@t PAP SZE\nN19\nN19 MUSZ3\nN19 LA2 SZE TE\nN14 EN KISAL PA SZE\nN04\nNUN+NAM2\nN14 EN PAP@t PAP SZE\nN19 N04 MUSZ3\nN19 N04 EN KISAL PA\nN14 N01 EN IDIGNA KISAL PA SZE\nZATU659\nN01 N57.EN2 N14 MUSZ3\nN45 N14 N01 NUN+NAM2 SZE\nN14 N45 SZE ZATU659\nN14 SZE\nN04 N19\nN14 SZE\nN19\nN45 N14\nN46 N19 N04\nN57 N19 N45 N04 N14 E SI4 SIxKU SZEG9 SZE"
+    },
+    {
+        "designation": "CUSAS 31, 144",
+        "accountType": [
+            "cereals"
+        ],
+        "transcriptionCasesNoNumbers": "PAP SZE\nLAGAR SUHUR\n\nAPIN\n\n\nEN PAP@t PAP SZE\nDU KU6\nLA2 SUG5 ZATU756\nAPIN SAG\nBU NAM2 PAP\n\n\nGA\n\nUR\nIDIGNA\nSZE\nEN PAP@t PAP SZE\nSZE\n\n\nSZE\n\nE E KISAL SIxKU",
+        "transcriptionCasesNumbers": "N01 N14 PAP SZE\nN14 N01 LAGAR SUHUR\nN14 N30\nN01 N14 APIN\nN14\nN14\nEN PAP@t PAP SZE\nN01 N14 DU KU6\nN01 LA2 SUG5 ZATU756\nN14 APIN SAG\nN01 BU NAM2 PAP\nN01\nN01\nGA\n\nN04 N19 UR\nN04 IDIGNA\nSZE\nN14 N45 EN PAP@t PAP SZE\nN45 N01 N14 SZE\nN01 N14\nN04 N19\nN01 N45 SZE\nN04 N19\nN45 N04 N19 E E KISAL SIxKU"
+    },
+    {
+        "designation": "CUSAS 31, 145",
+        "accountType": [
+            "cereals"
+        ],
+        "transcriptionCasesNoNumbers": "\n\nE GA\nAPIN SAG\nDU EN\n\n\n\nSIxKU\n\nIDIGNA\nSZA\nAPIN SAG\n\nSZE\n\nSZE\nBA SZAM2\nE SZU\nEN PAP@t PAP\nE KISAL PA",
+        "transcriptionCasesNumbers": "N01 N14\n\nN14 E GA\nN01 N14 APIN SAG\nN14 DU EN\n\nN14\nN01 N14\nN01 SIxKU\nN01\nN04 IDIGNA\nN04 SZA\nAPIN SAG\n\nN14 N34 N45 N01 SZE\nN04 N46 N19\nN34 N01 N14 SZE\nBA SZAM2\nN57 E SZU\nEN PAP@t PAP\nE KISAL PA"
+    },
+    {
+        "designation": "CUSAS 31, 146",
+        "accountType": [
+            "cereals"
+        ],
+        "transcriptionCasesNoNumbers": "\n\n\n\n\nA\n\n\nA NAR\n\n\n\n\nEN PAP@t PAP\n\nSUG5\n\n\n\n\nSZURUPPAK\n\n\nSZEG9\n\n\n\n\nMUSZ3\nEN PAP@t PAP\nMUSZ3\nGIBIL U4\nEN PAP@t PAP SIxKU SZE",
+        "transcriptionCasesNumbers": "N01\nN01\nN01\nN01\nN01\nN01 A\nN01\n\nN01 A NAR\nN01\nN01\nN01\nN01\nN01 EN PAP@t PAP\nN01\nN01 SUG5\nN01\nN01\nN01\nN01\nN01 SZURUPPAK\nN01\nN01\nSZEG9\nN01\nN01\nN01\nN01\nMUSZ3\nN14 N01 EN PAP@t PAP\nN14 N01 MUSZ3\nN14 N01 GIBIL U4\nN01 N14 EN PAP@t PAP SIxKU SZE"
+    },
+    {
+        "designation": "CUSAS 31, 147",
+        "accountType": [
+            "cereals"
+        ],
+        "transcriptionCasesNoNumbers": "PA SZEG9\n\nKALAM NAM2 PA\nGAL SUHUR\n\nAB APIN\nSZE\n\nBA SI4 SZE U8",
+        "transcriptionCasesNumbers": "N45 N01 PA SZEG9\nN46 N19\nN01 N14 KALAM NAM2 PA\nN01 N14 GAL SUHUR\nN19\nAB APIN\nN34 N14 N01 SZE\nN19 N36\nN01 N34 N14 N01 BA SI4 SZE U8"
+    },
+    {
+        "designation": "CUSAS 31, 148",
+        "accountType": [
+            "cereals"
+        ],
+        "transcriptionCasesNoNumbers": "GA2xE2 SZE\nKU6 SZE\n\nBAR\nGIBIL SZE SZURUPPAK U4",
+        "transcriptionCasesNumbers": "N39 N01 N14 GA2xE2 SZE\nN14 N39 KU6 SZE\n\nBAR\nGIBIL SZE SZURUPPAK U4"
+    },
+    {
+        "designation": "CUSAS 31, 149",
+        "accountType": [
+            "cereals"
+        ],
+        "transcriptionCasesNoNumbers": "\nDUG",
+        "transcriptionCasesNumbers": "N30 N34 N51 N14\nN14 DUG"
+    },
+    {
+        "designation": "CUSAS 31, 150",
+        "accountType": [
+            "cereals"
+        ],
+        "transcriptionCasesNoNumbers": "ERIM SAG SZE\nSZE\nSZE\nSZE TAK4\nSZE\nAB KASZ KU6 SZE\nSZE\n\nERIM\nAB KASZ KI KU6 SAG SZE",
+        "transcriptionCasesNumbers": "N14 N01 ERIM SAG SZE\nN14 SZE\nN14 N01 SZE\nN14 SZE TAK4\nN01 SZE\nAB KASZ KU6 SZE\nN14 SZE\n\nERIM\nN01 N14 AB KASZ KI KU6 SAG SZE"
+    },
+    {
+        "designation": "CUSAS 31, 151",
+        "accountType": [
+            "cereals"
+        ],
+        "transcriptionCasesNoNumbers": "DU KU6\nKASKAL NI\nKI KI\nEN U2\nE2 KUR\nBU GI ME SIG\nKUR UR5\n\nGAN2 URUx3N57\nHI SIG2\nE2 KUR\nSZU TUR\nDU EN PAP\nEN2.E2\nGAN2 UR5 URUx3N57\nLAM TI@t\nKI\n\nUR5\nGAN2 URUx3N57\nGAN2 SZE URUx3N57\nSAG\nBA KI\nLAM TI@t\nSAG\nBA KI\n\nSAG\nBA KI\nGI&GI KI",
+        "transcriptionCasesNumbers": "N14 N45 DU KU6\nN45 KASKAL NI\nN58 N01 N14 KI KI\nN14 N01 EN U2\nN01 N14 E2 KUR\nN01 N39 N14 BU GI ME SIG\nN14 KUR UR5\nN14\nGAN2 URUx3N57\nN14 HI SIG2\nN01 E2 KUR\nN39 N01 N14 SZU TUR\nN14 DU EN PAP\nN14 N57 EN2.E2\nN14 GAN2 UR5 URUx3N57\nLAM TI@t\nN46 KI\nN19\nN19 UR5\nGAN2 URUx3N57\nN34 N45 N01 N14 GAN2 SZE URUx3N57\nN14 N34 N39 N45 SAG\nN01 N39 N14 BA KI\nN01 N45 N39 N14 LAM TI@t\nN01 N45 N39 N14 SAG\nN01 N39 N14 BA KI\nN04 N19 N46\nN41 N46 N19 N04 SAG\nN04 N41 N19 BA KI\nGI&GI KI"
+    },
+    {
+        "designation": "CUSAS 31, 152",
+        "accountType": [
+            "cereals"
+        ],
+        "transcriptionCasesNoNumbers": "\nPIRIG SZE\nBAR DAR E2\nRU SZE\nBU TUR\n\nBA KISAL KU6\n\n\n",
+        "transcriptionCasesNumbers": "\nN01 N57 N14 PIRIG SZE\nN14 BAR DAR E2\nN14 RU SZE\nN14 BU TUR\n\nBA KISAL KU6\nN34 N01 N14\n\n"
+    },
+    {
+        "designation": "CUSAS 31, 153",
+        "accountType": [
+            "cereals"
+        ],
+        "transcriptionCasesNoNumbers": "BA NUN SI4 SZAM2 SZE UB\nSZE\nHI@g\n3N57.EN2 A E2 MUD SI4",
+        "transcriptionCasesNumbers": "N45 N46 BA NUN SI4 SZAM2 SZE UB\nN45 SZE\nN46 HI@g\nN57.EN2 A E2 MUD SI4"
+    },
+    {
+        "designation": "CUSAS 31, 154",
+        "accountType": [
+            "cereals"
+        ],
+        "transcriptionCasesNoNumbers": "A DILMUN DU EN LAGAB TE U4\nME NUN SI4 SU",
+        "transcriptionCasesNumbers": "N45 N14 A DILMUN DU EN LAGAB TE U4\nME NUN SI4 SU"
+    },
+    {
+        "designation": "CUSAS 31, 155",
+        "accountType": [
+            "cereals"
+        ],
+        "transcriptionCasesNoNumbers": "KALAM\nBA KASZ\nGI KASZ\n\nNA PAP SAG U4x1N01 U4x1N57\n\nIM\n\n",
+        "transcriptionCasesNumbers": "KALAM\nN14 N01 BA KASZ\nN39 GI KASZ\nN34 N39 N01 N14\nNA PAP SAG U4x1N01 U4x1N57\n\nIM\n\nN14"
+    },
+    {
+        "designation": "CUSAS 31, 156",
+        "accountType": [
+            "cereals"
+        ],
+        "transcriptionCasesNoNumbers": "\n\nPA\nGUB3 UNUG URU+\n\n\n\nNUN\n\nAB APIN EN NUN SAG\nDA DU NUN",
+        "transcriptionCasesNumbers": "N19\nN04 N19\nN19 PA\nN19 N57 N04 N41 GUB3 UNUG URU+N58\n\nN14\n\nNUN\nN46 N14 N01 N41\nAB APIN EN NUN SAG\nDA DU NUN"
+    },
+    {
+        "designation": "CUSAS 31, 157",
+        "accountType": [
+            "cereals"
+        ],
+        "transcriptionCasesNoNumbers": "KAB U4+\nGI+A U4+\nGI&GI U4+\nAB U4+\nU4+\nEZENxEN\nDA DUB NA\nME NAGA SU SZE\nA MUD\nSZE\nNUN SANGA",
+        "transcriptionCasesNumbers": "KAB U4+N08\nGI+A U4+N08\nGI&GI U4+N08\nAB U4+N08\nU4+N08\nN08 EZENxEN\nN14 DA DUB NA\nN14 ME NAGA SU SZE\nA MUD\nN45 N14 SZE\nNUN SANGA"
+    },
+    {
+        "designation": "CUSAS 31, 158",
+        "accountType": [
+            "textiles"
+        ],
+        "transcriptionCasesNoNumbers": "UMBIN\nBARA2\nGISZ@t MASZ\n\nBARA2\nGISZ@t MASZ\nSANGA\nBARA2\nGISZ@t MASZ\nBU DU PAP\nBARA2\nGISZ@t MASZ",
+        "transcriptionCasesNumbers": "N34 UMBIN\nN01 BARA2\nN14 N01 GISZ@t MASZ\nN34\nN01 BARA2\nN14 N01 GISZ@t MASZ\nN34 SANGA\nN01 BARA2\nN14 N01 GISZ@t MASZ\nN34 BU DU PAP\nN01 BARA2\nN14 N01 GISZ@t MASZ"
+    },
+    {
+        "designation": "CUSAS 31, 159",
+        "accountType": [
+            "textiles"
+        ],
+        "transcriptionCasesNoNumbers": "DARA4 DA KU3 PA SI UDU URU",
+        "transcriptionCasesNumbers": "DARA4 DA KU3 PA SI UDU URU"
+    },
+    {
+        "designation": "CUSAS 31, 192",
+        "accountType": [
+            "cereals"
+        ],
+        "transcriptionCasesNoNumbers": "\nGU7 SZE\n\n\n\nURU\nKISAL KU6\n\nGAR SAG TUG2\nKISAL KU6 URU",
+        "transcriptionCasesNumbers": "\nN01 N14 GU7 SZE\nN01 N14\nN14\nN01 N14\nN14 URU\nN14 KISAL KU6\nN14 N01\nN14 GAR SAG TUG2\nKISAL KU6 URU"
+    },
+    {
+        "designation": "CUSAS 31, 195",
+        "accountType": [
+            "cereals"
+        ],
+        "transcriptionCasesNoNumbers": "DUB\nDUB LAGAB TE\nDUB\nDUB SZE\n'\n'   DUB\n\n\nUB ZI\n",
+        "transcriptionCasesNumbers": "N30 DUB\nN04 N19 DUB LAGAB TE\nN14 N01 DUB\nN14 N24 N39 N01 DUB SZE\nN24' N30 N40 N03\nN03 N24' N30 N40 DUB\nN03 N40\nN04 N19 N41\nUB ZI\n"
+    },
+    {
+        "designation": "CUSAS 31, 196",
+        "accountType": [
+            "animals"
+        ],
+        "transcriptionCasesNoNumbers": "DU8xUDU UDU\n\n\nTUR\nSILA4\nAB\n",
+        "transcriptionCasesNumbers": "N45 N34 DU8xUDU UDU\nN34\nN01 N14\nN14 N01 TUR\nN34 SILA4\nN01 AB\nN14 N01"
+    },
+    {
+        "designation": "CUSAS 31, 197",
+        "accountType": [
+            "cereals"
+        ],
+        "transcriptionCasesNoNumbers": "SZE\nSZE U4x2N57\nGIBIL U4\n\nLAGAB TE\nGIBIL U4\nGIBIL LAGAB TE U4\n\n\nBA SZAM2 SZE\n\nGESZTU\nSZE\nGI KI\n",
+        "transcriptionCasesNumbers": "N45 N01 N34 N14 SZE\nN45 N14 SZE U4x2N57\nN14 N01 N34 GIBIL U4\nN19 N36 N46 N04\nN19 LAGAB TE\nN36 N46 N04 N19 GIBIL U4\nN04 GIBIL LAGAB TE U4\n\n\nN36 N45 N01 N34 BA SZAM2 SZE\n\nN14 GESZTU\nN01 SZE\nN24 N34 N01 N39 GI KI\n"
+    }
+]
