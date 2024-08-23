@@ -27,10 +27,10 @@ with open("data/aiInput.json") as f:
     data = json.load(f)
 
 # Convert data to a pandas DataFrame
-df = pd.DataFrame(data["data"])
+df = pd.DataFrame(data)
 
 # Extract labels and text versions
-labels = df["accountTypes"]
+labels = df["accountType"]
 texts_with_numbers = df["withNumbers"]
 texts_without_numbers = df["withoutNumbers"]
 
@@ -39,11 +39,11 @@ class_distribution = labels.explode().value_counts()
 
 # Find underrepresented class and duplicate some examples
 underrepresented_classes = class_distribution[class_distribution < class_distribution.max() / 2].index
-over_sampled_df = df[df["accountTypes"].apply(lambda x: any(label in x for label in underrepresented_classes))]
+over_sampled_df = df[df["accountType"].apply(lambda x: any(label in x for label in underrepresented_classes))]
 df = pd.concat([df, over_sampled_df], ignore_index=True)
 
 # Update the texts and labels after oversampling
-labels = df["accountTypes"]
+labels = df["accountType"]
 texts_with_numbers = df["withNumbers"]
 texts_without_numbers = df["withoutNumbers"]
 
@@ -87,7 +87,7 @@ for text_version, texts in [("with_numbers", texts_with_numbers), ("without_numb
         }
 
         # Optionally save to disk
-        model_dir = os.path.join(script_dir, 'saved', model_key)
+        model_dir = os.path.join(script_dir, 'results', model_key)
         os.makedirs(model_dir, exist_ok=True)
         joblib.dump(svms, os.path.join(model_dir, 'svm_models.joblib'))
         joblib.dump(vectorizer, os.path.join(model_dir, 'tfidf_vectorizer.joblib'))
