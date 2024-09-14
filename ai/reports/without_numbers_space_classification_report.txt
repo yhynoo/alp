@@ -1,0 +1,53 @@
+Label: animals
+              precision    recall  f1-score   support
+
+           0       0.95      0.98      0.97       169
+           1       0.96      0.90      0.93        79
+
+    accuracy                           0.96       248
+   macro avg       0.96      0.94      0.95       248
+weighted avg       0.96      0.96      0.96       248
+
+
+Label: cereals
+              precision    recall  f1-score   support
+
+           0       0.92      0.99      0.96       146
+           1       0.99      0.88      0.93       102
+
+    accuracy                           0.95       248
+   macro avg       0.96      0.94      0.94       248
+weighted avg       0.95      0.95      0.95       248
+
+
+Label: fields
+              precision    recall  f1-score   support
+
+           0       0.96      1.00      0.98       217
+           1       1.00      0.68      0.81        31
+
+    accuracy                           0.96       248
+   macro avg       0.98      0.84      0.89       248
+weighted avg       0.96      0.96      0.96       248
+
+
+Label: fish
+              precision    recall  f1-score   support
+
+           0       0.97      1.00      0.99       232
+           1       0.91      0.62      0.74        16
+
+    accuracy                           0.97       248
+   macro avg       0.94      0.81      0.86       248
+weighted avg       0.97      0.97      0.97       248
+
+
+Label: humans
+              precision    recall  f1-score   support
+
+           0       0.97      1.00      0.98       218
+           1       1.00      0.77      0.87        30
+
+    accuracy                           0.97       248
+   macro avg       0.98      0.88      0.93       248
+weighted avg       0.97      0.97      0.97       248
