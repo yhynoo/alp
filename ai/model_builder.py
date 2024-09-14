@@ -23,7 +23,7 @@ warnings.filterwarnings("ignore")
 
 # Load the dataset
 script_dir = os.path.dirname(os.path.abspath(__file__))
-with open("data/aiInput.json") as f:
+with open("ai/data/aiInput.json") as f:
     data = json.load(f)
 
 # Convert data to a pandas DataFrame
@@ -38,9 +38,9 @@ texts_without_numbers = df["withoutNumbers"]
 class_distribution = labels.explode().value_counts()
 
 # Find underrepresented class and duplicate some examples
-underrepresented_classes = class_distribution[class_distribution < class_distribution.max() / 2].index
-over_sampled_df = df[df["accountType"].apply(lambda x: any(label in x for label in underrepresented_classes))]
-df = pd.concat([df, over_sampled_df], ignore_index=True)
+# underrepresented_classes = class_distribution[class_distribution < class_distribution.max() / 2].index
+# over_sampled_df = df[df["accountType"].apply(lambda x: any(label in x for label in underrepresented_classes))]
+# df = pd.concat([df, over_sampled_df], ignore_index=True)
 
 # Update the texts and labels after oversampling
 labels = df["accountType"]
@@ -50,9 +50,9 @@ texts_without_numbers = df["withoutNumbers"]
 # Define a function for vectorization based on a given splitter
 def vectorize_texts(texts, splitter):
     if splitter == "space":
-        vectorizer = TfidfVectorizer(token_pattern=r"(?u)\S+")
+        vectorizer = TfidfVectorizer(token_pattern=r"(?u)\S+", ngram_range=(1, 2))
     elif splitter == "newline":
-        vectorizer = TfidfVectorizer(token_pattern=r"(?u)[^\n]+")
+        vectorizer = TfidfVectorizer(token_pattern=r"(?u)[^\n]+", ngram_range=(1, 2))
     return vectorizer, vectorizer.fit_transform(texts)
 
 # Create a dictionary to hold the models, vectorizers, and label binarizers
@@ -86,9 +86,12 @@ for text_version, texts in [("with_numbers", texts_with_numbers), ("without_numb
             "mlb": mlb
         }
 
-        # Optionally save to disk
-        model_dir = os.path.join(script_dir, 'results', model_key)
+        # Save to disk
+        model_dir = os.path.join(script_dir, 'unduplicated_models', model_key)
+
         os.makedirs(model_dir, exist_ok=True)
+        os.makedirs('ai/unduplicated_reports', exist_ok=True)
+
         joblib.dump(svms, os.path.join(model_dir, 'svm_models.joblib'))
         joblib.dump(vectorizer, os.path.join(model_dir, 'tfidf_vectorizer.joblib'))
         joblib.dump(mlb, os.path.join(model_dir, 'mlb.joblib'))
@@ -106,7 +109,6 @@ for text_version, texts in [("with_numbers", texts_with_numbers), ("without_numb
             classification_reports.append(f"Label: {label}\n{classification_rep}")
 
         # Save the classification report to a text file
-        report_path = os.path.join(model_dir, f'{model_key}_classification_report.txt')
+        report_path = os.path.join("ai/unduplicated_reports", f'{model_key}_classification_report.txt')
         with open(report_path, 'w') as report_file:
             report_file.write("\n\n".join(classification_reports))
-        print(f"Classification report saved to {report_path}")

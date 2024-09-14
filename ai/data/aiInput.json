@@ -32,28 +32,12 @@
         "withNumbers": "N01 AN GI GIx1N14 GU4 UNUG"
     },
     {
-        "designation": "ATU 5, pl. 046, W 9206,c",
-        "accountType": [
-            "dairy"
-        ],
-        "withoutNumbers": "NI\nDUG\n1N57.SZUBUR",
-        "withNumbers": "N01 NI\nN01 DUG\nN57.SZUBUR"
-    },
-    {
         "designation": "ATU 5, pl. 053, W 9335,c",
         "accountType": [
             "animals"
         ],
         "withoutNumbers": "AB2 GIxSIG2 GU4 NESAG2",
         "withNumbers": "N01 AB2 GIxSIG2 GU4 NESAG2"
-    },
-    {
-        "designation": "ATU 5, pl. 066, W 9579,ah",
-        "accountType": [
-            "dairy"
-        ],
-        "withoutNumbers": "LAGABx2N14 NI\nDUG SANGA U4",
-        "withNumbers": "N01 LAGABx2N14 NI\nN01 DUG SANGA U4"
     },
     {
         "designation": "ATU 5, pl. 068, W 9579,av",
@@ -70,14 +54,6 @@
         ],
         "withoutNumbers": "AMAR AN GIxLAGAB RAD",
         "withNumbers": "N01 AMAR AN GIxLAGAB RAD"
-    },
-    {
-        "designation": "ATU 5, pl. 104, W 9656,eq",
-        "accountType": [
-            "dairy"
-        ],
-        "withoutNumbers": "DUG\nDUG TUR3\nAB2 NI\nDUG EN\n",
-        "withNumbers": "N14 N01 DUG\nN01 DUG TUR3\nN01 AB2 NI\nN01 DUG EN\nN01"
     },
     {
         "designation": "ATU 5, pl. 105, W 9656,ev",
@@ -176,28 +152,12 @@
         "withNumbers": "U8\nN14 N01 UDUNITA\nHAL NAM2 NE PAP PA RAD SZE.NAM2 SZURUPPAK\nN01 SAL SILA4\nN01 SILANITA\nBAR U4x1N57\nN01 N14 UDU\nN14 BAR U4x1N57\nN01 N08 KISIM\n"
     },
     {
-        "designation": "ATU 7, pl. 044-45, W 20274,39",
-        "accountType": [
-            "dairy"
-        ],
-        "withoutNumbers": "AB2 DUG\n\n\n\nKASZ\n\nAB2 GA SANGA SI U4\nBU+DU6 DUR2 ZATU751\nAB DUG EN ZATU686\n\nA TUR3\nALAN TAK4 UNUG\n\n\n\n\n\n\nKASZ SZE ZATU649\nMUD NUN\nBARA3 DUB GA.ZATU753\nZATU648\nAB MUSZ3\n3N57.NUNUZ\nU4 ZATU751\nKAR2 NUN\n\n3N57.NUNUZ\n\n\nE2\nGI6 KAR2 NUN\nKU3\nMUD NUN\nA KU3 TUR3\nE2\nGI6 KAR2 NUN\n\n\nGI6 KAR2 NUN\nAN DA GA.ZATU753 MIR ZATU649\n\nMUD NUN SIMUG\nGAL KU6\nA TUR3\nNAGA NAR\nAN DA GA.ZATU753 MIR ZATU649\n3N57.NUNUZ\n3N57.NUNUZ AB NAGAR\n\nGA.ZATU753 KASZ\nMUD NUN\nNAMESZDA\nGA.ZATU753 MIR\nMASZ SI ZATU648\nBU GA HI\n3N57.NUNUZ ERIM2 SI4 SZE\nSZA U4\n\nGAN SZU\n\n\n\n\n\n\n\nGU7\nKU3 ZATU648\nAB2\nAB\nZATU649\nA TUR3\nERIM2 SI4 SZE\nMUSZ3\nBARA3 GA.ZATU753\nZATU649\n\nGI&GI GU7\nSIMUG\nU4\nDUG GI&GI GU7 ZATU648",
-        "withNumbers": "N01 AB2 DUG\n\n\n\nN01 KASZ\nN01\nN01 AB2 GA SANGA SI U4\nN57 BU+DU6 DUR2 ZATU751\nAB DUG EN ZATU686\nN01\nN57 A TUR3\nN57 ALAN TAK4 UNUG\n\n\nN01\n\n\n\nN01 KASZ SZE ZATU649\nMUD NUN\nBARA3 DUB GA.ZATU753\nN01 ZATU648\nN01 AB MUSZ3\nN57.NUNUZ\nN01 U4 ZATU751\nKAR2 NUN\nN01\nN57.NUNUZ\n\n\nN01 E2\nGI6 KAR2 NUN\nN01 N01 KU3\nMUD NUN\nN01 A KU3 TUR3\nN57 E2\nGI6 KAR2 NUN\nN01\nN01\nGI6 KAR2 NUN\nN01 AN DA GA.ZATU753 MIR ZATU649\nN01\nN01 MUD NUN SIMUG\nGAL KU6\nN01 A TUR3\nNAGA NAR\nN01 AN DA GA.ZATU753 MIR ZATU649\nN57.NUNUZ\nN57.NUNUZ AB NAGAR\n\nGA.ZATU753 KASZ\nN01 MUD NUN\nN57 NAMESZDA\nN08 GA.ZATU753 MIR\nN01 MASZ SI ZATU648\nBU GA HI\nN01 N57.NUNUZ ERIM2 SI4 SZE\nN57 SZA U4\n\nN57 GAN SZU\n\nN08\nN01\n\nN08\nN01\nN01\nGU7\nN01 N01 N14 KU3 ZATU648\nN14 AB2\nN14 N01 AB\nN01 ZATU649\nN01 A TUR3\nN01 ERIM2 SI4 SZE\nN01 MUSZ3\nN01 BARA3 GA.ZATU753\nN01 ZATU649\n\nN01 N34 N01 GI&GI GU7\nN01 SIMUG\nN01 U4\nN14 N34 N01 DUG GI&GI GU7 ZATU648"
-    },
-    {
         "designation": "ATU 7, pl. 047, W 20274,55",
         "accountType": [
             "animals"
         ],
         "withoutNumbers": "U8\nUDUNITA\n\nSAL SILA4\nSILANITA\nBAR U4x1N57\nBA UDU\nBAR U4x1N57\nKISIM",
         "withNumbers": "N14 N34 U8\nN14 UDUNITA\n\nN14 SAL SILA4\nN14 SILANITA\nBAR U4x1N57\nN34 BA UDU\nN14 BAR U4x1N57\nN08 N01 KISIM"
-    },
-    {
-        "designation": "ATU 7, pl. 047, W 20274,61",
-        "accountType": [
-            "dairy"
-        ],
-        "withoutNumbers": "U8\nUDUNITA\nE2 NAM2 NAMESZDA PA RAD SZE.NAM2 SZURUPPAK\nSAL SILA4\nSILANITA\nBAR U4x1N57\nBA UDU\nBAR U4x1N57\nKISIM",
-        "withNumbers": "N14 U8\nN14 N01 UDUNITA\nE2 NAM2 NAMESZDA PA RAD SZE.NAM2 SZURUPPAK\nN01 SAL SILA4\nN01 SILANITA\nBAR U4x1N57\nN14 N01 BA UDU\nN01 BAR U4x1N57\nN01 KISIM"
     },
     {
         "designation": "ATU 7, pl. 048, W 20274,63",
@@ -216,28 +176,12 @@
         "withNumbers": "HAL NE TUG2.BAD&BAD TUR\nN51\nN01 BA EN KI TUG2.BAD&BAD ZATU647\nN51\nN01 SZURUPPAK\n\nN01 SZU2\nN14 N01 TUG2.BAD&BAD\nUDU\n"
     },
     {
-        "designation": "ATU 7, pl. 050, W 20274,97",
-        "accountType": [
-            "dairy"
-        ],
-        "withoutNumbers": "DUG\nDUB\nTUG2\nBUR2 TUG2\nBAR SAL\nBAR SAL TUR\nTUG2\nTUG2.BAD&BAD\nBARA2\nMASZ SZE3\nGA'AR\nGA'AR SZE3@t\n\n",
-        "withNumbers": "N14 N01 DUG\nN01 DUB\nN14 N01 TUG2\nN01 BUR2 TUG2\nN57 N01 BAR SAL\nN01 N57 BAR SAL TUR\nN57 N01 TUG2\nN34 N01 TUG2.BAD&BAD\nBARA2\nN14 N48 N01 MASZ SZE3\nN51 N56 N54 GA'AR\nN14 GA'AR SZE3@t\nN14 N48 N01\nN48 N14 N34"
-    },
-    {
         "designation": "ATU 7, pl. 052, W 20274,110",
         "accountType": [
             "fish"
         ],
         "withoutNumbers": "GI NE SI4 SIG SZE\nU2\nU2\nSUHUR\nNAGAR NANSZE\n\n",
         "withNumbers": "GI NE SI4 SIG SZE\nN34 U2\nN14 N34 U2\nN14 N34 SUHUR\nNAGAR NANSZE\nN14 N34 N01\n"
-    },
-    {
-        "designation": "ATU 7, pl. 077, W 21682",
-        "accountType": [
-            "dairy"
-        ],
-        "withoutNumbers": "NUN SI SILA3xGARA2\nEN NUN SI SILA3xGARA2 SZE3\nME NAB SI SILA3xGARA2 SZU\nSI SILA3xGARA2 ZATU651@g\nGA2 SI SZA3\nSI SILA3xGA\nAN EN GA2 ME SI SZU\nNAM2 NUN SI SZE3 TUR\nAN E2 SI SZE3 SZU2\nEN SI SZA3\nSILA3xGARA2\nSILA3xGA\nDUG GU7 SI",
-        "withNumbers": "N01 NUN SI SILA3xGARA2\nN01 EN NUN SI SILA3xGARA2 SZE3\nN01 ME NAB SI SILA3xGARA2 SZU\nN01 SI SILA3xGARA2 ZATU651@g\nN01 GA2 SI SZA3\nN01 SI SILA3xGA\nN01 AN EN GA2 ME SI SZU\nN01 NAM2 NUN SI SZE3 TUR\nN01 AN E2 SI SZE3 SZU2\nN01 EN SI SZA3\nN01 SILA3xGARA2\nN01 SILA3xGA\nN01 DUG GU7 SI"
     },
     {
         "designation": "BagM 22, 057, W 23948",
@@ -670,46 +614,6 @@
         ],
         "withoutNumbers": "BA SUHUR\nNE\nKU SUHUR@t\nSUHUR\nNE\nKU SUHUR@t\nUKKINxDIN\n\nBA SUHUR\nNE\nKU\nSUHUR\nNE\nKU\nBA SUHUR\nSUHUR\nE2x1N57@t\nBA PAP SAL SUHUR\nSUHUR\nGU7\nSAL ZATU676\nSAL TUR TUR\nSAL ZATU676\nSAGSZU SAL\nSUHUR\nE2x1N57@t",
         "withNumbers": "N39 BA SUHUR\nN39 NE\nN39 KU SUHUR@t\nN39 N57 SUHUR\nN39 NE\nN39 KU SUHUR@t\nN01 UKKINxDIN\n\nN39 BA SUHUR\nN39 NE\nN39 KU\nN39 N57 SUHUR\nN39 NE\nN39 KU\nN39 BA SUHUR\nN39 N57 SUHUR\nN57 E2x1N57@t\nN01 BA PAP SAL SUHUR\nN01 SUHUR\nN01 GU7\nN01 SAL ZATU676\nN01 SAL TUR TUR\nN01 SAL ZATU676\nN01 SAGSZU SAL\nN01 N57 SUHUR\nE2x1N57@t"
-    },
-    {
-        "designation": "CUSAS 01, 064",
-        "accountType": [
-            "textiles"
-        ],
-        "withoutNumbers": "\nBAR UD5\nBAR MASZ SIG2\nSIG2\n\nZATU773\n\nMASZ2 SIG2\nBAR MASZ SIG2\nDA PA\n",
-        "withNumbers": "\nN14 N01 BAR UD5\nN01 N14 BAR MASZ SIG2\nN14 N01 SIG2\nN01\nZATU773\n\nN01 N14 MASZ2 SIG2\nN14 BAR MASZ SIG2\nDA PA\nN34 N01"
-    },
-    {
-        "designation": "CUSAS 01, 065",
-        "accountType": [
-            "textiles"
-        ],
-        "withoutNumbers": "DARA4 UDU\nMASZ2 UDU\nSZE3 UDU\nBAR MASZ UDU\nUDU\nMASZ\nRU\nDARA4 MASZ\nMASZ2 TUR\nSZE3 UDU\nBAR MASZ UDU\nDA PA\nGISZ SU\n\nNI2\n\nZATU773\nEN\n\n\nSA UR2 ZATU847\nSAL SA ZATU847\n\nA A\nNI2\nA A\nNI2\nKA\nBA\nBA",
-        "withNumbers": "N01 N14 DARA4 UDU\nN14 N01 MASZ2 UDU\nN01 SZE3 UDU\nN01 N14 BAR MASZ UDU\nN14 N01 UDU\nN01 MASZ\nRU\nN14 N01 DARA4 MASZ\nN01 N14 MASZ2 TUR\nN01 SZE3 UDU\nN14 N01 BAR MASZ UDU\nDA PA\nGISZ SU\nN01 N14\nN14 NI2\n\nZATU773\nEN\nN14 N01\nN01\nN34 N01 SA UR2 ZATU847\nN34 N14 N01 SAL SA ZATU847\nN34 N14 N01\nN14 N01 A A\nN01 NI2\nN14 N01 A A\nN01 NI2\nN01 KA\nN34 N01 BA\nN34 BA"
-    },
-    {
-        "designation": "CUSAS 01, 066",
-        "accountType": [
-            "textiles"
-        ],
-        "withoutNumbers": "AN NUNUZ ZATU788\nME TUR3\nBA DARA4 IB\nBA DARA4",
-        "withNumbers": "N14 N34 N01 AN NUNUZ ZATU788\nN14 ME TUR3\nBA DARA4 IB\nN14 N34 N01 BA DARA4"
-    },
-    {
-        "designation": "CUSAS 01, 067",
-        "accountType": [
-            "textiles"
-        ],
-        "withoutNumbers": "EN\nIB\nBA\nDA PA\nDARA4 LAGAB UDU\nIB UDU\nBA DARA4",
-        "withNumbers": "N04 N14 N01 N34 EN\nN34 N14 N01 IB\nN14 N34 N01 BA\nN14 N34 N01 DA PA\nN01 N14 N34 DARA4 LAGAB UDU\nN14 N01 IB UDU\nN14 N34 N01 BA DARA4"
-    },
-    {
-        "designation": "CUSAS 01, 068",
-        "accountType": [
-            "textiles"
-        ],
-        "withoutNumbers": "AN NUNUZ SAL ZATU788\nME SAL TUR3\nDUB\nLA2 SUG5\nDARA4 UB ZATU682 ZI\n\nAK DARA4 DA HI IB PA SAG SUG5 SZA3 UDU UR2\nDARA4 IB SAG SUG5 UDU\n",
-        "withNumbers": "AN NUNUZ SAL ZATU788\nN34 N14 ME SAL TUR3\nN34 DUB\nN14 LA2 SUG5\nN01 DARA4 UB ZATU682 ZI\nN01\nAK DARA4 DA HI IB PA SAG SUG5 SZA3 UDU UR2\nN34 DARA4 IB SAG SUG5 UDU\n"
     },
     {
         "designation": "CUSAS 01, 070",
@@ -1451,8 +1355,7 @@
     {
         "designation": "CUSAS 01, 163",
         "accountType": [
-            "animals",
-            "dairy"
+            "animals"
         ],
         "withoutNumbers": "AB2 AMAR\n\nUB\n\nDUG URU\nKISIM\nKISIM\nDUG NIM URU ZATU773\nKISIM\n\nKISIM\n\n\nKISIM\n\nGA U4",
         "withNumbers": "N14 N01 AB2 AMAR\nN14 N01\nUB\n\nDUG URU\nN01 KISIM\nN01 KISIM\nN01 DUG NIM URU ZATU773\nN01 KISIM\nN02\nN01 KISIM\nN02\n\nN01 KISIM\nN02\nN01 GA U4"
@@ -1528,14 +1431,6 @@
         ],
         "withoutNumbers": "\nSZE.NAM2\nUDU URI3\n\n\nA ISZ NUNUZ\n\nKU6 LU2\n\n\n\nSZU2.E2\n\n\n\nGISZ3 NI\n\nKU LAGAB SZU\n\n\n\n\nNA SI URI3\n\nUDU\n\nA BU KU NAM2 PAP URI3\n\n\n\n\n\nGIR3@g SAG\n\n\nERIM\nUDU",
         "withNumbers": "N14\nN14 SZE.NAM2\nN14 UDU URI3\nN01\n\nN14 A ISZ NUNUZ\nN01\nN22 N01 KU6 LU2\nN01\nN14\nN14\nN14 SZU2.E2\nN01\nN22\nN01\nN14 GISZ3 NI\nN01\nN22 KU LAGAB SZU\nN01\nN14\nN01\n\nN14 NA SI URI3\nN01\nN14 UDU\nN14 N01\nN14 A BU KU NAM2 PAP URI3\nN01\nN14\n\nN14\nN14\nGIR3@g SAG\n\nN45\nN14 N22 ERIM\nN34 N01 UDU"
-    },
-    {
-        "designation": "CUSAS 01, 218",
-        "accountType": [
-            "textiles"
-        ],
-        "withoutNumbers": "AN ZATU773\nE2 SAL.KUR\nDA PA\nBA DARA4 KISAL KU6",
-        "withNumbers": "N14 N34 N01 AN ZATU773\nN01 E2 SAL.KUR\nN34 N14 N01 DA PA\nBA DARA4 KISAL KU6"
     },
     {
         "designation": "CUSAS 01, 220",
@@ -1816,22 +1711,6 @@
         ],
         "withoutNumbers": "AB2 GI",
         "withNumbers": "AB2 GI"
-    },
-    {
-        "designation": "CUSAS 21, 071",
-        "accountType": [
-            "textiles"
-        ],
-        "withoutNumbers": "BARA2\nBARA2\nBARA2 HAL SZU\n\n",
-        "withNumbers": "N14 N01 BARA2\nN14 N01 BARA2\nN01 BARA2 HAL SZU\nN14 N01\nN01"
-    },
-    {
-        "designation": "CUSAS 21, 072",
-        "accountType": [
-            "textiles"
-        ],
-        "withoutNumbers": "TUG2\n\nBU+TU SANGA\n",
-        "withNumbers": "N01 TUG2\n\nBU+TU SANGA\n"
     },
     {
         "designation": "CUSAS 21, 073",
@@ -2564,8 +2443,7 @@
     {
         "designation": "CUSAS 31, 067",
         "accountType": [
-            "animals",
-            "dairy"
+            "animals"
         ],
         "withoutNumbers": "SZE3 U8\nUDUNITA\nAB E NIM SZE.NAM2\nKIR11\nSILANITA\nBAR U4x1N57\nU8\nUDUNITA\nAB2\nSZE.NAM2\nAB2 UDU\nSZE.NAM2\nLAGAB UDU\nBAR U4x1N57\nKISIM\nE ZATU752",
         "withNumbers": "N14 SZE3 U8\nN14 UDUNITA\nAB E NIM SZE.NAM2\nN01 KIR11\nN01 SILANITA\nBAR U4x1N57\nN14 N01 U8\nN01 UDUNITA\nN01 AB2\nSZE.NAM2\nN01 N14 N01 AB2 UDU\nSZE.NAM2\nN14 LAGAB UDU\nN01 BAR U4x1N57\nN01 N08 KISIM\nE ZATU752"
@@ -2597,8 +2475,7 @@
     {
         "designation": "CUSAS 31, 071",
         "accountType": [
-            "animals",
-            "dairy"
+            "animals"
         ],
         "withoutNumbers": "SZE3 UDU\n\n\nUDU\n\n\n\nUDU\nAB2\n\nLAGAB UDU\nBAR U4x1N57\nKISIM\nSZEG9",
         "withNumbers": "N14 N01 SZE3 UDU\n\n\nN01 UDU\n\nN20 N01\n\nN14 N01 UDU\nN01 AB2\n\nN14 N01 LAGAB UDU\nN01 BAR U4x1N57\nN01 N08 KISIM\nSZEG9"
@@ -3292,22 +3169,6 @@
         "withNumbers": "KAB U4+N08\nGI+A U4+N08\nGI&GI U4+N08\nAB U4+N08\nU4+N08\nN08 EZENxEN\nN14 DA DUB NA\nN14 ME NAGA SU SZE\nA MUD\nN45 N14 SZE\nNUN SANGA"
     },
     {
-        "designation": "CUSAS 31, 158",
-        "accountType": [
-            "textiles"
-        ],
-        "withoutNumbers": "UMBIN\nBARA2\nGISZ@t MASZ\n\nBARA2\nGISZ@t MASZ\nSANGA\nBARA2\nGISZ@t MASZ\nBU DU PAP\nBARA2\nGISZ@t MASZ",
-        "withNumbers": "N34 UMBIN\nN01 BARA2\nN14 N01 GISZ@t MASZ\nN34\nN01 BARA2\nN14 N01 GISZ@t MASZ\nN34 SANGA\nN01 BARA2\nN14 N01 GISZ@t MASZ\nN34 BU DU PAP\nN01 BARA2\nN14 N01 GISZ@t MASZ"
-    },
-    {
-        "designation": "CUSAS 31, 159",
-        "accountType": [
-            "textiles"
-        ],
-        "withoutNumbers": "DARA4 DA KU3 PA SI UDU URU",
-        "withNumbers": "DARA4 DA KU3 PA SI UDU URU"
-    },
-    {
         "designation": "CUSAS 31, 192",
         "accountType": [
             "cereals"
@@ -3920,14 +3781,6 @@
         "withNumbers": "N14 N01 NIMGIR SZE TUM\n"
     },
     {
-        "designation": "MSVO 1, 083",
-        "accountType": [
-            "fruits"
-        ],
-        "withoutNumbers": "SZU2\nZATU644\nME\nZATU753\nMA\nHASZHUR\nEN U4.\nSZU2\nMA\nHASZHUR\nU4.\nSZU2\nMA\nHASZHUR\nU4.\nSZU2\nMA\nHASZHUR\nE2 GI U4.\n\nSZU\nSZU2\nZATU753\nZATU644\nSZE SZU2\nSZE SZU2\nEN SZU2\nSZU2\n\nSZU2\nDUB GI\nZATU644\nME\nZATU753\nMA\nHASZHUR\nGI\nBA\nAB NI.RU",
-        "withNumbers": "N14 N01 SZU2\nN01 ZATU644\nN01 ME\nN01 ZATU753\nN14 N01 MA\nN01 HASZHUR\nEN U4.N08\nN01 SZU2\nN01 MA\nN01 HASZHUR\nU4.N08\nN01 SZU2\nN01 MA\nN01 HASZHUR\nU4.N08\nN01 SZU2\nN01 MA\nN01 HASZHUR\nE2 GI U4.N08\n\nSZU\nN01 SZU2\nN01 ZATU753\nN01 ZATU644\nN01 SZE SZU2\nN01 SZE SZU2\nN01 EN SZU2\nN01 SZU2\n\nN14 N01 SZU2\nN01 DUB GI\nN01 ZATU644\nN01 ME\nN01 ZATU753\nN14 N01 MA\nN14 HASZHUR\nN01 GI\nN14 N14 BA\nAB NI.RU"
-    },
-    {
         "designation": "MSVO 1, 084",
         "accountType": [
             "cereals"
@@ -4054,110 +3907,6 @@
         ],
         "withoutNumbers": "\nGAR\n\nDUG\n\n\nSAL",
         "withNumbers": "N01\nN14 GAR\nN25 N42\nN01 DUG\nN25 N42\n\nSAL"
-    },
-    {
-        "designation": "MSVO 1, 161",
-        "accountType": [
-            "fruits"
-        ],
-        "withoutNumbers": "MA\nHASZHUR\nMA ZATU735\nGA2xGESZTU\n\nNI.RU\nMUSZ3\nA LAM\nUNUG",
-        "withNumbers": "N01 MA\nN01 HASZHUR\nN01 MA ZATU735\nN01 GA2xGESZTU\nN01\nNI.RU\nMUSZ3\nA LAM\nUNUG"
-    },
-    {
-        "designation": "MSVO 1, 162",
-        "accountType": [
-            "fruits"
-        ],
-        "withoutNumbers": "MA\nHASZHUR\n\n",
-        "withNumbers": "N01 MA\nN01 HASZHUR\n\n"
-    },
-    {
-        "designation": "MSVO 1, 163",
-        "accountType": [
-            "fruits"
-        ],
-        "withoutNumbers": "MA\nHASZHUR\nMA ZATU735\nGA2xGESZTU\nUKKINxDIN\nNI.RU\nMUSZ3\nUNUG",
-        "withNumbers": "N01 MA\nN01 HASZHUR\nN01 MA ZATU735\nN01 GA2xGESZTU\nN01 UKKINxDIN\nNI.RU\nN57 MUSZ3\nUNUG"
-    },
-    {
-        "designation": "MSVO 1, 164",
-        "accountType": [
-            "fruits"
-        ],
-        "withoutNumbers": "HASZHUR\nBA BAR E2",
-        "withNumbers": "N01 HASZHUR\nBA BAR E2"
-    },
-    {
-        "designation": "MSVO 1, 165",
-        "accountType": [
-            "fruits"
-        ],
-        "withoutNumbers": "MA\nHASZHUR\nMA ZATU735\nGA2xGESZTU\nUKKINxDIN\nKI NUN TAK4\nNI.RU\nMUSZ3\nUNUG",
-        "withNumbers": "N01 MA\nN01 HASZHUR\nN01 MA ZATU735\nN01 GA2xGESZTU\nN01 UKKINxDIN\nKI NUN TAK4\nNI.RU\nN57 MUSZ3\nUNUG"
-    },
-    {
-        "designation": "MSVO 1, 166",
-        "accountType": [
-            "fruits"
-        ],
-        "withoutNumbers": "\nMA\nGA2xGESZTU\nUKKINxDIN\nNUN",
-        "withNumbers": "N01\nN01 MA\nN01 GA2xGESZTU\nN01 UKKINxDIN\nNUN"
-    },
-    {
-        "designation": "MSVO 1, 167",
-        "accountType": [
-            "fruits"
-        ],
-        "withoutNumbers": "HASZHUR\nGA2xX\n\nKI NUN TAK4\nNI.RU\nAN\nUNUG",
-        "withNumbers": "HASZHUR\nGA2xX\n\nKI NUN TAK4\nNI.RU\nN57 AN\nUNUG"
-    },
-    {
-        "designation": "MSVO 1, 168",
-        "accountType": [
-            "fruits"
-        ],
-        "withoutNumbers": "MA\nNI.RU\nMUSZ3\n",
-        "withNumbers": "N01 MA\nNI.RU\nN57 MUSZ3\n"
-    },
-    {
-        "designation": "MSVO 1, 169",
-        "accountType": [
-            "fruits"
-        ],
-        "withoutNumbers": "MA\nHASZHUR\nMA ZATU735\nEN SARxSZE\nNI.RU U4\nEN PAP\n",
-        "withNumbers": "N01 MA\nN01 HASZHUR\nN01 MA ZATU735\nEN SARxSZE\nNI.RU U4\nN58 EN PAP\n"
-    },
-    {
-        "designation": "MSVO 1, 170",
-        "accountType": [
-            "fruits"
-        ],
-        "withoutNumbers": "HASZHUR\nMA ZATU735\nGA2xGESZTU\nUKKINxDIN\nNUN TAK4",
-        "withNumbers": "HASZHUR\nN01 MA ZATU735\nN01 GA2xGESZTU\nN01 UKKINxDIN\nNUN TAK4"
-    },
-    {
-        "designation": "MSVO 1, 171",
-        "accountType": [
-            "fruits"
-        ],
-        "withoutNumbers": "HASZHUR\nZATU735\nKI NUN TAK4\nNI.RU U4",
-        "withNumbers": "HASZHUR\nZATU735\nKI NUN TAK4\nNI.RU U4"
-    },
-    {
-        "designation": "MSVO 1, 179",
-        "accountType": [
-            "fruits"
-        ],
-        "withoutNumbers": "ZATU644\nSZU2\nSZU2\nME\nZATU753\nDUG\nKASZ\nMA\nHASZHUR\nAB\nAMAR BAR DUG EN\nUDU\nAB SUHUR\nDUG EN PA\nAB\nBAR DUG EN\nGA GU7\nGA GIBIL GU7 SU",
-        "withNumbers": "N14 N01 ZATU644\nN14 SZU2\nN01 SZU2\nN01 ME\nN01 ZATU753\nN01 DUG\nN01 KASZ\nN01 MA\nN01 HASZHUR\nN01 N14 AB\nN01 AMAR BAR DUG EN\nN01 UDU\nN14 AB SUHUR\nDUG EN PA\nN52 AB\nN21 BAR DUG EN\nGA GU7\nN57 GA GIBIL GU7 SU"
-    },
-    {
-        "designation": "MSVO 1, 181",
-        "accountType": [
-            "fruits"
-        ],
-        "withoutNumbers": "GA2xSU GESZTU TAK4\nKU6 KUR SUM\nBU KASZ RU\nME MUSZ3\nME",
-        "withNumbers": "N01 GA2xSU GESZTU TAK4\nN57 N01 KU6 KUR SUM\nBU KASZ RU\nME MUSZ3\nME"
     },
     {
         "designation": "MSVO 1, 197",
@@ -4541,60 +4290,10 @@
         "designation": "MSVO 4, 15",
         "accountType": [
             "cereals",
-            "fish",
-            "fruits"
+            "fish"
         ],
         "withoutNumbers": "DIN\nMA\nHASZHUR\n\n\n\nDUG ZATU737xSU\nSUHUR\nDUG ZATU648\nSUHUR\nZATU759xKU6\nAB ZATU759xKU6\nSAR\nKU6 RAD UR2\nMAHxNA\nAN\nPAP\nUNUG",
         "withNumbers": "N01 DIN\nN14 MA\nN14 HASZHUR\nN01\n\n\nN01 DUG ZATU737xSU\nN01 SUHUR\nN01 DUG ZATU648\nN14 SUHUR\nN14 N57 N01 ZATU759xKU6\nN01 AB ZATU759xKU6\nN01 SAR\nKU6 RAD UR2\nMAHxNA\nN57 AN\nPAP\nUNUG"
-    },
-    {
-        "designation": "MSVO 4, 16",
-        "accountType": [
-            "fruits"
-        ],
-        "withoutNumbers": "ENGIZ SZAGAN\nMA\nHASZHUR\nZATU736\n\nAB SANGA\nMA\nHASZHUR\nAB GI SAL\nKU3 SANGA UMUN2\n\nMA\nHASZHUR\n\n",
-        "withNumbers": "ENGIZ SZAGAN\nN01 MA\nN01 HASZHUR\nZATU736\nN21\nAB SANGA\nN01 MA\nN01 HASZHUR\nN57 AB GI SAL\nKU3 SANGA UMUN2\nN01\nN01 MA\nN01 HASZHUR\nN21\n"
-    },
-    {
-        "designation": "MSVO 4, 17",
-        "accountType": [
-            "textiles",
-            "fruits"
-        ],
-        "withoutNumbers": "\nGADA\nBAR TUG2\n\nPAP\nSZE\n\nBUR GAN\nTUG2\n\nEN",
-        "withNumbers": "\nN01 GADA\nN01 N57 BAR TUG2\nN01\nPAP\nSZE\nN01\nN01 BUR GAN\nN01 TUG2\nN01\nEN"
-    },
-    {
-        "designation": "MSVO 4, 18",
-        "accountType": [
-            "textiles"
-        ],
-        "withoutNumbers": "\nBAR SAL SZU2\nZATU753\nMA RAD\nHASZHUR",
-        "withNumbers": "\nN01 BAR SAL SZU2\nN01 ZATU753\nN01 MA RAD\nHASZHUR"
-    },
-    {
-        "designation": "MSVO 4, 23",
-        "accountType": [
-            "textiles"
-        ],
-        "withoutNumbers": "ME\nGADA\nSIG2\n\nSZEN\nURI\nNAGA\n\nA BUR\nKU SAG\nKITI PA",
-        "withNumbers": "N01 ME\nN01 GADA\nN01 SIG2\nN01\nN01 SZEN\nN01 URI\nN01 NAGA\nN01\nN01 A BUR\nN01 KU SAG\nKITI PA"
-    },
-    {
-        "designation": "MSVO 4, 24",
-        "accountType": [
-            "textiles"
-        ],
-        "withoutNumbers": "SIG2\nGADA\nGADA ZATU750\nSZU2\nSZEN\nZATU777\nSZU TUN3\nGISZIMMAR\nBUR MUD3\nA BUR\nBUR KU6\nBUR NI\nMU NAGA SZITA\nA ZATU777\nSZIR\nSI ZATU787\nKITI KU6 KU RAD SAG\nKITI PA\nEN KU6 ME RAD UR2\nKU SAG",
-        "withNumbers": "N01 SIG2\nN01 GADA\nN01 GADA ZATU750\nN01 SZU2\nN01 SZEN\nN01 ZATU777\nN01 SZU TUN3\nN01 GISZIMMAR\nN01 BUR MUD3\nN01 A BUR\nN01 BUR KU6\nN01 BUR NI\nN01 MU NAGA SZITA\nN01 A ZATU777\nN01 SZIR\nN01 SI ZATU787\nKITI KU6 KU RAD SAG\nKITI PA\nEN KU6 ME RAD UR2\nKU SAG"
-    },
-    {
-        "designation": "MSVO 4, 25",
-        "accountType": [
-            "textiles"
-        ],
-        "withoutNumbers": "\nURI\nSZU TUN3\nSILA3 SZU\nGISZIMMAR\nBUR RAD\nBUR NI\nBUR\n\nBAR\nSAL ZATU750\nME\nGADA\nBAR SAL\nME TUG2\nSIG2\nTUG2\n\nGAN\nKU SAG\nEN KU6 ME RAD UR2\nUKKIN\nBU EN KITI PA RU U4\nSIG2 ZATU714\nHASZHUR\nAB2 KITI PA\nME SAG\nPAP TE UR2\nGURUSZDA KITI\nAMA GAL SZITA",
-        "withNumbers": "N01\nN01 URI\nN01 SZU TUN3\nN01 SILA3 SZU\nN01 GISZIMMAR\nN01 BUR RAD\nN01 BUR NI\nBUR\n\nN01 BAR\nN01 SAL ZATU750\nN01 ME\nN01 GADA\nN01 N57 BAR SAL\nN01 ME TUG2\nN01 SIG2\nN01 TUG2\n\nN01 GAN\nKU SAG\nEN KU6 ME RAD UR2\nUKKIN\nBU EN KITI PA RU U4\nN01 N14 SIG2 ZATU714\nN01 HASZHUR\nN57 AB2 KITI PA\nME SAG\nPAP TE UR2\nGURUSZDA KITI\nN01 AMA GAL SZITA"
     },
     {
         "designation": "MSVO 4, 27",
@@ -4857,38 +4556,6 @@
         "withNumbers": "N01 DARA4\nDUG\nMU\nN01 N04 GI\nGA\nHI@g\nN01 GI NIN\nSUKKAL\nSZIDIM\nN01 LU2 PAP\nSANGA\nSI4\nN01 MAR PAP SAL\nGURUSZDA\nSILA3xSZU2\nN01 DA MUSZENx2N57\nBAHAR2\nKID\nSAG@n SZIM\nN01 KI SAG ZATU628\nZAG\nKISZ PAP\nN01 DIM\nMUSZENx2N57 PAP\nAN MAR ZATU752\nN01 TUM\nAN MAR SUKUD+SUKUD\nKAB\nN01 LA2 NI\nAPIN ZATU710\nGAR SI SZU\nA EN SZAM2\nN01 SAL SZIM\nN01 SZAM2\nN14 AN MAR SAL SZAM2 SZIM"
     },
     {
-        "designation": "MSVO 4, 68",
-        "accountType": [
-            "textiles"
-        ],
-        "withoutNumbers": "BARA2 DUB URI3\nBARA2 GAL MAR\nBARA2",
-        "withNumbers": "N14 BARA2 DUB URI3\nN01 BARA2 GAL MAR\nN14 N01 BARA2"
-    },
-    {
-        "designation": "MSVO 4, 69",
-        "accountType": [
-            "dairy"
-        ],
-        "withoutNumbers": "DUG GI&GI GU7 ZATU649\nAN KALAM NU11 SI\nGA.ZATU753 ZATU751\nGI KASZ",
-        "withNumbers": "N01 DUG GI&GI GU7 ZATU649\nN57 AN KALAM NU11 SI\nN57 GA.ZATU753 ZATU751\nGI KASZ"
-    },
-    {
-        "designation": "MSVO 4, 70",
-        "accountType": [
-            "dairy"
-        ],
-        "withoutNumbers": "DUG NIMGIR SI TUR@g\n\nAB DUG EN",
-        "withNumbers": "N01 DUG NIMGIR SI TUR@g\n\nAB DUG EN"
-    },
-    {
-        "designation": "MSVO 4, 71",
-        "accountType": [
-            "dairy"
-        ],
-        "withoutNumbers": "\nKU3\n\nGI SZAKIR U4x2N57 ZATU752\nPAD PAP U4\nSANGA ZATU753\nIB LA2 SUG5\nGA.ZATU753",
-        "withNumbers": "N14 N01\nN01 KU3\nN02\nGI SZAKIR U4x2N57 ZATU752\nPAD PAP U4\nSANGA ZATU753\nIB LA2 SUG5\nGA.ZATU753"
-    },
-    {
         "designation": "MSVO 4, 72",
         "accountType": [
             "animals",
@@ -4896,14 +4563,6 @@
         ],
         "withoutNumbers": "KU6\nLAGABxKU6+KU6\nGA2xKU6.KU6\nUZU\nSZAKIR SZUBUR\nAL\nZATU723\nBIR3\nKI@n\nSAG@n\nGISZ ZATU623\nGISZ GUM\nA ZATU625\nBAR EN ERIM NUN",
         "withNumbers": "N51 KU6\nN01 LAGABxKU6+KU6\nN01 GA2xKU6.KU6\nN01 N14 UZU\nN01 SZAKIR SZUBUR\nN01 AL\nN34 N14 ZATU723\nN14 N01 BIR3\nN34 KI@n\nN14 SAG@n\nN14 N34 GISZ ZATU623\nN01 N14 GISZ GUM\nN14 N01 A ZATU625\nBAR EN ERIM NUN"
-    },
-    {
-        "designation": "MSVO 4, 78",
-        "accountType": [
-            "textiles"
-        ],
-        "withoutNumbers": "SZU2",
-        "withNumbers": "N14 N01 SZU2"
     },
     {
         "designation": "MSVO 4, 79",
@@ -4922,36 +4581,12 @@
         "withNumbers": "N48 N34 PAP SANGA SAR SUKKAL SZURUPPAK UDU\nN48 N34 A GISZ.TE U4\nN34 A GISZ.TE SIG\nE2 HI NUN\nGAL SZITA\nGAL KI PA UDU\nN01 KISIM\nN14 DARA4\nN01 TUG2\nGA SANGA\nAB2 SANGA SZURUPPAK UDU"
     },
     {
-        "designation": "W 20274,033",
-        "accountType": [
-            "dairy"
-        ],
-        "withoutNumbers": "DUB GA\nAB AN BA MUSZ3\nBA PIRIG SAL\nBU DUR2 ZATU751\nBA\nZATU649\nKU3\nAB2 KU3 ZABALAM\nGI NE SI4 SZE\nGA MUD NUN\nZATU648\n3N57.PIRIG AB SU\nAB2 SI U4\nA TUR3\nBU GA HI\nBA GI&GI ZATU648\nZATU648\nSI SIG U4\nA TUR3\nZATU649\nKU3\nAB2 KU3 ZABALAM\nGI NE SI4 SZE\nBA DUG GI&GI",
-        "withNumbers": "N01 DUB GA\nN01 AB AN BA MUSZ3\nN01 BA PIRIG SAL\nN57 BU DUR2 ZATU751\nN01 BA\nN01 ZATU649\nN01 KU3\nN01 AB2 KU3 ZABALAM\nN01 GI NE SI4 SZE\nGA MUD NUN\nN01 ZATU648\nN57.PIRIG AB SU\nN01 AB2 SI U4\nN01 A TUR3\nBU GA HI\nBA GI&GI ZATU648\nN01 ZATU648\nN01 SI SIG U4\nN01 A TUR3\nN01 ZATU649\nN01 KU3\nN01 AB2 KU3 ZABALAM\nN01 GI NE SI4 SZE\nN14 N01 BA DUG GI&GI"
-    },
-    {
-        "designation": "W 20274,035",
-        "accountType": [
-            "dairy"
-        ],
-        "withoutNumbers": "DUG\n\nNI2 ZATU649\n\nKU3\nMUD NUN\nZATU649\n\nKU3\nZATU649\n\nKU3\nGI NE SI4 SZE\n\n\nAB2 ZABALAM\n\nKU3\nERIM2 GI SZE\n\n\nGI NE SI4 SZE\nBA GI GI\nBA DUG GI GI",
-        "withNumbers": "N01 DUG\nN01\nNI2 ZATU649\nN01\nN01 KU3\nMUD NUN\nZATU649\nN01\nN01 KU3\nZATU649\nN01\nN01 KU3\nGI NE SI4 SZE\nN01\nN01\nAB2 ZABALAM\nN01\nN01 KU3\nERIM2 GI SZE\nN01\nN02\nGI NE SI4 SZE\nBA GI GI\nN14 N01 BA DUG GI GI"
-    },
-    {
         "designation": "W 20274,050",
         "accountType": [
             "fish"
         ],
         "withoutNumbers": "SUHUR\nZATU728\nGA2xU4\nNANNA PAP\nNIRxAN SZITA ZATU728\nGAL TAG ZATU728\nEN HI KU6 RAD SUHUR\nLA2 SUG5\nGA.ZATU753 GU7\nSUHUR\nGA2xU4\n\nGU7",
         "withNumbers": "SUHUR\nN14 ZATU728\nN01 GA2xU4\nNANNA PAP\nN14 NIRxAN SZITA ZATU728\nN14 GAL TAG ZATU728\nEN HI KU6 RAD SUHUR\nLA2 SUG5\nGA.ZATU753 GU7\nN14 N01 SUHUR\nN14 GA2xU4\n\nGU7"
-    },
-    {
-        "designation": "W 20274,089",
-        "accountType": [
-            "dairy"
-        ],
-        "withoutNumbers": "DUB DUG\nAN BA ZABALAM ZATU751\nANSZE BA SAL\nBA KI\n\nKU3\nZATU649\nAB2 KU3 ZABALAM\nGI NE SI4 SZE\nGA\nZATU648\n3N57.PIRIG AB SU\nAB2 SI U4\nA TUR3\nBU GA HI\nZATU648\nAB2 SI U4\nA TUR3\n\nKU3\nZATU649\nAB2 KU3 ZABALAM\nGI NE SI4 SZE\nBA DUG GI&GI ZATU648",
-        "withNumbers": "N01 DUB DUG\nN01 AN BA ZABALAM ZATU751\nN01 ANSZE BA SAL\nN01 BA KI\nN01\nN01 KU3\nZATU649\nN01 AB2 KU3 ZABALAM\nN01 GI NE SI4 SZE\nGA\nN01 ZATU648\nN57.PIRIG AB SU\nN01 AB2 SI U4\nN01 A TUR3\nBU GA HI\nN01 ZATU648\nN01 AB2 SI U4\nN01 A TUR3\nN01\nN01 KU3\nZATU649\nN01 AB2 KU3 ZABALAM\nN01 GI NE SI4 SZE\nN14 N01 BA DUG GI&GI ZATU648"
     },
     {
         "designation": "W 20367,01",
