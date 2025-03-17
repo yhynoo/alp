@@ -1,0 +1,9 @@
+Input Account Types:
+
+animals: 125 records
+dairy: 23 records
+textiles: 24 records
+humans: 58 records
+fields: 42 records
+fish: 22 records
+cereals: 323 records

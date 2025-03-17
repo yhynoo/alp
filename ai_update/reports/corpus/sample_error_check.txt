@@ -1,0 +1,86 @@
+Sample Error Checking:
+
+
+cereals:
+https://cdli.mpiwg-berlin.mpg.de/artifacts/4863     // no (not enough information)
+https://cdli.mpiwg-berlin.mpg.de/artifacts/2356     // unsure
+https://cdli.mpiwg-berlin.mpg.de/artifacts/2723     // yes
+https://cdli.mpiwg-berlin.mpg.de/artifacts/3163     // yes
+https://cdli.mpiwg-berlin.mpg.de/artifacts/6334     // yes
+https://cdli.mpiwg-berlin.mpg.de/artifacts/4830     // yes (mixed? includes cereals)
+https://cdli.mpiwg-berlin.mpg.de/artifacts/448702   // yes (mixed, includes beer, dairy and fish)
+https://cdli.mpiwg-berlin.mpg.de/artifacts/4332     // no (a practice text of dairy; should not be classified as economic in the first place)
+https://cdli.mpiwg-berlin.mpg.de/artifacts/5028     // no
+https://cdli.mpiwg-berlin.mpg.de/artifacts/4398     // no
+
+animals:
+https://cdli.mpiwg-berlin.mpg.de/artifacts/6102     // yes
+https://cdli.mpiwg-berlin.mpg.de/artifacts/3771     // yes
+https://cdli.mpiwg-berlin.mpg.de/artifacts/3781     // yes
+https://cdli.mpiwg-berlin.mpg.de/artifacts/3583     // yes
+https://cdli.mpiwg-berlin.mpg.de/artifacts/4906     // yes (mostly fish, but includes sheep and cattle)
+https://cdli.mpiwg-berlin.mpg.de/artifacts/5380     // yes
+https://cdli.mpiwg-berlin.mpg.de/artifacts/1387     // no (not sure what that is, but no animals are mentioned)
+https://cdli.mpiwg-berlin.mpg.de/artifacts/6197     // yes
+https://cdli.mpiwg-berlin.mpg.de/artifacts/6226     // yes
+https://cdli.mpiwg-berlin.mpg.de/artifacts/1587     // yes
+
+dairy:
+https://cdli.mpiwg-berlin.mpg.de/artifacts/3628     // yes
+https://cdli.mpiwg-berlin.mpg.de/artifacts/3072     // yes
+https://cdli.mpiwg-berlin.mpg.de/artifacts/3726     // yes
+https://cdli.mpiwg-berlin.mpg.de/artifacts/3565     // yes
+https://cdli.mpiwg-berlin.mpg.de/artifacts/3723     // yes
+https://cdli.mpiwg-berlin.mpg.de/artifacts/3769     // yes
+https://cdli.mpiwg-berlin.mpg.de/artifacts/3534     // yes
+https://cdli.mpiwg-berlin.mpg.de/artifacts/3531     // yes
+https://cdli.mpiwg-berlin.mpg.de/artifacts/3563     // yes
+https://cdli.mpiwg-berlin.mpg.de/artifacts/1160     // yes
+
+textiles:
+https://cdli.mpiwg-berlin.mpg.de/artifacts/2261     // yes
+https://cdli.mpiwg-berlin.mpg.de/artifacts/3680     // yes
+https://cdli.mpiwg-berlin.mpg.de/artifacts/3635     // yes
+https://cdli.mpiwg-berlin.mpg.de/artifacts/3996     // yes
+https://cdli.mpiwg-berlin.mpg.de/artifacts/1689     // unsure
+https://cdli.mpiwg-berlin.mpg.de/artifacts/3252     // yes
+https://cdli.mpiwg-berlin.mpg.de/artifacts/3654     // yes (mixed, contains textiles)
+https://cdli.mpiwg-berlin.mpg.de/artifacts/4599     // yes
+https://cdli.mpiwg-berlin.mpg.de/artifacts/3520     // yes (mixed, contains textiles)
+https://cdli.mpiwg-berlin.mpg.de/artifacts/3248     // yes
+
+fish:
+https://cdli.mpiwg-berlin.mpg.de/artifacts/3548     // yes
+https://cdli.mpiwg-berlin.mpg.de/artifacts/3586     // yes (includes fish)
+https://cdli.mpiwg-berlin.mpg.de/artifacts/1573     // yes (a tiny broken account, but has fish in metadata)
+https://cdli.mpiwg-berlin.mpg.de/artifacts/2202     // yes
+https://cdli.mpiwg-berlin.mpg.de/artifacts/5398     // yes
+https://cdli.mpiwg-berlin.mpg.de/artifacts/4783     // yes
+https://cdli.mpiwg-berlin.mpg.de/artifacts/4906     // yes (found above as an animal tablet; it indeed has fish too)
+https://cdli.mpiwg-berlin.mpg.de/artifacts/4372     // unsure (uncertain; the transcription is tentative)
+https://cdli.mpiwg-berlin.mpg.de/artifacts/4422     // yes
+https://cdli.mpiwg-berlin.mpg.de/artifacts/3355     // yes (mixed, includes fish)
+
+humans:
+https://cdli.mpiwg-berlin.mpg.de/artifacts/1550     // yes
+https://cdli.mpiwg-berlin.mpg.de/artifacts/4337     // unsure
+https://cdli.mpiwg-berlin.mpg.de/artifacts/6054     // yes
+https://cdli.mpiwg-berlin.mpg.de/artifacts/2379     // unsure
+https://cdli.mpiwg-berlin.mpg.de/artifacts/6036     // yes
+https://cdli.mpiwg-berlin.mpg.de/artifacts/6279     // yes
+https://cdli.mpiwg-berlin.mpg.de/artifacts/6065     // yes
+https://cdli.mpiwg-berlin.mpg.de/artifacts/325351   // yes
+https://cdli.mpiwg-berlin.mpg.de/artifacts/5436     // unsure
+https://cdli.mpiwg-berlin.mpg.de/artifacts/4292     // unsure
+
+fields:
+https://cdli.mpiwg-berlin.mpg.de/artifacts/4694     // unsure
+https://cdli.mpiwg-berlin.mpg.de/artifacts/325161   // yes
+https://cdli.mpiwg-berlin.mpg.de/artifacts/2248     // unsure
+https://cdli.mpiwg-berlin.mpg.de/artifacts/6317     // yes
+https://cdli.mpiwg-berlin.mpg.de/artifacts/2695     // yes
+https://cdli.mpiwg-berlin.mpg.de/artifacts/2387     // yes (mixed account which includes assignments of fields)
+https://cdli.mpiwg-berlin.mpg.de/artifacts/4753     // no - model confused MASZ.GAN2 with a field
+https://cdli.mpiwg-berlin.mpg.de/artifacts/2710     // unsure
+https://cdli.mpiwg-berlin.mpg.de/artifacts/1888     // unsure
+https://cdli.mpiwg-berlin.mpg.de/artifacts/6215     // yes

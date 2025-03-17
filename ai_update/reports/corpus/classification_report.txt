@@ -1,0 +1,9 @@
+Classification Report:
+
+cereals: 498 times assigned
+animals: 151 times assigned
+dairy: 68 times assigned
+textiles: 49 times assigned
+fish: 48 times assigned
+humans: 31 times assigned
+fields: 13 times assigned

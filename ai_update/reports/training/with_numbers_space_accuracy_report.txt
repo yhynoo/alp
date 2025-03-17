@@ -1,0 +1,75 @@
+Label: animals
+              precision    recall  f1-score   support
+
+           0       0.93      1.00      0.96       148
+           1       1.00      0.61      0.76        31
+
+    accuracy                           0.93       179
+   macro avg       0.96      0.81      0.86       179
+weighted avg       0.94      0.93      0.93       179
+
+
+Label: cereals
+              precision    recall  f1-score   support
+
+           0       0.89      0.97      0.93        78
+           1       0.98      0.91      0.94       101
+
+    accuracy                           0.94       179
+   macro avg       0.94      0.94      0.94       179
+weighted avg       0.94      0.94      0.94       179
+
+
+Label: dairy
+              precision    recall  f1-score   support
+
+           0       0.96      1.00      0.98       170
+           1       1.00      0.11      0.20         9
+
+    accuracy                           0.96       179
+   macro avg       0.98      0.56      0.59       179
+weighted avg       0.96      0.96      0.94       179
+
+
+Label: fields
+              precision    recall  f1-score   support
+
+           0       0.95      1.00      0.98       163
+           1       1.00      0.50      0.67        16
+
+    accuracy                           0.96       179
+   macro avg       0.98      0.75      0.82       179
+weighted avg       0.96      0.96      0.95       179
+
+
+Label: fish
+              precision    recall  f1-score   support
+
+           0       0.98      1.00      0.99       173
+           1       1.00      0.50      0.67         6
+
+    accuracy                           0.98       179
+   macro avg       0.99      0.75      0.83       179
+weighted avg       0.98      0.98      0.98       179
+
+
+Label: humans
+              precision    recall  f1-score   support
+
+           0       0.92      1.00      0.96       164
+           1       0.00      0.00      0.00        15
+
+    accuracy                           0.92       179
+   macro avg       0.46      0.50      0.48       179
+weighted avg       0.84      0.92      0.88       179
+
+
+Label: textiles
+              precision    recall  f1-score   support
+
+           0       0.97      1.00      0.99       170
+           1       1.00      0.44      0.62         9
+
+    accuracy                           0.97       179
+   macro avg       0.99      0.72      0.80       179
+weighted avg       0.97      0.97      0.97       179
