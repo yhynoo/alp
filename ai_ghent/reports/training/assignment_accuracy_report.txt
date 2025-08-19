@@ -1,0 +1,64 @@
+Label: animals
+              precision    recall  f1-score   support
+
+           0       0.89      1.00      0.94        49
+           1       1.00      0.57      0.73        14
+
+    accuracy                           0.90        63
+   macro avg       0.95      0.79      0.83        63
+weighted avg       0.92      0.90      0.89        63
+
+
+Label: cereals
+              precision    recall  f1-score   support
+
+           0       0.89      0.86      0.87        28
+           1       0.89      0.91      0.90        35
+
+    accuracy                           0.89        63
+   macro avg       0.89      0.89      0.89        63
+weighted avg       0.89      0.89      0.89        63
+
+
+Label: dairy
+              precision    recall  f1-score   support
+
+           0       0.98      1.00      0.99        61
+           1       1.00      0.50      0.67         2
+
+    accuracy                           0.98        63
+   macro avg       0.99      0.75      0.83        63
+weighted avg       0.98      0.98      0.98        63
+
+
+Label: fields
+              precision    recall  f1-score   support
+
+           0       0.90      1.00      0.95        55
+           1       1.00      0.25      0.40         8
+
+    accuracy                           0.90        63
+   macro avg       0.95      0.62      0.67        63
+weighted avg       0.91      0.90      0.88        63
+
+
+Label: fish
+              precision    recall  f1-score   support
+
+           0       0.95      1.00      0.97        58
+           1       1.00      0.40      0.57         5
+
+    accuracy                           0.95        63
+   macro avg       0.98      0.70      0.77        63
+weighted avg       0.95      0.95      0.94        63
+
+
+Label: textiles
+              precision    recall  f1-score   support
+
+           0       0.98      1.00      0.99        62
+           1       0.00      0.00      0.00         1
+
+    accuracy                           0.98        63
+   macro avg       0.49      0.50      0.50        63
+weighted avg       0.97      0.98      0.98        63

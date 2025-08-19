@@ -1,0 +1,423 @@
+[
+    {
+        "designation": "ATU 5, pl. 001, W 5233,a",
+        "link": "https://cdli.mpiwg-berlin.mpg.de/artifacts/734",
+        "accountType": [
+            "economic",
+            "inventory"
+        ],
+        "withNumbers": "2N01 1N39~a\n2N01 1N24\n2N01 1N26\n4N01 2N58\n2N01 DU6~b\n1N01 U4\n1N01 LAGAB~axSZITA~a1\n2N01 ZATU726~c\n2N01 DU8~c\n5N01 ZATU681\nDUG~a\nGAL~a SANGA~a NUN~a\n1N01 4N39~a 1N24 1N30~a DUG~a\nGAL~a SANGA~a NUN~a"
+    },
+    {
+        "designation": "ATU 5, pl. 002, W 5233,b",
+        "link": "https://cdli.mpiwg-berlin.mpg.de/artifacts/735",
+        "accountType": [
+            "economic",
+            "inventory"
+        ],
+        "withNumbers": "3N01 1N39~a\n5N01 1N24\n3N01 1N26\n3N01 2N58\n4N01 U4\n1N01 SIG2~a2\n3N01 ZATU726~c\n1N14 ZATU681\n2N01 DU6~b\n6N01 LAGAB~axSZITA~a1\nEN~a SZIM~a\nNAM2 KAB NUN~a\n2N39~a HI@g~a EN~a SZIM~a\n2N01 1N24 1N28 1N30~c SZE~a\nAN SIG MUSZ3~a"
+    },
+    {
+        "designation": "ATU 5, pl. 002, W 5233,c",
+        "link": "https://cdli.mpiwg-berlin.mpg.de/artifacts/736",
+        "accountType": [
+            "economic",
+            "inventory"
+        ],
+        "withNumbers": "1N39~a\n1N24\n2N01 1N26\n6N01 DU6~b\n2N01 2N58\n2N01 SIG2~a2\n2N01 ZATU727\n1N14\n2N14 ZATU681\n1N14 SZAxHI@g~a~b\n6N01 NAGAR~b A\nDUG~a\nEZEN~b 2N57\n4N01 2N39~a 1N24 1N26 DUG~a"
+    },
+    {
+        "designation": "ATU 5, pl. 003, W 6066,a",
+        "link": "https://cdli.mpiwg-berlin.mpg.de/artifacts/742",
+        "accountType": [
+            "economic",
+            "inventory"
+        ],
+        "withNumbers": "2N14 UDU~a\n2N14 SZITA~b1\n2N14 BA 1N57 SZITA~a1\n8N01 KU3~a\n5N34 2N14 SZITA~a1\n2N14 SZAxHI@g~a~b\n2N14 SZAxHI@g~a~a\n1N01 HI@g~a\n1N01 1N28 ZATU714\n2N01 1N28 ZATU714xHI@g~a MU\n3N39~a HI@g~a SAG\nEN~a SZE~a\nGESZTU~b"
+    },
+    {
+        "designation": "ATU 5, pl. 003, W 6066,b",
+        "link": "https://cdli.mpiwg-berlin.mpg.de/artifacts/743",
+        "accountType": [
+            "economic",
+            "inventory"
+        ],
+        "withNumbers": "9N01 UDU~a\n1N14 SZITA~b1\n1N14 BA 1N57 SZITA~a1\n8N01 KU3~a\n2N39~a 1N24 HI@g~a\n2N39~a 1N28 ZATU714\n4N39~a 1N24 1N28 ZATU714xHI@g~a MU\n1N40 HI"
+    },
+    {
+        "designation": "ATU 5, pl. 003, W 6150",
+        "link": "https://cdli.mpiwg-berlin.mpg.de/artifacts/748",
+        "accountType": [
+            "economic",
+            "inventory"
+        ],
+        "withNumbers": "1N01 UTUA~a\n3N01 NUN~b\n1N01 UD5~a\n1N01 GUKKAL~a\nZATU720\n6N01 ZATU720"
+    },
+    {
+        "designation": "ATU 5, pl. 005, W 6288",
+        "link": "https://cdli.mpiwg-berlin.mpg.de/artifacts/759",
+        "accountType": [
+            "economic",
+            "inventory"
+        ],
+        "withNumbers": "9N01 UDU~a\n1N14 SZITA~b1\n1N14 BA 1N57\nKU3~a\n1N34 2N14 TA~c\n1N24\n2N39~a 1N28 HI@g~a\n4N42~a 1N25 1N28~c\n1N24 1N28 HI@g~a\nGESZTU~b NAM2 KAB NUN~a\nAN MUSZ3~a U4"
+    },
+    {
+        "designation": "ATU 5, pl. 005, W 6375,a",
+        "link": "https://cdli.mpiwg-berlin.mpg.de/artifacts/761",
+        "accountType": [
+            "economic",
+            "inventory"
+        ],
+        "withNumbers": "2N34 U4 AMAR GAR3\n2N14 ZATU694~d@t\n4N14 NA2~a\n6N01\n4N34 GUL\n1N14\n3N14\n4N14\n2N34 NU11"
+    },
+    {
+        "designation": "ATU 5, pl. 006, W 6375,b",
+        "link": "https://cdli.mpiwg-berlin.mpg.de/artifacts/762",
+        "accountType": [
+            "economic",
+            "inventory"
+        ],
+        "withNumbers": "1N34\n2N01 NA~b\n3N14 GAR3\n2N01 ZATU694~d\nDUG~c SI"
+    },
+    {
+        "designation": "ATU 5, pl. 006, W 6375,c",
+        "link": "https://cdli.mpiwg-berlin.mpg.de/artifacts/763",
+        "accountType": [
+            "economic",
+            "inventory"
+        ],
+        "withNumbers": "3N34 GAR3\n1N14 5N01 ZATU694~d@t\n1N14 5N01 ZATU694~b\n7N01 NA~c\n1N14 5N01 LAGAB~axDU6~b\n2N14 6N01 DIB\n4N01 PIRIG~a3\n2N01 NU11\nGA2~a1 ESZDA GA2~a1\n1N34 GAR3\n2N01 NA~c\n1N01"
+    },
+    {
+        "designation": "ATU 5, pl. 006, W 6375,d",
+        "link": "https://cdli.mpiwg-berlin.mpg.de/artifacts/764",
+        "accountType": [
+            "economic",
+            "inventory"
+        ],
+        "withNumbers": "9N01 ZATU694~d\n2N01\n5N14 GAR3"
+    },
+    {
+        "designation": "ATU 5, pl. 007, W 6375,f+",
+        "link": "https://cdli.mpiwg-berlin.mpg.de/artifacts/766",
+        "accountType": [
+            "economic",
+            "inventory"
+        ],
+        "withNumbers": "2N34 GAR3\n4N34 GUL\n1N34 ZATU694~a\n7N01 NA~b\nSI4~a"
+    },
+    {
+        "designation": "ATU 5, pl. 007, W 6375,g",
+        "link": "https://cdli.mpiwg-berlin.mpg.de/artifacts/767",
+        "accountType": [
+            "economic",
+            "inventory"
+        ],
+        "withNumbers": "5N14 GAR3\n3N01 SZA3~a1\n2N14 GAR3\n1N01 NA~c"
+    },
+    {
+        "designation": "ATU 5, pl. 007, W 6426,a",
+        "link": "https://cdli.mpiwg-berlin.mpg.de/artifacts/768",
+        "accountType": [
+            "economic",
+            "inventory"
+        ],
+        "withNumbers": "1N48 1N34 3N14 NUNUZ~a2\n5N34 GAR3\n4N14 ZATU694~d\n8N01 NA~b\nUR~a@g"
+    },
+    {
+        "designation": "ATU 5, pl. 008, W 6502,a",
+        "link": "https://cdli.mpiwg-berlin.mpg.de/artifacts/770",
+        "accountType": [
+            "economic",
+            "inventory"
+        ],
+        "withNumbers": "2N34 GAR3\n3N14 4N01 ZATU694~d\n1N01 PIRIG~a1\n1N34 GAR3\n3N01 ZATU694~d\n2N01 ZATU694~b"
+    },
+    {
+        "designation": "ATU 5, pl. 008, W 6502,c",
+        "link": "https://cdli.mpiwg-berlin.mpg.de/artifacts/772",
+        "accountType": [
+            "economic",
+            "inventory"
+        ],
+        "withNumbers": "1N48 1N34 NUNUZ~a2\n2N34 GAR3\n4N14 ZATU694~d\n2N34\nTUM~a"
+    },
+    {
+        "designation": "ATU 5, pl. 008, W 6502,f",
+        "link": "https://cdli.mpiwg-berlin.mpg.de/artifacts/775",
+        "accountType": [
+            "economic",
+            "inventory"
+        ],
+        "withNumbers": "6N01 ZATU694~d\n5N01 ZATU694~b\n1N01\n4N14 GAR3\n2N01 SZA3~a1"
+    },
+    {
+        "designation": "ATU 5, pl. 009, W 6502,g",
+        "link": "https://cdli.mpiwg-berlin.mpg.de/artifacts/776",
+        "accountType": [
+            "economic",
+            "inventory"
+        ],
+        "withNumbers": "2N34 GAR3\n2N14 ZATU694~d\nMUSZEN.UR3~b2"
+    },
+    {
+        "designation": "ATU 5, pl. 009, W 6573,a",
+        "link": "https://cdli.mpiwg-berlin.mpg.de/artifacts/783",
+        "accountType": [
+            "economic",
+            "inventory"
+        ],
+        "withNumbers": "AB2\n1N14 BA SZITA~a1\n8N01 KU3~a\n2N34 AB2 SZITA~a1\n1N34 4N14 SZITA~a1 U8\n2N14 SZAxHI@g~a~b\n4N39~a HI@g~a\n3N39~a 1N24 1N28 HI\n1N01 2N39~a 1N24 1N28\n2N39~a\nIDIGNA AN MEN~a\nGESZTU~b"
+    },
+    {
+        "designation": "ATU 5, pl. 010, W 6604",
+        "link": "https://cdli.mpiwg-berlin.mpg.de/artifacts/788",
+        "accountType": [
+            "economic",
+            "inventory"
+        ],
+        "withNumbers": "3N01 DUG~b\n1N01 IR~a\n4N01 DUG~b\n2N01 GAN~b\n1N01 IR~a\n2N01 MA\n1N01 DUG~b\n1N01 IR~a\n2N01 MA\n2N01 ZATU662\n1N01 ZATU662\n2N01 1N08 HASZHUR"
+    },
+    {
+        "designation": "ATU 5, pl. 010, W 6612,a",
+        "link": "https://cdli.mpiwg-berlin.mpg.de/artifacts/790",
+        "accountType": [
+            "economic",
+            "inventory"
+        ],
+        "withNumbers": "2N34 GAR3\n2N14 ZATU694~d\n5N01 NA~b\n2N34 GUL\nGI KA~a"
+    },
+    {
+        "designation": "ATU 5, pl. 011, W 6612,b",
+        "link": "https://cdli.mpiwg-berlin.mpg.de/artifacts/791",
+        "accountType": [
+            "economic",
+            "inventory"
+        ],
+        "withNumbers": "4N14 GAR3\n7N01 ZATU694~b AZU\n1N14 2N01 NA~b\n3N14 GAR3\n6N01 ZATU694~b"
+    },
+    {
+        "designation": "ATU 5, pl. 022, W 6940,b",
+        "link": "https://cdli.mpiwg-berlin.mpg.de/artifacts/921",
+        "accountType": [
+            "economic",
+            "inventory"
+        ],
+        "withNumbers": "2N01 ZATU659x1N14\n1N08 1N39~b\n1N01 1N24\n3N01"
+    },
+    {
+        "designation": "ATU 5, pl. 023, W 6984,b",
+        "link": "https://cdli.mpiwg-berlin.mpg.de/artifacts/926",
+        "accountType": [
+            "economic",
+            "inventory"
+        ],
+        "withNumbers": "1N34 5N14 EN~a NUN~a GAR3\n1N14 2N01 ZATU694~d\n2N14 4N01 ZATU694~b\n4N01 SZA3~a1\n5N14 SAG\n6N01 ZATU694~d\n5N01 ZATU694~b\n2N01 SZA3~a1"
+    },
+    {
+        "designation": "ATU 5, pl. 030, W 7343,1",
+        "link": "https://cdli.mpiwg-berlin.mpg.de/artifacts/985",
+        "accountType": [
+            "economic",
+            "inventory"
+        ],
+        "withNumbers": "UDU~a\n1N14 SZITA~b1\n1N14 1N57 BA SZITA~a1\n8N01 KU3~a\nSZITA~a1\nSZAxHI@g~a~b\n1N39~a\nAMA~a PAP~a SZE~a 1N58@t GESZTU~b"
+    },
+    {
+        "designation": "ATU 5, pl. 031, W 7717",
+        "link": "https://cdli.mpiwg-berlin.mpg.de/artifacts/989",
+        "accountType": [
+            "economic",
+            "inventory"
+        ],
+        "withNumbers": "5N14 9N01 GAR\n1N14 2N01 SILA3~a\n7N01 DUG~a\nNUN~a ZATU762~a BA"
+    },
+    {
+        "designation": "ATU 5, pl. 042, W 9169,b",
+        "link": "https://cdli.mpiwg-berlin.mpg.de/artifacts/1079",
+        "accountType": [
+            "economic",
+            "inventory",
+            "cereals"
+        ],
+        "withNumbers": "2N01 GAR@g~a 1N39~b\n4N01 GAR@g~a 1N24\n3N01 GAR 1N24\n1N01 GAR@g~a\n3N01 ZATU726~c\n3N01 SIG2~a3\n3N01"
+    },
+    {
+        "designation": "ATU 5, pl. 042, W 9169,c",
+        "link": "https://cdli.mpiwg-berlin.mpg.de/artifacts/1080",
+        "accountType": [
+            "economic",
+            "inventory",
+            "cereals"
+        ],
+        "withNumbers": "KUR~b\n1N01 NINDA2\n1N39~b\n1N14 1N24\n1N26\n2N14 1N28 GI6\n2N14 1N28 GAR@g~a\n2N14 1N29~a\n2N14 1N28 SIG2~a2\n2N14 1N26 DU8~c\n2N14 ZATU726~d\n2N01 DUG~b\n2N01 KASZ~b\nMUSZ3~a NUN~a\n1N51 4N14 1N39~b 1N26 1N28 1N24 NUN~a MUSZ3~a\n2N20 2N05 2N42~b 1N25 1N28~c"
+    },
+    {
+        "designation": "ATU 5, pl. 048, W 9311,b",
+        "link": "https://cdli.mpiwg-berlin.mpg.de/artifacts/1157",
+        "accountType": [
+            "economic",
+            "animals",
+            "inventory"
+        ],
+        "withNumbers": "2N14 7N01 UDUNITA~a\n1N14 2N01 UTUA~a\nDI"
+    },
+    {
+        "designation": "ATU 5, pl. 048, W 9311,c",
+        "link": "https://cdli.mpiwg-berlin.mpg.de/artifacts/1158",
+        "accountType": [
+            "economic",
+            "cereals",
+            "inventory"
+        ],
+        "withNumbers": "1N14 U4 DUG~bxHI@g~a\n1N14 4N01 U4 KASZ~b\n1N14 6N01 DUG~bxHI@g~a MUSZEN\n1N14 KASZ~b MUSZEN\n1N14 GI4~b DUG~bxHI@g~a\n1N14 GI4~b KASZ~b BU~a+DU6~a\n3N14 6N01 DUG~bxHI@g~a\n3N14 4N01 KASZ~b"
+    },
+    {
+        "designation": "ATU 5, pl. 050, W 9312,b",
+        "link": "https://cdli.mpiwg-berlin.mpg.de/artifacts/1177",
+        "accountType": [
+            "economic",
+            "animals",
+            "inventory"
+        ],
+        "withNumbers": "1N01 NUN~b\n1N01 GUKKAL~a\n1N01 UTUA~b BA\n1N01 GUKKAL~a\n3N01 UD5~c GA~a\n1N01 SZU\n1N14 3N01"
+    },
+    {
+        "designation": "ATU 5, pl. 055, W 9335,s",
+        "link": "https://cdli.mpiwg-berlin.mpg.de/artifacts/1221",
+        "accountType": [
+            "economic",
+            "animals",
+            "inventory"
+        ],
+        "withNumbers": "6N01 UMBIN~a GUKKAL~a\n6N01\n2N01 ZATU720 UTUA~a\n2N01 ZATU720 UD5~a\n1N01"
+    },
+    {
+        "designation": "ATU 5, pl. 057, W 9393,e",
+        "link": "https://cdli.mpiwg-berlin.mpg.de/artifacts/1230",
+        "accountType": [
+            "economic",
+            "animals",
+            "inventory"
+        ],
+        "withNumbers": "2N01 NI~a\n1N14 4N01 DUG~b\n8N01 SZU2\n5N01 1N57\n3N34 1N14 SZE3\n1N20 5N05\n1N18 4N03\n5N52 1N38\nUDU~a UD5~a"
+    },
+    {
+        "designation": "ATU 5, pl. 058, W 9578,c",
+        "link": "https://cdli.mpiwg-berlin.mpg.de/artifacts/1235",
+        "accountType": [
+            "economic",
+            "animals",
+            "inventory"
+        ],
+        "withNumbers": "2N14 8N01 UTUA~a\n1N14 4N01 U8\n3N34 2N14 3N01 MASZ\n2N34 4N14 1N01 UD5~a\nU2~b A\n1N34 5N01 GA2~b UTUA~b\n1N34 1N14 4N01 U8 GI6\n7N01 U8\n1N14 UDUNITA~a\n5N01 UD5~b"
+    },
+    {
+        "designation": "ATU 5, pl. 059, W 9578,h",
+        "link": "https://cdli.mpiwg-berlin.mpg.de/artifacts/1240",
+        "accountType": [
+            "economic",
+            "textiles",
+            "inventory"
+        ],
+        "withNumbers": "5N34 5N01 SZU2\n1N14 ZATU644~a\n1N14 ZATU753\n1N14 ME~a NESAG2~a\n1N01 ZATU662x1N14\n1N01 ZATU662\n4N14 2N01 SZU2\n4N14 2N01 GADA~a\n2N01 ME~a\nANSZE~c EN~b@t GIR3~a"
+    },
+    {
+        "designation": "ATU 5, pl. 060, W 9578,l",
+        "link": "https://cdli.mpiwg-berlin.mpg.de/artifacts/1243",
+        "accountType": [
+            "economic",
+            "animals",
+            "inventory"
+        ],
+        "withNumbers": "6N34 4N14 8N01 GI6 U8\n2N34 1N14 3N01 UD5~a GI6\n8N01 UDUNITA~c GI6\n2N14 1N01 SILA4~c\nZATU693 NUN~a\n9N34 3N14 NUN~a ZATU693 U8 GI6 UD5~a"
+    },
+    {
+        "designation": "ATU 5, pl. 063, W 9579,s",
+        "link": "https://cdli.mpiwg-berlin.mpg.de/artifacts/1266",
+        "accountType": [
+            "economic",
+            "animals",
+            "inventory"
+        ],
+        "withNumbers": "2N14 7N01 UDUNITA~a ZATU680~b\n3N14 9N01 MUSZEN EN~b\n5N01 A\n5N01 USZ~a AB2\n1N14 8N01 U8\n5N01 UD5~a\n2N14 GIR3~a\n1N34 3N14 1N01 U8\n6N01 GI6 UD5~a\n5N14 8N01"
+    },
+    {
+        "designation": "ATU 5, pl. 064, W 9579,v",
+        "link": "https://cdli.mpiwg-berlin.mpg.de/artifacts/1269",
+        "accountType": [
+            "economic",
+            "animals",
+            "inventory"
+        ],
+        "withNumbers": "3N01 UDUNITA~a\n2N01 GUKKAL~a\n1N01 UTUA~a SANGA~a ERIN\n3N01 ESZGAR\n2N01 UD5~a\n1N01 U8\n1N14 2N01"
+    },
+    {
+        "designation": "BagM 22, 143, W 24188",
+        "link": "https://cdli.mpiwg-berlin.mpg.de/artifacts/4922",
+        "accountType": [
+            "economic",
+            "inventory",
+            "cereals"
+        ],
+        "withNumbers": "1N01\n4N01 SZITA~a1 UDU~a\n2N01 GA2~a1xU4 SZITA~a1\n1N01 ZATU659\n1N08 1N24\n1N08 SIG2~a1\n1N08 DU8~c\n1N01 1N08 GAR\n2N01 SZITA@g~ax1N06\n1N01 SZA\n1N14 6N01 1N57 SZITA~a1\n3N01 GAL~a AMA~a\n2N14 5N01 SZA\n3N01 GU4 UMBIN~a\n2N01 UDU~a UMBIN~a\nKU6~a SU~a GIBIL"
+    },
+    {
+        "designation": "MSVO 3, 02",
+        "link": "https://cdli.mpiwg-berlin.mpg.de/artifacts/5313",
+        "accountType": [
+            "economic",
+            "cereals",
+            "inventory"
+        ],
+        "withNumbers": "1N01 1N24\n1N05\n1N14 1N26\n3N42~a 1N27\n2N14 1N28\n1N05\n3N14 1N29~a\n1N05 1N42~a\n1N14 SIG2~a2\n1N14 ZATU726~d\n4N42~a\n1N34 1N30~a\n2N05\n5N01 SZEN~b GAL~a\n1N05 2N42~a 1N25\n1N03 2N40 1N24~a\n3N14 SZEN~b TUR\n3N05 3N42~a\n3N03 3N40\n2N34 SZEN~c@t\n1N20 1N05 1N42~a\n1N18 1N03 1N40\n3N14 SZA@g\n3N14 DU8~c@g\n1N05 3N42~a\n4N05 MU ZATU714xHI@g~a\nZATU651xGAR\n1N54 5N51 GAR\n1N47 2N20\n3N14 SILA3~bxGUG2\n1N05 1N42~a\n2N34 GAN~c\n1N34 KASZ~a\n1N20 1N05 1N42~a\n3N03 3N40\n2N34 SZA@g\n1N34 DU8~c@g\n5N05 1N42~a"
+    },
+    {
+        "designation": "MSVO 3, 04",
+        "link": "https://cdli.mpiwg-berlin.mpg.de/artifacts/5315",
+        "accountType": [
+            "economic",
+            "inventory"
+        ],
+        "withNumbers": "2N40 1N24~a\n1N40 1N24~a\n9N01 SZEN~c@t\n4N01 KASZ~a\nMUSZEN AN MUSZ3~a"
+    },
+    {
+        "designation": "MSVO 3, 06",
+        "link": "https://cdli.mpiwg-berlin.mpg.de/artifacts/5317",
+        "accountType": [
+            "economic",
+            "cereals",
+            "inventory"
+        ],
+        "withNumbers": "4N01 SZEN~b GAL~a\n2N34 SZEN~c@t\n2N57 KI ZATU651xEN~a\n5N01 SZEN~b GAL~a\n1N14 SZEN~b TUR\n2N14 SZEN~c@t\nGI KISAL~b1\n2N01 SZEN~b GAL~a\n1N34 SZEN~c@t\nGI AB~a\n1N34 SZEN~c@t GAL~a SANGA~a SANGA~a\nEN~a 1N58 SZIM~a\nU4.1N08 DU KAR2~a NUN~a\nU4.1N08 U4 KI\nU4.1N08 EN~a KASKAL DU GA2~a2xGU4.SZE3\nU4.1N08 SAG GA2~a2xGU4.SZE3\nU4.5N08 MU TAR~a SZU"
+    },
+    {
+        "designation": "MSVO 3, 07",
+        "link": "https://cdli.mpiwg-berlin.mpg.de/artifacts/5318",
+        "accountType": [
+            "economic",
+            "inventory"
+        ],
+        "withNumbers": "DUG~a\n3N01 SZEN~b GAL~a\n1N14 5N01 SZEN~b TUR\nAB~a GI"
+    },
+    {
+        "designation": "MSVO 3, 09",
+        "link": "https://cdli.mpiwg-berlin.mpg.de/artifacts/5320",
+        "accountType": [
+            "economic",
+            "inventory"
+        ],
+        "withNumbers": "2N01 ZATU710\n5N01 SZEN~b TUR\n1N39~a 1N24 HI\n1N39~a HI@g~a\n2N40 1N24~a\nSI4~f ERIN SZAM2"
+    },
+    {
+        "designation": "MSVO 3, 11",
+        "link": "https://cdli.mpiwg-berlin.mpg.de/artifacts/5322",
+        "accountType": [
+            "economic",
+            "cereals",
+            "inventory"
+        ],
+        "withNumbers": "5N01 GAL~a SZEN~b\n3N14 5N01 SZEN~b TUR\n1N34 SZEN~c@t\n5N01 GAL~a SZEN~b\n3N14 5N01 SZEN~b TUR\n1N34 SZEN~c@t\n3N01 GAL~a SZEN~b\n2N14 SZEN~b TUR\n3N14 SZEN~c@t\nU4.3N08 GISZIMMAR~b1 UNUG~a SI U4x1N58@t\n2N01 GAL~a SZEN~b\n1N14 SZEN~b TUR\nTUR3~a\n1N01 GAL~a SZEN~b\n5N01 SZEN~b TUR\nNAM2 KAB\n5N01 GAL~a SZEN~b\n1N14 SZEN~b TUR\n2N14 SZEN~c@t\nGIx1N58@t KISAL~b1\n5N01 GAL~a SZEN~b\n3N14 5N01 SZEN~b TUR\n1N34 SZEN~c@t\nGIx1N58@t AB~a\n1N34 SZEN~c@t GAL~a SANGA~a SANGA~a\n1N14 SZEN~b TUR KU3~a APIN~a\n1N34 2N14 8N01 SZEN~c@t U4.2N08 AN MUSZ3~a SIG NAGAR~a EZEN~b\n1N14 DUG~a EZEN~b NAGAR~a AN SIG MUSZ3~a U4.2N08\n7N20 5N05 1N42~a 1N25\n9N18 2N03 2N40 1N24~a\n2N14 1N01 SZEN~b GAL~a\n1N20 1N42~a 1N25\n1N18 1N40 1N24~a\n2N34 4N14 SZEN~b TUR\n3N20 1N05 1N42~a\n3N18 1N03 1N40\n6N34 1N14 8N01 SZEN~c@t\n3N20 1N05 2N42~a\n4N18 5N03 2N40\n1N14 DUG~a\n2N05 2N42~a 1N57 SZE~a\n1N03 3N40\nKU~b1 SZIM~a"
+    }
+]
