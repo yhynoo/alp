@@ -8,12 +8,15 @@ from sklearn.metrics import classification_report
 from sklearn.preprocessing import MultiLabelBinarizer
 import joblib
 import numpy as np
+import random
 import warnings
 from itertools import combinations
 
 warnings.filterwarnings("ignore")
 
+# -----------------------------
 # Load dataset
+# -----------------------------
 script_dir = os.path.dirname(os.path.abspath(__file__))
 with open("data/trainingData_use_less_cereals.json") as f:
     data = json.load(f)
@@ -36,14 +39,15 @@ df = df.dropna(subset=["type_label"])
 # Split by type
 type_groups = df.groupby("type_label")
 
+# -----------------------------
+# Tokenizer: unigrams + unordered bigrams per line
+# -----------------------------
 def cooccurrence_tokenizer(text):
     tokens = []
     for line in text.split("\n"):
         line_tokens = line.strip().split()
-        # unigrams
-        tokens.extend(line_tokens)
-        # unordered bigrams (all pairs within the line)
-        tokens.extend([f"{a}_{b}" for a, b in combinations(line_tokens, 2)])
+        tokens.extend(line_tokens)  # unigrams
+        tokens.extend([f"{a}_{b}" for a, b in combinations(line_tokens, 2)])  # unordered bigrams
     return tokens
 
 def vectorize_texts(texts):
@@ -51,7 +55,9 @@ def vectorize_texts(texts):
     X = vectorizer.fit_transform(texts)
     return vectorizer, X
 
-# Function to get top features
+# -----------------------------
+# Get top features
+# -----------------------------
 def get_top_features(vectorizer, svms, mlb, n=10):
     feature_names = np.array(vectorizer.get_feature_names_out())
     top_features = {}
@@ -65,7 +71,9 @@ def get_top_features(vectorizer, svms, mlb, n=10):
         }
     return top_features
 
+# -----------------------------
 # Save features to markdown
+# -----------------------------
 def save_to_markdown(feature_importance, model_key):
     feature_importance_dir = "analysis"
     os.makedirs(feature_importance_dir, exist_ok=True)
@@ -82,7 +90,9 @@ def save_to_markdown(feature_importance, model_key):
                 f.write(f"- **{feat}**: {coef:.2f}\n")
             f.write("\n---\n\n")
 
+# -----------------------------
 # Train models for each type
+# -----------------------------
 for type_label, group_df in type_groups:
     print(f"\n=== Training for type: {type_label} ===")
     
@@ -98,15 +108,18 @@ for type_label, group_df in type_groups:
         print(f"No rows with other labels for type {type_label}, skipping...")
         continue
     
-    # Vectorize text
+    # Vectorize
     vectorizer, X = vectorize_texts(texts)
     mlb = MultiLabelBinarizer()
     y = mlb.fit_transform(labels_list)
     
-    # Train-test split
-    X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.3, random_state=42)
+    # Train-test split (keep indices to recover text samples)
+    indices = np.arange(len(texts))
+    X_train, X_test, y_train, y_test, idx_train, idx_test = train_test_split(
+        X, y, indices, test_size=0.3, random_state=42
+    )
     
-    # Train SVMs for each label
+    # Train SVMs
     svms = []
     for i in range(y_train.shape[1]):
         svm = SVC(kernel='linear', probability=True)
@@ -136,4 +149,31 @@ for type_label, group_df in type_groups:
     feature_importance = get_top_features(vectorizer, svms, mlb)
     save_to_markdown(feature_importance, model_key)
     
-    print(f"Saved model, reports, and features for {model_key}")
+    # -----------------------------
+    # Save 25 random test examples with certainty
+    # -----------------------------
+    num_examples = min(25, X_test.shape[0])
+    sample_indices = random.sample(range(X_test.shape[0]), num_examples)
+    examples_path = os.path.join("reports/training", f"{model_key}_sample_predictions.md")
+
+    with open(examples_path, "w", encoding="utf-8") as f:
+        f.write("# Sample Predictions with Certainty\n\n")
+        for i, idx in enumerate(sample_indices, 1):
+            text_sample = texts[idx_test[idx]]
+            true_labels = labels_list[idx_test[idx]]
+
+            pred_labels = []
+            pred_certainty = []
+            for j, svm in enumerate(svms):
+                prob = svm.predict_proba(X_test[idx])[0][1]  # probability of positive class
+                if prob >= 0.5:  # threshold
+                    pred_labels.append(mlb.classes_[j])
+                    pred_certainty.append(round(prob, 2))
+
+            f.write(f"## Example {i}\n")
+            f.write(f"**Text:**\n```\n{text_sample}\n```\n")
+            f.write(f"**True Labels:** {true_labels}\n")
+            f.write(f"**Predicted Labels:** {pred_labels}\n")
+            f.write(f"**Certainty:** {pred_certainty}\n\n")
+
+    print(f"Saved model, reports, features, and sample predictions for {model_key}")

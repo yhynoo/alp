@@ -631,7 +631,7 @@
             "transliterationClean": " ... , ... X ZATU708 ... \n ... , ... X \n 1N01 , X \n 1N01 , X \n 1N01 , MAR~a \n 1N01 , SAG \n ... , ... ",
             "compositeId": 0,
             "accountType": [
-                "economic"
+                "economic", "assignment"
             ],
             "features": []
         },
@@ -648,7 +648,7 @@
             "transliterationClean": " , ... \n , ... \n , ... \n , NUN~a ... \n , A SANGA~a ... \n , X X EN~a E2~a \n , ME~a KAB \n , KISZ \n , ... ",
             "compositeId": 0,
             "accountType": [
-                "economic"
+                "economic", "assignment"
             ],
             "features": []
         },
@@ -699,7 +699,7 @@
             "transliterationClean": " ... , ... \n ... , ... \n ... 1N01 , X ... \n ... 1N01 , X ... \n ... , NI2 X ... \n ... , ... \n ... , ... \n 1N14 2N01 , AMAR AM~a \n 1N01 , EN~a ZATU752 \n 1N01 , URI5 SAL \n 3N01 , ... \n ... , ... \n 1N14 1N01 , EN~a ... \n 1N01 , ... \n 1N01 , X X ... \n ... , ... \n ... , ... \n 1N01 ... , ... ",
             "compositeId": 0,
             "accountType": [
-                "economic"
+                "economic", "assignment"
             ],
             "features": []
         },
@@ -767,7 +767,7 @@
             "transliterationClean": " ... , X X ... \n ... 2N14 , SAGxGESZTU~a \n 2N14 , URUDU~a ERIM~a \n ... 4N01 , ZATU764 ... ",
             "compositeId": 0,
             "accountType": [
-                "economic"
+                "economic", "assignment"
             ],
             "features": []
         },
@@ -784,7 +784,7 @@
             "transliterationClean": " ... , ... \n ... , X ... \n ... 1N01 , ... SZUM \n 3N01 , BUR~b ZATU736~a \n 2N01 , X \n ... 1N01 , X ... \n 1N01 , SILA3~a GUG2 \n 4N01 , LU2 \n 4N01 , ... \n 3N01 , ZATU726~a \n ... 1N01 2N08 , ZATU734 \n 9N01 , X \n ... , ... \n ... , X ... ",
             "compositeId": 0,
             "accountType": [
-                "economic"
+                "economic", "assignment"
             ],
             "features": []
         },
@@ -835,7 +835,7 @@
             "transliterationClean": " 2N01 , 1N39~a \n 2N01 , 1N24 \n 2N01 , 1N26 \n 4N01 , 2N58 \n 2N01 , DU6~b \n 1N01 , U4 \n 1N01 , LAGAB~axSZITA~a1 \n 2N01 , ZATU726~c \n 2N01 , DU8~c \n 5N01 , ZATU681 \n , DUG~a \n , GAL~a SANGA~a NUN~a \n 1N01 4N39~a 1N24 1N30~a , DUG~a \n , GAL~a SANGA~a NUN~a ",
             "compositeId": 0,
             "accountType": [
-                "economic"
+                "economic", "inventory"
             ],
             "features": []
         },
@@ -852,7 +852,7 @@
             "transliterationClean": " 3N01 , 1N39~a \n 5N01 , 1N24 \n 3N01 , 1N26 \n 3N01 , 2N58 \n 4N01 , U4 \n 1N01 , SIG2~a2 \n 3N01 , ZATU726~c \n 1N14 , ZATU681 \n 2N01 , DU6~b \n 6N01 , LAGAB~axSZITA~a1 \n , EN~a SZIM~a \n , NAM2 KAB NUN~a \n 2N39~a , HI@g~a EN~a SZIM~a \n 2N01 1N24 1N28 1N30~c , SZE~a \n , AN SIG MUSZ3~a ",
             "compositeId": 0,
             "accountType": [
-                "economic"
+                "economic", "inventory"
             ],
             "features": []
         },
@@ -869,7 +869,7 @@
             "transliterationClean": " ... , 1N39~a \n ... , 1N24 \n 2N01 ... , 1N26 \n 6N01 , DU6~b \n 2N01 , 2N58 \n 2N01 , SIG2~a2 \n 2N01 , ZATU727 \n 1N14 , X ... \n 2N14 , ZATU681 \n 1N14 , SZAxHI@g~a~b \n 6N01 , NAGAR~b A \n , DUG~a \n , EZEN~b 2N57 \n 4N01 2N39~a 1N24 1N26 , DUG~a \n , ... ",
             "compositeId": 0,
             "accountType": [
-                "economic"
+                "economic", "inventory"
             ],
             "features": []
         },
@@ -886,7 +886,7 @@
             "transliterationClean": " ... 1N01 , ... BA SZITA~a1 \n 1N14 , AN HI SZITA~a1 \n 1N14 , SIG7 SZITA~a1 \n 5N01 , SZITA~a1 BU~a TUR ",
             "compositeId": 0,
             "accountType": [
-                "economic"
+                "economic", "assignment"
             ],
             "features": []
         },
@@ -971,7 +971,7 @@
             "transliterationClean": " 2N14 , UDU~a \n 2N14 , SZITA~b1 \n 2N14 , BA 1N57 SZITA~a1 \n 8N01 , KU3~a \n 5N34 2N14 , SZITA~a1 \n 2N14 , SZAxHI@g~a~b \n 2N14 , SZAxHI@g~a~a \n 1N01 , HI@g~a \n 1N01 1N28 , ZATU714 \n 2N01 1N28 , ZATU714xHI@g~a MU \n 3N39~a , HI@g~a SAG \n , EN~a SZE~a ... \n , GESZTU~b ",
             "compositeId": 0,
             "accountType": [
-                "economic"
+                "economic", "inventory"
             ],
             "features": []
         },
@@ -988,7 +988,7 @@
             "transliterationClean": " 9N01 , UDU~a \n 1N14 , SZITA~b1 \n 1N14 , BA 1N57 SZITA~a1 \n 8N01 , KU3~a \n 2N39~a 1N24 , HI@g~a \n 2N39~a 1N28 , ZATU714 \n 4N39~a 1N24 1N28 , ... ZATU714xHI@g~a MU \n 1N40 , HI ... ",
             "compositeId": 0,
             "accountType": [
-                "economic"
+                "economic", "inventory"
             ],
             "features": []
         },
@@ -1005,7 +1005,7 @@
             "transliterationClean": " 1N14 , KASZ~b GAR3 PIRIG~a1 MASZ ISZ~c ",
             "compositeId": 0,
             "accountType": [
-                "economic"
+                "economic", "single-entry"
             ],
             "features": []
         },
@@ -1073,7 +1073,7 @@
             "transliterationClean": " 1N01 , UTUA~a \n 3N01 , NUN~b \n 1N01 , UD5~a \n 1N01 , GUKKAL~a \n , ZATU720 \n 6N01 , ZATU720 ",
             "compositeId": 0,
             "accountType": [
-                "economic"
+                "economic", "inventory"
             ],
             "features": []
         },
@@ -1090,7 +1090,7 @@
             "transliterationClean": " 4N14 4N01 , KAK~a ",
             "compositeId": 0,
             "accountType": [
-                "economic"
+                "economic", "single-entry"
             ],
             "features": []
         },
@@ -1209,7 +1209,7 @@
             "transliterationClean": " 3N14 ... , ... \n 1N01 ... , ... \n 4N01 ... , ... ",
             "compositeId": 0,
             "accountType": [
-                "economic"
+                "economic", "single-entry"
             ],
             "features": []
         },
@@ -1226,7 +1226,7 @@
             "transliterationClean": " 1N48 5N34 7N01 , LAGAR~a PIRIG~a1 ",
             "compositeId": 0,
             "accountType": [
-                "economic"
+                "economic", "single-entry"
             ],
             "features": []
         },
@@ -1243,7 +1243,7 @@
             "transliterationClean": " 2N01 , LAGAB~a SI4~d TE ",
             "compositeId": 0,
             "accountType": [
-                "economic"
+                "economic", "single-entry"
             ],
             "features": []
         },
@@ -1260,7 +1260,7 @@
             "transliterationClean": " 9N01 , UDU~a \n 1N14 , SZITA~b1 \n 1N14 , BA 1N57 ... \n ... , KU3~a \n 1N34 2N14 , TA~c \n ... , ... \n ... 1N24 , ... \n 2N39~a 1N28 , ... HI@g~a \n 4N42~a 1N25 1N28~c , ... \n 1N24 1N28 , HI@g~a \n , GESZTU~b NAM2 KAB NUN~a \n , AN MUSZ3~a U4 ",
             "compositeId": 0,
             "accountType": [
-                "economic"
+                "economic", "inventory"
             ],
             "features": []
         },
@@ -1311,7 +1311,7 @@
             "transliterationClean": " 1N34 ... , X ... \n ... , ... \n 2N01 , NA~b \n ... , ... \n 3N14 , GAR3 \n 2N01 , ZATU694~d \n ... , DUG~c SI ... ",
             "compositeId": 0,
             "accountType": [
-                "economic"
+                "economic", "inventory"
             ],
             "features": []
         },
@@ -1328,7 +1328,7 @@
             "transliterationClean": " 3N34 , GAR3 \n 1N14 5N01 , ZATU694~d@t \n 1N14 5N01 , ZATU694~b \n 7N01 , NA~c \n 1N14 5N01 , LAGAB~axDU6~b \n 2N14 6N01 , DIB \n 4N01 , PIRIG~a3 \n 2N01 , NU11 \n , GA2~a1 ESZDA GA2~a1 \n 1N34 , GAR3 \n 2N01 , NA~c ... \n 1N01 , ... ",
             "compositeId": 0,
             "accountType": [
-                "economic"
+                "economic", "inventory"
             ],
             "features": []
         },
@@ -1345,7 +1345,7 @@
             "transliterationClean": " 9N01 , ZATU694~d \n 2N01 , ... \n 5N14 , GAR3 \n ... , ... ",
             "compositeId": 0,
             "accountType": [
-                "economic"
+                "economic", "inventory"
             ],
             "features": []
         },
@@ -1379,7 +1379,7 @@
             "transliterationClean": " 2N34 , GAR3 \n 4N34 , GUL \n 1N34 , ZATU694~a \n 7N01 , NA~b \n , SI4~a ... ",
             "compositeId": 0,
             "accountType": [
-                "economic"
+                "economic", "inventory"
             ],
             "features": []
         },
@@ -1396,7 +1396,7 @@
             "transliterationClean": " 5N14 , GAR3 \n 3N01 ... , SZA3~a1 ... \n 2N14 , GAR3 \n 1N01 , NA~c ",
             "compositeId": 0,
             "accountType": [
-                "economic"
+                "economic", "inventory"
             ],
             "features": []
         },
@@ -1447,7 +1447,7 @@
             "transliterationClean": " 2N34 , GAR3 \n 3N14 4N01 , ZATU694~d \n ... , ... \n 1N01 , PIRIG~a1 \n , ... \n 1N34 , GAR3 \n 3N01 , ZATU694~d \n 2N01 , ZATU694~b ",
             "compositeId": 0,
             "accountType": [
-                "economic"
+                "economic", "inventory"
             ],
             "features": []
         },
@@ -1464,7 +1464,7 @@
             "transliterationClean": " 5N01 , ZATU694~a AB~a RU ",
             "compositeId": 0,
             "accountType": [
-                "economic"
+                "economic", "single-entry"
             ],
             "features": []
         },
@@ -1481,7 +1481,7 @@
             "transliterationClean": " 1N48 1N34 , NUNUZ~a2 \n 2N34 , GAR3 \n 4N14 , ZATU694~d \n 2N34 ... , ... \n , TUM~a ",
             "compositeId": 0,
             "accountType": [
-                "economic"
+                "economic", "inventory"
             ],
             "features": []
         },
@@ -1515,7 +1515,7 @@
             "transliterationClean": " ... 6N01 , ZATU694~d \n 5N01 , ZATU694~b \n ... 1N01 , X ... \n 4N14 , GAR3 \n 2N01 , SZA3~a1 ",
             "compositeId": 0,
             "accountType": [
-                "economic"
+                "economic", "inventory"
             ],
             "features": []
         },
@@ -1532,7 +1532,7 @@
             "transliterationClean": " ... 2N34 , GAR3 \n ... 2N14 , ZATU694~d \n ... , ... \n ... , MUSZEN.UR3~b2 ... ",
             "compositeId": 0,
             "accountType": [
-                "economic"
+                "economic", "inventory"
             ],
             "features": []
         },
@@ -1634,7 +1634,7 @@
             "transliterationClean": " ... , AB2 X \n 1N14 , BA SZITA~a1 \n 8N01 , KU3~a \n 2N34 , AB2 SZITA~a1 \n 1N34 4N14 , SZITA~a1 U8 \n 2N14 , SZAxHI@g~a~b \n ... , ... \n 4N39~a , HI@g~a \n 3N39~a 1N24 1N28 , HI \n 1N01 2N39~a 1N24 1N28 , ... \n ... , ... \n 2N39~a ... , X ... \n , IDIGNA AN MEN~a ... \n , GESZTU~b ... ",
             "compositeId": 0,
             "accountType": [
-                "economic"
+                "economic", "inventory"
             ],
             "features": []
         },
@@ -1736,7 +1736,7 @@
             "transliterationClean": " ... , ... \n ... , ... \n 3N01 ... , DUG~b \n 1N01 , IR~a \n 4N01 ... , DUG~b \n 2N01 , GAN~b \n 1N01 , IR~a \n 2N01 , MA \n 1N01 , DUG~b \n 1N01 , IR~a \n 2N01 , MA \n 2N01 , ZATU662 \n 1N01 ... , ZATU662 ... \n 2N01 1N08 , HASZHUR ",
             "compositeId": 0,
             "accountType": [
-                "economic"
+                "economic", "inventory"
             ],
             "features": []
         },
@@ -1753,7 +1753,7 @@
             "transliterationClean": " 1N01 , SZU2 KAB NAM2 ",
             "compositeId": 0,
             "accountType": [
-                "economic"
+                "economic", "single-entry"
             ],
             "features": []
         },
@@ -1770,7 +1770,7 @@
             "transliterationClean": " 2N34 , GAR3 \n 2N14 , ZATU694~d \n 5N01 , NA~b \n 2N34 , GUL \n , GI KA~a ",
             "compositeId": 0,
             "accountType": [
-                "economic"
+                "economic", "inventory"
             ],
             "features": []
         },
@@ -1787,7 +1787,7 @@
             "transliterationClean": " 4N14 , GAR3 \n 7N01 , ZATU694~b AZU \n ... 1N14 2N01 , ... NA~b \n 3N14 , GAR3 \n 6N01 , ZATU694~b ",
             "compositeId": 0,
             "accountType": [
-                "economic"
+                "economic", "inventory"
             ],
             "features": []
         },
@@ -1855,7 +1855,7 @@
             "transliterationClean": " 3N01 , ",
             "compositeId": 0,
             "accountType": [
-                "economic"
+                "economic", "single-entry"
             ],
             "features": []
         },
@@ -1906,7 +1906,7 @@
             "transliterationClean": " 2N01 ... , ... ",
             "compositeId": 0,
             "accountType": [
-                "economic"
+                "economic", "single-entry"
             ],
             "features": []
         },
@@ -1923,7 +1923,7 @@
             "transliterationClean": " 4N01 ... , ",
             "compositeId": 0,
             "accountType": [
-                "economic"
+                "economic", "single-entry"
             ],
             "features": []
         },
@@ -1991,7 +1991,7 @@
             "transliterationClean": " 2N14 , IB~a GUM~a MAR~a UTUA~a U8 UD5~a A ... ",
             "compositeId": 0,
             "accountType": [
-                "economic"
+                "economic", "single-entry"
             ],
             "features": []
         },

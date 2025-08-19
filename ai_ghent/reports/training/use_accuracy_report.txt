@@ -12,9 +12,9 @@ weighted avg       0.94      0.94      0.94       460
 Label: assignment
               precision    recall  f1-score   support
 
-           0       1.00      0.72      0.83       250
-           1       0.75      1.00      0.86       210
+           0       1.00      0.71      0.83       250
+           1       0.74      1.00      0.85       210
 
-    accuracy                           0.85       460
+    accuracy                           0.84       460
    macro avg       0.87      0.86      0.84       460
-weighted avg       0.88      0.85      0.84       460
+weighted avg       0.88      0.84      0.84       460

@@ -23,7 +23,7 @@ warnings.filterwarnings("ignore")
 
 # Load the dataset
 script_dir = os.path.dirname(os.path.abspath(__file__))
-with open("ai/data/aiInput.json") as f:
+with open("ai/data/trainingData.json") as f:
     data = json.load(f)
 
 # Convert data to a pandas DataFrame
